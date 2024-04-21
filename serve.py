@@ -13,7 +13,8 @@ from langchain_core.output_parsers import StrOutputParser
 from langchain.chains.combine_documents import create_stuff_documents_chain
 from langchain.chains import create_history_aware_retriever, create_retrieval_chain
 from langchain.tools.retriever import create_retriever_tool
-from langchain_core.runnables import RunnablePassthrough, RunnableParallel
+from langchain_core.runnables import RunnablePassthrough, RunnableParallel, chain
+from langchain_core.pydantic_v1 import BaseModel, Field
 
 # Agents
 from langchain import hub
@@ -25,7 +26,6 @@ from langchain_core.documents import Document
 
 # To serve the app
 from fastapi import FastAPI
-from langchain.pydantic_v1 import BaseModel, Field
 from langchain_core.messages import BaseMessage
 from langserve import add_routes, CustomUserType
 
@@ -90,6 +90,8 @@ def get_wookieepedia_context(original_query: str, simple_query: str, wdb: Chroma
 llm = ChatOpenAI(model = 'gpt-3.5-turbo-0125', temperature = 0)
 
 
+## Base version (only one retriever)
+
 document_prompt_system_text = '''
 You are very knowledgeable about Star Wars and your job is to answer questions about its plot, characters, etc.
 Use the context below to produce your answers with as much detail as possible.
@@ -129,13 +131,13 @@ full_chain = create_retrieval_chain(woo_retriever_chain, document_chain)
 
 
 
-simplify_query_prompt = ChatPromptTemplate.from_messages([
-    ('system', 'Given the above conversation, generate a search query to find a relevant page in the Star Wars fandom wiki; the query should be something simple, at most 4 words, such as the name of a character, place, event, item, etc.'),
-    MessagesPlaceholder('chat_history', optional = True), # Using this form since not clear how to have optional = True in the tuple form
-    ('human', '{query}')
-])
+# simplify_query_prompt = ChatPromptTemplate.from_messages([
+#     ('system', 'Given the above conversation, generate a search query to find a relevant page in the Star Wars fandom wiki; the query should be something simple, at most 4 words, such as the name of a character, place, event, item, etc.'),
+#     MessagesPlaceholder('chat_history', optional = True), # Using this form since not clear how to have optional = True in the tuple form
+#     ('human', '{query}')
+# ])
 
-simplify_query_chain = simplify_query_prompt | llm | StrOutputParser() # To extract just the message
+# simplify_query_chain = simplify_query_prompt | llm | StrOutputParser() # To extract just the message
 
 
 
@@ -171,6 +173,41 @@ agent_executor = AgentExecutor(agent = agent, tools = tools, verbose = True)
 
 
 
+## Non-agent chain-logic version
+
+# Determine which retriever is best and generate an appropriate query for it
+class DirectedQuery(BaseModel):
+    '''Determine whether a query is best answered by looking at scripts rather than articles'''
+
+    query: str = Field(
+        ...,
+        description = '''The query to either search film scripts or wiki articles.
+        A film script query should include character names and relevant keywords of what they are saying in the a scene which is likely to contain the required information.
+        A wiki articles search should instead be at most 4 words, simply being the name of a character or location or event whose page is likely to contain the required information.''',
+    )
+    source: str = Field(
+        ...,
+        description = 'Either "wiki" or "scripts", indicating which source the query should be passed to.',
+    )
+query_analyser_prompt = ChatPromptTemplate.from_messages([
+        ('system', 'You have the ability to issue search queries of one of two kinds to get information to help answer questions.'),
+        ('human', '{question}'),
+])
+structured_llm = llm.with_structured_output(DirectedQuery)
+query_generator = dict(question = RunnablePassthrough()) | query_analyser_prompt | structured_llm
+
+retrievers = dict(wiki = woo_db.as_retriever(search_kwargs = dict(k = 4)), scripts = script_db.as_retriever(search_kwargs = dict(k = 4)))
+
+@chain
+def compound_retriever(question):
+    response = query_generator.invoke(question)
+    retriever = retrievers[response.source]
+    return retriever.invoke(response.query)
+
+compound_chain = create_retrieval_chain(compound_retriever, document_chain)
+
+
+
 ## Type specifications (with unusual class-scope fields)
 
 class StrInput(BaseModel):
@@ -198,12 +235,14 @@ app = FastAPI(
 
 
 # add_routes(app, script_db.as_retriever())
-add_routes(app, full_chain.with_types(input_type = StrInput, output_type = Output), playground_type = 'default')
+# add_routes(app, full_chain.with_types(input_type = StrInput, output_type = Output), playground_type = 'default')
 
 # NOTE: The chat playground type has a web page issue (flashes and becomes white, hence non-interactable; this was supposedly solved in an issue late last year)
 
 # add_routes(app, agent_executor, playground_type = 'chat')
 # add_routes(app, agent_executor.with_types(input_type = StrInput, output_type = Output))
+
+add_routes(app, compound_chain.with_types(input_type = StrInput))
 
 
 
