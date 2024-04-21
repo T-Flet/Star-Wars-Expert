@@ -43,7 +43,7 @@ dotenv.load_dotenv()
 ## Vector stores
 
 script_db = Chroma(embedding_function = SentenceTransformerEmbeddings(model_name = 'all-MiniLM-L6-v2'), persist_directory = r'scripts\db')
-woo_db = Chroma(embedding_function = SentenceTransformerEmbeddings(model_name = 'all-MiniLM-L6-v2'), persist_directory = r'wookieepedia_db')
+woo_db = Chroma(embedding_function = SentenceTransformerEmbeddings(model_name = 'all-MiniLM-L6-v2'), persist_directory = r'wookieepedia\db')
 
 
 
@@ -124,7 +124,18 @@ woo_retriever_prompt = ChatPromptTemplate.from_messages([
 woo_retriever_chain = create_history_aware_retriever(llm, woo_db.as_retriever(), woo_retriever_prompt) # Essentially just: prompt | llm | StrOutputParser() | retriever
 
 
-full_chain = create_retrieval_chain(script_retriever_chain, document_chain)
+# full_chain = create_retrieval_chain(script_retriever_chain, document_chain)
+full_chain = create_retrieval_chain(woo_retriever_chain, document_chain)
+
+
+
+simplify_query_prompt = ChatPromptTemplate.from_messages([
+    ('system', 'Given the above conversation, generate a search query to find a relevant page in the Star Wars fandom wiki; the query should be something simple, at most 4 words, such as the name of a character, place, event, item, etc.'),
+    MessagesPlaceholder('chat_history', optional = True), # Using this form since not clear how to have optional = True in the tuple form
+    ('human', '{query}')
+])
+
+simplify_query_chain = simplify_query_prompt | llm | StrOutputParser() # To extract just the message
 
 
 
@@ -136,12 +147,13 @@ script_tool = create_retriever_tool(
     '''Search the Star Wars film scripts. This tool should be the first choice for Star Wars related questions.
     Queries passed to this tool should be lists of keywords likely to be in dialogue or scene descriptions, and should not include film titles.'''
 )
-wookieepedia_tool = create_retriever_tool(
+woo_tool = create_retriever_tool(
     woo_db.as_retriever(search_kwargs = dict(k = 4)),
     'search_wookieepedia',
-    'Search the Star Wars fandom wiki. This tool should be used for queries about details of a particular character, location, event, weapon, etc., and the query should be something simple, such as the name of a character, place, event, item, etc.',
+    'Search the Star Wars fandom wiki. This tool should be the first choice for Star Wars related questions.'
+    # This tool should be used for queries about details of a particular character, location, event, weapon, etc., and the query should be something simple, such as the name of a character, place, event, item, etc.'''
 )
-tools = [script_tool, wookieepedia_tool]
+tools = [script_tool, woo_tool]
 
 agent_system_text = '''
 You are a helpful agent who is very knowledgeable about Star Wars and your job is to answer questions about its plot, characters, etc.
@@ -159,6 +171,7 @@ agent_executor = AgentExecutor(agent = agent, tools = tools, verbose = True)
 
 
 
+## Type specifications (with unusual class-scope fields)
 
 class StrInput(BaseModel):
     input: str
@@ -167,12 +180,11 @@ class Input(BaseModel):
     input: str
     chat_history: list[BaseMessage] = Field(
         ...,
-        extra = {'widget': {'type': 'chat', 'input': 'location'}},
+        extra = dict(widget = dict(type = 'chat', input = 'location')),
     )
 
 class Output(BaseModel):
     output: str
-
 
 
 
@@ -185,9 +197,6 @@ app = FastAPI(
 )
 
 
-
-## Adding chain route
-
 # add_routes(app, script_db.as_retriever())
 add_routes(app, full_chain.with_types(input_type = StrInput, output_type = Output), playground_type = 'default')
 
@@ -195,6 +204,7 @@ add_routes(app, full_chain.with_types(input_type = StrInput, output_type = Outpu
 
 # add_routes(app, agent_executor, playground_type = 'chat')
 # add_routes(app, agent_executor.with_types(input_type = StrInput, output_type = Output))
+
 
 
 if __name__ == '__main__':
