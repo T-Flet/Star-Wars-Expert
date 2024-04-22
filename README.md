@@ -1,3 +1,12 @@
+---
+title: Star-Wars-Expert
+colorFrom: yellow
+colorTo: yellow
+sdk: docker
+app_file: app.py
+pinned: false
+---
+
 # Star-Wars-Expert
 A LLM with RAG making it knowledgeable about Star Wars plot and data.
 
