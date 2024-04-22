@@ -5,7 +5,7 @@ from langchain_community.document_loaders import DirectoryLoader, TextLoader, We
 # from langchain_chroma import Chroma # The documentation uses this one, but it is extremely recent, and the same functionality is available in langchain_community and langchain (which imports community)
 from langchain_community.vectorstores import Chroma # This has documentation on-hover, while the indirect import through non-community does not
 from langchain_community.embeddings.sentence_transformer import SentenceTransformerEmbeddings # The free alternative (also the default in docs, with model_name = 'all-MiniLM-L6-v2')
-from langchain.text_splitter import RecursiveCharacterTextSplitter#, TextSplitter # Recursive to better keep related bits contiguous (also recommended in docs: https://python.langchain.com/docs/modules/data_connection/document_transformers/)
+from langchain.text_splitter import RecursiveCharacterTextSplitter # Recursive to better keep related bits contiguous (also recommended in docs: https://python.langchain.com/docs/modules/data_connection/document_transformers/)
 
 # Chains
 from langchain.prompts import PromptTemplate, SystemMessagePromptTemplate, HumanMessagePromptTemplate, ChatPromptTemplate, MessagesPlaceholder
@@ -24,11 +24,6 @@ from langchain.agents import create_tool_calling_agent, AgentExecutor
 from langchain_core.messages import HumanMessage, AIMessage
 from langchain_core.documents import Document
 
-# To serve the app
-from fastapi import FastAPI
-from langchain_core.messages import BaseMessage
-from langserve import add_routes, CustomUserType
-
 import requests
 from bs4 import BeautifulSoup
 
@@ -38,6 +33,8 @@ import re
 
 import dotenv
 dotenv.load_dotenv()
+
+
 
 
 ## Vector stores
@@ -205,50 +202,5 @@ def compound_retriever(question):
     return retriever.invoke(response.query)
 
 compound_chain = create_retrieval_chain(compound_retriever, document_chain)
-
-
-
-## Type specifications (with unusual class-scope fields)
-
-class StrInput(BaseModel):
-    input: str
-
-class Input(BaseModel):
-    input: str
-    chat_history: list[BaseMessage] = Field(
-        ...,
-        extra = dict(widget = dict(type = 'chat', input = 'location')),
-    )
-
-class Output(BaseModel):
-    output: str
-
-
-
-## App definition
-
-app = FastAPI(
-  title = 'LangChain Server',
-  version = '1.0',
-  description = 'Simple version of a Star Wars expert',
-)
-
-
-# add_routes(app, script_db.as_retriever())
-# add_routes(app, full_chain.with_types(input_type = StrInput, output_type = Output), playground_type = 'default')
-
-# NOTE: The chat playground type has a web page issue (flashes and becomes white, hence non-interactable; this was supposedly solved in an issue late last year)
-
-# add_routes(app, agent_executor, playground_type = 'chat')
-# add_routes(app, agent_executor.with_types(input_type = StrInput, output_type = Output))
-
-add_routes(app, compound_chain.with_types(input_type = StrInput))
-
-
-
-if __name__ == '__main__':
-    import uvicorn
-
-    uvicorn.run(app, host = 'localhost', port = 8000)
 
 
