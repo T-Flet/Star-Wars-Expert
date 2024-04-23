@@ -1,0 +1,182 @@
+Death Star II
+
+
+Production information
+
+Manufacturer
+Imperial Department of Military Research
+
+
+Model
+Death Star II battlestation
+
+
+Type
+Battlestation
+
+
+Cost
+Unknown
+
+
+
+Technical specifications
+
+Diameter
+160 kilometers
+
+
+MGLT
+20 MGLT
+
+
+Engine unit(s)
+Ion drives (incomplete as of 4 ABY)
+
+
+Hyperdrive rating
+Class 3.0Class 20.0 (backup)
+
+
+Shielding
+Equipped
+
+
+Armament
+Concave Dish Composite Beam Superlaser (1)Turbolaser batteries (15,000)Heavy turbolaser batteries (15,000)Laser cannons (7,500)Ion cannons (5,000)Tractor beam generators (768)Tractor beam emplacements (1,500)
+
+
+Complement
+TIE starfighters (7,200: various models)[source?]Scimitar SquadronScythe SquadronCapital ships (16)[source?]Lambda-class shuttles (3,600)[source?]GAT-12 Skipray Blastboats (2,480)[source?]Dropships (1,860)[source?]Support craft (13,000)[source?]AT-ATs (1,400)[source?]AT-STs (1,400)[source?]Repulsortanks (1,420)[source?]Repulsorcraft (1,420)[source?]HAVw A5 Juggernauts (4,843)[source?]PX-4 Mobile Command Bases (178)[source?]HAVr A9 Floating Fortresses (355)[source?]
+
+
+Docking bays
+Hangar 272
+
+
+Crew
+Crew (485,560)Gunners (152,275)Troops (1,295,950)Infantry (127,570)Technical personnel (75,860)Support ship pilots and crew (334,432)
+
+
+Consumables
+3 years
+
+
+
+Usage
+
+Role(s)
+BattlestationBattleship (dreadnought)Carrier[source?]
+
+
+Affiliation
+Galactic EmpireIG-88's Droid Army (secretly)
+
+
+Destroyed
+4 ABY (39:3 GrS)
+
+
+Present for battles/events
+Battle of Endor
+
+
+Owner(s)
+Galactic Empire
+
+
+Crewmembers
+Colonel Davod JonLieutenant EndicottCaptain SarkliSergeant Jad BeanUnidentified Death Star trooperR2-Q5R5-J2
+
+
+Commander(s)
+Moff Birra SeahMoff Tiaan Jerjerrod
+
+
+Points of interest
+Death Star command centerEmperor's TowerEmperor's Throne Room
+
+
+Sectors/areas
+Theta Sector
+
+
+[Source]
+
+
+
+"That blast came from the Death Star! That thing's operational!"
+―Lando Calrissian
+The Death Star II was the second Death Star battlestation to be constructed by the Galactic Empire. It was the same size as its predecessor, measuring 160 kilometers in diameter, and was built after the destruction of the first Death Star at the Battle of Yavin. Darth Sidious insisted on the reconstruction of the battlestation as it was an integral part in his plan to destroy the Rebel Alliance, leaving the galaxy in the hands of the Empire.
+The Death Star's superlaser was revealed to be operational before the construction of the station was completed, surprising the Alliance attackers during the Battle of Endor. This was Darth Sidious' plan all along, and it nearly led to the loss of the Rebels. The Alliance ground forces on the forest moon of Endor managed to deactivate the energy shield surrounding the battlestation, and the Rebel fleet proceeded to destroy the station from within, signifying the beginning of the downfall of the Empire.
+
+Description
+
+"It is protected by an energy shield which is generated from the nearby forest moon of Endor. The shield must be deactivated if any attack is to be attempted."
+―Admiral Gial Ackbar
+     The area around the equatorial trench, still under construction  
+Like its predecessor, the Death Star II was made of quadanium steel and equally divided into two hemispheres, which were in turn subdivided into 12 zones. The newest iteration of this dreaded superweapon, however, had a diameter of 160 kilometers.
+The second iteration of the battlestation was also designed by engineer Bevel Lemelisk, the original Death Star's designer. Lemelisk was executed for the design flaws in the final version of the destroyed Death Star I, but was cloned by Emperor Palpatine in order to redesign the superweapon, eliminating the flaws of the former battlestation. In the newest version, he added thousands of turbolasers while removing any external weaknesses.
+The most important revisions to the Death Star design made by Lemelisk were made to take into account and eradicate the technical flaws of the original battlestation which had enabled it to be destroyed during the Battle of Yavin. The first major change made in this redesign was the elimination of the two-meter-wide thermal exhaust port that was used to ignite a chain reaction in the main reactor of the first Death Star, destroying it. This was greatly improved, from a defensive standpoint, in the new revision. Instead of venting gases out of a single port, millions of millimeter-wide exhaust ports were scattered over the surface of the station, each of which propelled a small amount of the excess heat and gases into the vacuum. The new system also took advantage of new highly-advanced protections and safe-guards that would seal the small exhaust ports in the event of any unexpected excess of heat or energy.
+
+     One of the smaller hangars on the Death Star II  
+The second main advancement in the second Death Star battlestation was the improvement of its superlaser. Still located in the northern hemisphere of the battlestation, the much improved superlaser equipped in the second Death Star was much more powerful than its predecessor, and took only three minutes to recharge, in comparison to the 24 hour recharge required for the first Death Star's superlaser. In addition, while the first Death Star only had the capabilities to fire on very large targets, such as planetary bodies, the improved superweapon was upgraded with additional lower-power weapon fire options and targeting systems that were more suited for fine-tuned accuracy, while still maintaining great destructive power, in order to fire the powerful weapon on enemy capital ships. Unlike the previous Death Star's superlaser that consisted of eight equal sized tributary beams circling the dish, the Second Death Star's superlaser consisted of seven equal sized tributary beams around the dish and one large beam in the center. The increased external surface area of the new station also allowed for larger amounts of conventional armaments, such as turbolasers and other defense batteries, to be placed, further increasing the already impressive Death Star's defenses.
+The third main advancement in the second Death Star battle station was that it now carried three hypermatter reactors, two of which were used solely for the Superlaser Mk. II, making it immensely more powerful than the Superlaser Mk. I used on the first Death Star, which had to share its one hypermatter reactor between all the systems aboard it.
+
+History
+Construction
+
+"Many Bothans died to bring us this information."
+―Mon Mothma
+     The Death Star II under construction near Endor  
+The idea for the second Death Star's development originated as one of two possible scenarios by Bevel Lemelisk and the Imperial Department of Military Research for further development of the Death Star's development, shortly after the completion of the first Death Star. The second Death Star's construction started during the Battle of Yavin, when Darth Sidious ordered the construction of new superlasers, to which the resources for its construction, including Hyperspace tugs and threadships, would be sent from their origin near Sullust to Endor via the Silvestri Trace, an obscure hyperspace route. Ironically, he issued this order shortly before the first Death Star's destruction at the hands of Luke Skywalker.
+Different from the Empire's first Death Star, which, as a result of supply and design problems, took twenty-one years to be considered an operational battlestation, this much larger Death Star took far less time to construct. Methods of faster construction had been developed in the years since the original station's conception, added to the fact that Imperial engineers made sure to allocate enough space on the station for the maximum possible amount of self-replicating construction droids.
+The second Death Star's building location remained secret from the Alliance, unlike the first station's construction site at Despayre. After the initial stages of construction, the station was put under the command of Darth Vader during its relocation to a new construction site in the Endor system. Endor was selected due to the massive concentration of strategic metals on the planets Dor, Eloggi, and Megiddo in the system, but the actual construction site was in geosynchronous orbit around the forested Sanctuary Moon, protected by a powerful shield generator on the moon's surface. Its remote status also further reflected the severity of Darth Vader's punishment for his failure at Yavin, due to his being assigned there to oversee the initial construction efforts in the area as well as his being demoted from his position as commander of the primary Imperial fleet.
+
+
+
+This section of the article assumes 100% game completion of Star Wars: The Interactive Video Board Game. Any alternate stories may be noted in the "Behind the scenes" section. The events in this section may or may not have been confirmed as canon within the Star Wars Legends continuity.
+
+During the journey, Vader diverted the Death Star from its path to eliminate a large Rebel Alliance presence on the planet D'rinba IV. A Rebel strike team led by Corwin Shelvay was able to prevent the planet's destruction, but was unable to warn the Fleet of the superlaser's operational status in time.
+
+Assumption ends here.
+     The Death Star II reactor core shaft.  
+At the new location of the battlestation, in the Moddell sector, construction resumed soon after the superweapon's arrival. Recommissioned from his former position of Moff of the Quanta sector, Moff Tiaan Jerjerrod was placed in charge of supervising the final stages of the station's construction.
+Resources that could not be produced locally were secretly ferried to the distant world from all over the galaxy along the Sanctuary Pipeline, with some of the materials shipped to the area on three hundred ships from Prince Xizor's civilian company Xizor Transport Systems. It is unclear what percentage of construction material the XTS haulers carried, or whether the outsourcing was genuinely necessary. Darth Sidious not only anticipated Xizor's decision to pass on the location of the Death Star II to the Rebel Alliance, but even leaked his personal schedule so the Rebels would know when he would personally be aboard. This may have been the sole reason for his involvement of the Falleen in the first place.
+IG-88A, a droid bounty hunter, had uploaded his consciousness into a computer core that was in transit to the location of the second Death Star. When the computer core was installed into the battlestation, the entire Death Star effectively became IG-88A's droid body. He took control of the computer systems on board the station, and planned to use the superweapon to further his Droid Revolution. Although many incidents of computer commands being executed autonomously occurred, they were simply documented as technical faults and glitches. Darth Sidious was the only one to recognize any strange happenings, as IG-88A played a joke on the Emperor by shutting doors in front of him.
+
+Acquiring the Death Star II plans
+ Main article: Death Star II plans
+
+"Everything that has transpired has done so according to my design."
+―Darth Sidious
+The first bits of information linked to the construction of the second Death Star came by way of Imperial defector Commander Zaletta, hoping to prove his integrity to the Alliance. High on the Imperial command structure, Zaletta had a vast knowledge of secret Imperial projects. He informed the Alliance of a secret Imperial research facility in the Kuat system testing a new experimental reactor system, which was likely connected to the Death Star. Next, he informed the Alliance that a massive Imperial convoy was to pass through the Eidoloni system. It was discovered that the convoy, which consisted of XTS cargo freighters and was protected by a very large escort including the Victory II-class Star Destroyers Protector and Vanguard, was carrying construction material. The convoy was, unknown to the Alliance at the time, headed for the Death Star II construction site over the forest moon of Endor.
+
+     The Death Star II's superlaser with eight tributary beams.  
+Shortly before the Battle of Yavin, a Mistryl Shadow Guard team led by Manda D'ulin was able to steal a prototype section of the second Death Star's superlaser from an Imperial research facility on Gorno. The model, codenamed Hammertong, was installed on a Strike-class medium cruiser, which Shada D'ukal and Karoly D'ulin crash-landed in the Dune Sea on Tatooine. Their astromech droid, Deefour, containing the technical readouts of Hammertong, was later stolen by a Rebel Alliance member named Riij Winward.
+The actual plans concerning the existence of the Death Star and its location first came into Rebel hands via the devious scheming of Prince Xizor, under authorization of Darth Sidious. It is uncertain though, if the Emperor did not first concoct a similar plot, and only allowed Xizor to believe it was his own idea in order to use the criminal leader as a pawn. Xizor leaked information of a massive construction project being undertaken by the Empire to the Bothan Spynet through a female Black Sun contact, which likely was his own personal aide, Guri. The Bothans first attempted to learn of the details of this project by bribing a high-ranking Imperial officer into allowing them to infiltrate a slicer droid into the Coruscant computer network to locate and copy the plans, though this plan failed. They did, however, learn that that project details were being held in closely guarded special computers, of which one of these was being shipped secretly from Coruscant to Bothawui disguised as a simple freighter carrying fertilizer. Koth Melan, a leader of the Bothan Spynet, chose to relay this knowledge to the Alliance for free, rather than sell the information as Bothans were known to do, out of disgust for the execution of his father by the Empire. Luke Skywalker and Dash Rendar, along with a group of Bothans with Alliance sympathies, planned to intercept the Imperial freighter Suprosa at Bothawui and steal the secret computer.
+Skywalker, in his personal X-wing, and Rendar, in his YT-2400 light freighter Outrider, were joined by a dozen BTL-S3 Y-wing starfighters piloted by the squad of Bothans and Alliance pilot Ace Azzameen. They successfully intercepted the Suprosa as it exited hyperspace, but quickly learned that the seemingly defenseless freighter was in fact heavily armed and shielded, and instructed not to surrender its cargo without a fight. The freighter managed to launch a single diamond boron missile, which destroyed four of the Y-wings. Before Skywalker and Azzameen managed to subdue the freighter, six Y-wings were destroyed in total, including all twelve Bothan pilots on board. Rendar then boarded the Suprosa with a group of Bothans led by Melan to capture the computer. The resistance of the Suprosa was to ensure that the Alliance did not believe they had acquired the information too easily, thus suspecting it to be compromised. In order to prevent losing the supercomputer to a self-destruction device, Melan took it to the Bothan colony world of Kothlis to be decrypted by a special team. Inside a safehouse on Kothlis, Bothan technicians working on the computer had just tapped into its data when a group of bounty hunters blasted into the facility looking for Skywalker, unaware of the computer's existence. A single Bothan managed to escape the safehouse and the planet with the computer along with Borsk Fey'lya aboard his personal shuttle, Fey'lya's Pride, just as Darth Vader and his personal flagship Executor arrived in system along with the Imperial II-class Star Destroyer Avenger.
+Vader was sent to Kothlis by the Emperor both to collect Skywalker, who was being held prisoner on the planet by the group of bounty hunters, and also to further make it appear as if the Empire was genuinely concerned with the loss of the stolen computer. The shuttle transferred the lone Bothan and the computer with half of the plans to one of two CR90 corvettes with the name Razor, which was stationed near Kothlis II, a Rebel outpost platform in orbit over the planet. The two Star Destroyers destroyed the Kothlis II facility, but were unable to prevent Razor and the Death Star plans from escaping into hyperspace. However, the Avenger soon caught up with and captured the Razor a short time later, although the Bothan fled desperately with the supercomputer aboard an escape pod. The pod was picked up by the civilian Dreadnaught cruiser Mercury, from which it was transferred to the Mon Calamari Star Cruiser Independence. Meanwhile, the other Razor was entangled in a conflict with the Imperial I Star Destroyer Motivator over Kothlis, of which the latter was eventually shot down over Kothlis by Rogue Squadron. They then entered Kothlis's atmosphere to retrieve the data from the Motivator's wreck. Afterwards, the data was finally secured and decrypted, and the existence of the Death Star realized. Likewise, a mission to Korriban by Renegade Squadron, where they were to trap Darth Sidious long enough to steal his datapad to find anything useful, revealed that Palpatine was to personally oversee the construction of the Death Star II.
+
+     The Death Star II in orbit over Endor during the Battle of Endor.  
+In order to confirm the newly acquired information on the second Death Star, a group of Bothans covertly infiltrated the Death Star II construction site in the Endor system aboard three freighters disguised as cargo haulers. There, they determined that construction was indeed taking place over the Forest Moon of Endor, that the battlestation was being protected by an energy shield projecting from the Sanctuary Moon, and that the Death Star's main superlaser was not yet operational, though this final piece of information would turn out to be false. As these Bothans were returning to rendezvous with the Alliance fleet with their reconnaissance data, they were stopped by the Imperial II-class Star Destroyer Accuser and the Immobilizer 418 cruiser Grappler as part of an Imperial Customs patrol searching for the spies. A flight of X-wings and A-wings attached to the Mon Calamari Star Cruiser Liberty arrived and managed to drive off the Interdictor cruiser, allowing one of the Bothan freighters to escape to the Alliance fleet. The remaining two ships were destroyed by the Accuser and all Bothans aboard were killed. Still, the deaths of many Bothans enabled the Alliance to coordinate the attack that destroyed the second Death Star.
+The Empire eventually utilized the Death Star II as bait for a trap against the Rebel Alliance. They also planned on using the battlestation's superlaser on Dac and Chandrila after wiping out the Rebel Alliance at Endor.
+
+Battle of Endor
+ Main article: Battle of Endor
+
+"It's a trap!"
+―Admiral Ackbar during the Battle of Endor —  Listen (file info)
+Soon after learning of the secret location of the unfinished second Death Star, the Alliance met secretly at Sullust and formed battle plans for their assault on the station above the forest moon of Endor. There, the orbiting Death Star was protected from any external attacks by a surrounding energy shield projected from the moon's surface. It would have to be disabled before any forces could engage the battlestation itself.
+
+     The Death Star II firing its superlaser at a Mon Calamari Star Cruiser over Endor.  
+With that in mind, the Alliance split their forces into two teams, each with separate goals. A small ground squad, consisting of General Han Solo, Chewbacca, Leia Organa, Luke Skywalker, the droids C-3PO and R2-D2, and numerous other Rebel commandos, was dispatched down to the surface of the forest moon of Endor, with the goal of disabling the energy shield. The Alliance fleet, led by General Lando Calrissian piloting the Millennium Falcon, would then arrive to destroy the main reactor of the Death Star from the inside: the Alliance fleet would provide a distraction of sorts, engaging the Imperial fleet, while the Falcon and a small detachment of fighters would fly directly into the station's core and destroy the main hypermatter reactor core.
+Eventually, after several ships in the Rebel fleet, including the Liberty, the Urjani, the Redemption, and an MC80 Home One type Star Cruiser were destroyed, the ground team on Endor succeeded in destroying the shield projector, with the help of the indigenous Ewoks, allowing General Lando Calrissian and several starfighters of the fleet to commence their run on the station's main reactor. The pilots flew through the very tight coolant shaft and the station's capacitators to the center of the massive station, and detonated the core with well placed concussion missiles, launched by the Falcon, and proton torpedoes launched from an X-Wing fighter piloted by Wedge Antilles targeting the reactor's primary control tower. The projectiles all connected with their targets and the resulting explosion created a reaction which destroyed the space station completely. Just prior to the destruction, a large amount of the non-essential crew underwent an evacuation order.
+
+     The second Death Star is destroyed over Endor.  
+The explosion of the station's hypermatter core created a minor wormhole at its collapse. Most of the station's wreckage was instantly obliterated, though some would pass through said wormhole, including Darth Vader's right glove. While some debris ended up on Mon Calamari, it is believed that more was dispersed throughout the galaxy. The wreckage that was not destroyed and did not enter the wormhole remained in Endor's orbit or fell to the moon's surface, though most of the wreckage that fell towards the moon was picked up by the Rebels with tractor beams, before it could cause too much damage.
+
+Behind the scenes
+     Death Star II schematics  
+There are discrepancies regarding the size of the Death Star II, which has generated some controversy. The West End Games RPG initially claimed that the second Death Star had a diameter of 160 kilometers. The majority of Expanded Universe material since then has repeated this number, although the Inside the Worlds of Star Wars Trilogy fact book, via detailed scaling of the station in the film and statements by ILM visual effects designer Richard Edlund show that the second Death Star was actually over 900 kilometers in diameter. The Official Site's Databank updated its article in 2008 to reflect the higher number. Star Wars Insider 105 also included this size. However, the Death Star Owner's Technical Manual changed the size back to 160 km.
+If the players do not win the Interactive Video Board Game, Darth Vader destroys D'rinba IV. However, since the in-game objective is to prevent him from doing so, the outcome due to failure results in an apocryphal version of events as regards canon.

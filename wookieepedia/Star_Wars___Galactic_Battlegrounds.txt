@@ -1,0 +1,619 @@
+Star Wars: Galactic Battlegrounds
+
+Production information
+
+Developer(s)
+Ensemble StudiosLucasArts
+
+
+Publisher(s)
+LucasArtsAspyr MediaElectronic Arts SquareDisney Interactive Studios
+
+
+Release date
+November 13, 2001
+
+
+Game engine
+Genie Engine
+
+
+Genre
+Real-time strategy
+
+
+Modes
+Single player campaignsSingle player skirmishMultiplayer
+
+
+Rating(s)
+ESRB: Teen (T)  USK: 12
+
+
+Platform(s)
+PC, Mac
+
+
+[Source]
+
+Star Wars: Galactic Battlegrounds is a 2001 real-time strategy game, developed by Ensemble Studios and LucasArts, who also published the game in North America. The Japanese version published by Electronic Arts and Squaresoft Joint Venture Electronic Arts Square. It was released on November 13, 2001.
+The game was built on the Genie Engine that was used to build the Age of Empires II game. An expansion pack was released in 2002, featuring elements from Star Wars: Episode II Attack of the Clones. Later that year, both Galactic Battlegrounds and Clone Campaigns were released in a box set, Star Wars: Galactic Battlegrounds Saga.
+
+Plot summary
+Episode I campaigns
+The original game has six campaigns. Some of the missions represent battles from the movies, like the Battle of Hoth.
+
+The first campaign (the tutorial) centers on Attichitcuk, his son Chewbacca, and Chewbacca's cousin Shoran and their quest to rid Alaris Prime of the Trade Federation. You are guided through the tutorial by Qui-Gon Jinn.
+Alaris Prime colonial war
+Attack on Attichitcuk's camp
+Attack on the Wookiee command center
+Skirmish at the gundark nest
+Rescue of Attichitcuk
+Attack on the Trade Federation outpost
+Attack on the Trade Federation listening array
+Battle for Alaris Prime
+     Naboo Security Officers outside a Naboo city  
+The second campaign from Star Wars: Episode I The Phantom Menace is that of the Trade Federation. It follows OOM-9, the de facto droid leader of the Trade Federation's army.
+Battle of Naboo
+Subjugation of Parrlay
+Capture of Harte Secur
+Invasion of Spinnaker
+Fall of Theed
+Naboo Swamp Battle
+Battle of the Great Grass Plains (non-canon, alternate history simulation)
+     A Gungan establishment  
+The third campaign is that of the Gungans, centered first on Boss Gallo, then Boss Rugor Nass, the leader of the Gungans at the time of Episode I.
+War of the Gungan tribes
+Battle of Otoh Sancture
+Battle of the Forest Cities
+Battle of Spearhead
+Battle of Naboo
+Second Battle of Spinnaker
+Liberation of Harte Secur
+Battle of Theed (non-canon)
+Episode IV, V, and VI campaigns
+The fourth campaign of the standard game is the campaign of the Galactic Empire. Darth Vader is your main character in this campaign, and the events take place just before and during Star Wars: Episode V The Empire Strikes Back.
+Evacuation of Yavin
+Occupation of Reytha
+Battle of Zaloriis
+Battle of Hoth
+Occupation of Bespin
+Battle of Endor around the Shield generator (non-canon)
+The fifth campaign is the campaign of the Rebel Alliance. Your main character this time around varies from level to level, but Princess Leia Organa appears in all the missions. In the early ones, Jedi Master Echuu, and later with Luke Skywalker. The events of this campaign are outside the scope of the movies, not including the battle of Endor and Hoth.
+Krantian Civil War
+Battle of Geddes
+Battle of Hoth
+Battle of Endor
+Battle of Hanoon
+Battle in the Silken Asteroids (before Episode IV)
+The sixth and final campaign is the Wookiee campaign. This campaign takes place after Star Wars: Episode VI Return of the Jedi, during which time the Imperial remnants are trying to keep the Empire together, and have attacked Kashyyyk. The main characters of this campaign are Han Solo and Chewbacca. Attichitcuk appears, as do Lando Calrissian, Shoran and Luke Skywalker.
+Liberation of Kashyyyk
+Liberation of Kessel
+The Royal Naboo also appear in the Gungan and the Trade Federation campaigns but have no campaign on their own. However, they are playable in standard gameplay, multiplayer, and the scenario editor.
+Gameplay
+At commencement of the game, each player can choose one of the available factions and will begin a typical game with a command center and a handful of workers. The idea of the game is to gather resources, build units and research technologies to ultimately conquer ones opponents. When a certain amount of resources have been stockpiled, they can be used to advance to the next technology level which opens up new construction and research options, as well as unlocking newer and upgraded units.
+If the game begins with the First Tech Level, each player is limited in what can be built. Aside from a few basic troopers who are fairly useless except as scouts, most construction options revolve around the player's economy and getting that off the ground. Once 500 food has been stockpiled, the player will have the option to advance to the Second Tech Level. This will open up more buildings and units forming basic armies. 800 food and 200 nova will allow advancement to the Third Tech Level, where combat can become truly three dimensional with the ability to construct air units. 1000 food and 800 nova will let the player advance to the Fourth and final Tech level, where expensive upgrades are available but the benefits they bring to one's faction are often worth the excessive cost.
+Each worker unit, which often takes the form of labor droids, Wookiees, or whatever suits the player's faction, can be individually controlled by the player and they can be ordered to gather resources, construct buildings and even attack enemy units and buildings.
+
+     Muja fruit bushes  
+There are four types of resources, all of which need to be gathered at a steady rate in order to supply a constant flow of resources: Carbon is used primarily to construct buildings and is often used in technology research and can be found in trees or in "carbon deposits." Food is used to help train units and can also be used to a lesser extent in technology research. Food can be gathered from muja fruits, fish, hunting or farms, and from nerfs or banthas housed in an animal nursery. Nova crystals are used primarily in technology research and to train some units. They are also used as currency at the marketplace, where buy and sell prices are listed in nova crystal value. The crystals are primarily mined but can also be traded for other resources at the marketplace. Trade caravans can deposit a fixed amount of crystal between two marketplaces and holocrons can provide a steady stream if housed at a Jedi Temple or Sith Temple. Finally, there is ore, which is mostly used to construct fixed defensive structures like turrets, fortresses and anti-air defenses as well as in some technology research. Ore is often the scarcest resource on the map, and the player will have to buy extra at the marketplace once exhausted.
+
+Cheats
+While playing, press Enter to open up the chat screen. Type one of the following codes and press Enter again. Some codes only work when you highlight a unit.
+
+forceexplore – Entire map is explored.
+forcesight – Remove fog of war.
+forcebuild – Building, harvest, and research time becomes instant. (This happens to all teams, including the enemy.)
+forcecarbon – Get 1,000 carbon.
+forcenova, forcenovacrystals – Get 1,000 nova.
+forceore – Get 1,000 ore.
+forcefood – Get 1,000 food.
+tarkin – Destroy everything belonging to all other players
+darkside(1-8) – Destroy a specific civilization according to their # (1-8).
+skywalker – Win the battle.
+simonsays – Get Simon the Killer Ewok.
+scaryneighbor – Get a Bongo Marauder.
+tantive iv - Get a Rebel Blockade Runner.
+that's no moon - Get a Death Star.
+imperial entanglements - Get a Star Destroyer.
+Easter eggs
+     Simon, the killer Ewok  
+Some levels also featured some easter eggs: In some marginal and hard-to-reach places (like mountain peaks, or areas behind trees that have to be harvested in order to reveal), some well-known characters can be found if the player decides to explore the corners of the map with air units:
+
+On Naboo, during the second Trade Federation mission there is a place where you find Qui-Gon Jinn, Obi-Wan Kenobi, and Jar Jar Binks.
+In the third mission of the Gungan campaign, Luke Skywalker, Yoda and R2-D2 can be spotted standing near Yoda's hut.
+In the fourth Gungan mission OOM-9 can be spotted in the eastern corner of the map.
+On Tatooine, C-3PO and R2-D2 can be found next to an escape pod.
+On the first two Imperial missions, Mara Jade can be found somewhere on the map, though this requires cheat codes and she runs away when seen. Darth Vader will sometimes ask, "What is this?" when the player locates Jade.
+Simon and Bongo Marauder appear when cheat codes are entered (see above).
+One of the game's taunts is a parody of Samuel L. Jackson's line in Pulp Fiction: "Pigs are filthy animals. I don't eat filthy animals." In the game, "pigs" becomes "banthas."
+A secret level can be found in the first Wookiee campaign; if the player advances to Tech Level 3, they can build a fighter, then pilot it to the far right of the map. This will uncover Obi-Wan Kenobi and Captain Quarsh Panaka, and will begin a mission to rescue Padmé Amidala from Tusken Raiders.
+When you click on an Imperial trooper he will occasionally say the phrase "THX-1138 ready, sir." This is a reference to THX-1138, the first movie made by George Lucas.
+When you click on an AT-AT walker, the pilot will sometimes respond by saying "They won't be back for the sequel," which breaks the fourth wall.
+Aurebesh texts
+Galactic Battlegrounds also contains many text easter eggs, found in the game's briefing/debriefing screens. While many of the screens contain gibberish phrases, some seem to be inside jokes between LucasArts employees. Notable excerpts are presented here by civilization:
+
+Gungan: boss gallo/he has a big robe/one four/mesa sicka gungan guys; jerb wi 2 wjbe eks oh and by the way this is boss rogoe/a slave gungan why did george have to bring jar jar back in ep2?; so sad its my last day/i am going to miss this/its a game i hope like it; the two jedi in the gungan city hey did anyone see any gungan women?; orb of peace/naboo is victorious/long live naboo/PCP
+Wookiees (Colonization of Alaris Prime): chewie/jp i love you/two one/harvesting food/status: not done yet/tomorrow for sure; image one/one two/wookiees approach/status; guarded heavy/will move forward cautiously/end transimission; obi-wan's lightsaber is long and dngerous/two hands are better than one/the ring; one two four/final town buildings/qui-gon/status: obi-wan is lost/check out the trees/hes in there
+Trade Federation: teh tf tanks dstryd the the buildings/-dstry-capture-pillage; the search for the gungans has ended/c-whats d-up; -warning-droids no longer functioning
+Galactic Empire: ooold/vader speaks/the lord of the sith/dodonna learns his lesson; Salvage the rebel base--take all survivors to command/processing for detention block b; mara jade occupation: bad ass/location death star code red surveylance; stormtroopers bad guys/s--jim tudner f--bob billy newman b--jack burton k--mike terpsta j--chris williams l--paul c pierce f--haden blackman; [The names of Paul Pierce and John Paul Soto appear at the bottom of all screens in the Imperial campaign.]
+Rebel Alliance: random troopers/joey russo/this is echu shen can yog guess it really is; [Screen displays two X-wings flying over a forest] bob see any deer/yeah this is more fun than those banthas/not yet remember year when got that buck with my proton torpedo; all your base are belong to us; -you are here (pl)ease keep all (han)ds inside the boat at all times; yes its an eye ball uh 282n good old rotj; leia and luke looking on at rebels/what will they do who knows: ben kenobi does; boom yey the empire bast is one fire too bad its not jar jar/and this is fire shooting out of the doorw ohh ahh; the rebel transport ship otherwise known as a tunaboat/kiptan the boat smells like fish again/this will be earth in a few million years who would have ever thought; future site of dr. evil's new asteroid base...ohh haha
+Wookiees (Liberation of Kashyyyk): han chewie buddies/solo action status: huge/gone today; bowcaster safety lock/chewie will kick your ass; run chewie/one two three/wookiee transports sail across the water; sttus: safe and secure/next mission comb matted fur; many parties among the trees/hiding ewok babies/wookiee party house; run run/free at last today/wookiee freedom at last/lando and han looking on
+Game types
+The original game comes with six solo-player campaigns with the expansion pack adding two more, all of which reflect events in galactic history. There is also a Standard Game feature, which pits human player(s) against a set number of AI opponents for control of a map. The standard goal is to defeat one's enemies by either forcing surrender or annihilation. Other variations include race to construct a Monument first, "King-Of-The-Hill" and regicide.
+
+Technology and research
+To acquire technology, the player must first construct buildings. Buildings are either economic, military or research orientated. Economic buildings will be drop-off points for resources as well as upgrades to worker gather speed. Military buildings can create new units, offer upgrades for those units or are defensive structures which help protect a base. Research buildings provide upgrades to units, buildings and defensive structures. The cost of the research will depend generally on the technology level and advantage that the research provides.
+Technology plays a central role. Early in the game, players must balance economic and military priorities, allocating scarce resources. Too much emphasis on researching technology and moving through the Levels without creating manpower can leave an army vulnerable to attack. On the other hand, putting resources into a large population at the expense of progress can lead to defeat if the enemy has progressed and is able to field a small but more powerful attack force.
+
+Monuments and holocrons
+    Holocron  
+Holocrons are special unique items that are scattered around the map, and can only be picked up by Jedi or Sith. Once placed within a Jedi Temple or a Sith Temple, a holocron steadily generates free nova crystals for the civilization that holds it (this reflects the historical realities of the power and influence that possessing knowledge has). Certain factions will gain extra crystals from holocrons, others will gain fewer. To capture a holocron from an enemy temple, the temple must suffer heavy damage to the holocron is ejected before its annihilation and then a Jedi/Sith unit can collect it. The standard skirmish victory condition allows for a "Holocron victory": if one player gathers all holocrons, a countdown begins, and if it expires, victory is awarded. (The Holocrons are similar in function to the Relics from Age of Empires II, for they are both stored in Temples, and generating resources: Nova crystals and gold, respectively.)
+
+     An Imperial monument  
+Monuments are massive structures that require large amounts of resources and time to build. If a player completes a Monument, and it stands intact for an uninterrupted period of time (400 game days), they win. Each civilization has their own Monument (typically a famous work of historical architecture).
+
+Scenario editor
+The game gives players the option of creating their own levels in the Scenario Editor. This allows players to create their own levels and even combine multiple levels into a campaign. The levels can be made using all terrain types featured in the game and can place every type of unit and building available in the game, including units listed as heroes which are characters that specifically appear in the campaigns, such as Chewbacca. Some other characters from the Star Wars universe can also be used in Scenarios that aren't anywhere else the game, such as Dash Rendar and the Outrider, as well as characters invented solely for the game, such as Excellency Lathe Parthenian and Tallamitta.
+
+Units and factions
+Each faction typically has a set number of advantages and disadvantages which ensures that the differences between each faction is not just cosmetic. Certain factions will be able to access various parts of the technology tree while others are denied certain upgrades. There are also a number of unique technologies and one faction specific unit trainable at the Fortress. These differences can be turned off at the beginning of a skirmish game so that everyone has access to the same technologies and units. In team games, there is a further bonus to that team.
+Units separated with commas below means different versions of the same unit.
+
+Galactic Empire
+     ASP-7, the Empire's basic labor droid  
+Faction Bonuses: Aircraft 5% cheaper, Upgrades to Heavy Mech units 10% cheaper Fortress builds 10% faster
+Team Bonus: Mech units +10% speed
+
+Troop center:
+Stormtrooper recruit, Stormtrooper, Armored Stormtrooper, Repeating Stormtrooper
+Dewback trooper, Heavy Dewback Trooper, Advanced Dewback Trooper
+Thermal detonator Trooper
+Missile Launcher Trooper, Armored Missile Trooper
+Mech factory:
+Speeder Bike
+AT-PT, Heavy AT-PT (strike mech)
+Light AT-ST, AT-ST (mech destroyer)
+AT-AT, Heavy AT-AT (assault mech)
+Shipyard:
+Utility trawler
+Light Scout, Scout, Advanced Scout Frigate (frigate)
+Transport Ship
+Cruiser, Heavy Cruiser
+Destroyer, Heavy Destroyer
+Missile Destroyer, Heavy Missile Destroyer
+Fortress:
+Dark trooper Phase 1, Dark Trooper Phase 2 - Unique Unit
+Shock Cannon
+Star Cruiser
+Command center:
+2-1C medical droid
+ASP-7 labor droid
+Viper probe droid
+Heavy Weapons Factory:
+Artillery, Heavy Artillery
+AT-AA, Heavy AT-AA (anti-air)
+Energy Pummel, Heavy Energy Pummel
+Airbase:
+Imperial Lander (air transport)
+TIE/sa bomber, TIE Heavy Bomber, TIE Interdictor
+TIE Fighter, TIE/IN interceptor, TIE/D Defender
+Spaceport:
+Imperial Cargo Trader
+Sith Temple
+Sith Apprentice, Sith Knight, Sith Master
+Gungans
+     A Gungan raaptur  
+Faction Bonus: Can construct underwater prefab shelters, buildings are organic and can self regenerate, Workers have 10% ore mining bonus in Technology Level 3 & 4.
+Team Bonus: Ships -15% cost, Shield generators -15% cost
+
+Troop Center:
+Gungan Trooper Recruit, Gungan Trooper, Heavy Gungan Trooper, Gungan Repeater Trooper
+Kaadu Trooper, Heavy Kaadu Trooper, Advanced Kaadu Trooper
+Gungan Booma Trooper
+Gungan Missile Trooper, Heavy Gungan Missile Trooper
+Mech Factory:
+Swift
+Kaadu Cavalry, Armored Kaadu Cavalry (strike mech)
+Lerraa, Large Lerraa (mech destroyer)
+Fambaa, Large Fambaa (assault mech)
+Shipyard:
+Utility trawler
+Bongo Light Scout, Bongo Scout, Bongo Advanced Scout (frigate)
+Transport Ship
+Bongo Behemoth, Bongo Advanced Behemoth (cruiser)
+Bongo Laser, Bongo Fast Laser (destroyer)
+Bongo Missile, Bongo Heavy Missile
+Fortress:
+Fambaa Shield Generator, Heavy Fambaa Shield Generator - Unique Unit
+Fambaa sonic cannon
+Aquanna
+Command Center:
+Gungan Doctor
+Glurrg
+Heavy Weapons Factory:
+Energy Catapult, Heavy Energy Catapult (artillery)
+Raaptur, Large Raaptur (organic anti-air)
+Cerrabore, Large Cerrabore (pummel creature)
+Airbase:
+Dunsenn FlopCarrier (air transport, flying puffer fish)
+Gungan Bomber, Enhanced Gungan Bomber, Advanced Gungan Bomber (unnamed flying creature)
+Gungan Fighter, Fast Gungan Fighter, Advanced Gungan Fighter
+Spaceport:
+Sando HoverFreighter
+Jedi Temple
+Padawan, Jedi Knight
+Rebel Alliance
+     Javelin  
+Faction Bonus: Farmers +5 carry capacity, Fortress +1 range, Line of sight and search radius, the Rebels have two unique units
+Team Bonus:Farm food maximum raised by +35
+
+Troop Center:
+Rebel Trooper Recruit, Blaster Trooper, Heavy Blaster Trooper, Armored Repeater Trooper
+Tauntaun Trooper, Heavy Tauntaun Trooper, Advanced Tauntaun Trooper
+Rebel mortar trooper
+Missile Trooper, Armored Missile Trooper
+Mech Factory:
+Swoop Bike
+Combat Speeder, Heavy Combat Speeder (strike mech)
+Hover Tank, Heavy Hover Tank (mech destroyer)
+Attack Tank, Heavy Attack Tank (assault mech)
+Shipyard:
+Utility Trawler
+Light Scout, Scout, Advanced Scout (frigate)
+Transport Ship
+Prowler, Heavy Prowler (cruiser)
+Hunter, Heavy Hunter (destroyer)
+Javelin, Heavy Javelin (anti-air cruiser)
+Fortress:
+Airspeeder, Armored Airspeeder - Unique Unit
+Blaster Cannon
+Light Corvette
+Command Center:
+2-1B
+Rebel R2-D5
+Heavy Weapons Factory:
+Artillery, Heavy Artillery
+Mobile Proton Torpedo Launcher, Mobile Proton Torpedo Launcher-2a (anti-air)
+Energy Pummel, Heavy Energy Pummel
+Airbase:
+Rebel Transport (air transport)
+Light Y-Wing, Y-wing, Heavy Y-Wing
+Z-95 Headhunter, X-Wing, Advanced X-Wing
+A-Wing - Unique Unit
+Spaceport:
+Mon Calamari Trader
+Jedi Temple
+Jedi Padawan, Jedi Knight, Jedi Master
+Royal Naboo
+     Royal crusaders  
+The Royal Naboo are not playable in the campaign mode, only in skirmish mode.
+Faction Bonus: Nova collection +10%, Holocrons produce more nova, Fortress has increased attack versus mechs and heavy weapons
+
+Troop Center:
+Royal Trooper Recruit, Royal Trooper, Royal Heavy Trooper, Armored Repeater Trooper
+Kaadu w/Royal Trooper, Heavy Kaadu w/Royal Trooper, Advanced Kaadu w/Royal Trooper (In Clone Campaigns, these are replaced with the units below)
+Tuskcat Trooper, Heavy Tuskcat Trooper, Advanced Tuskcat Trooper, respectively
+Thermal detonator trooper
+Missile Trooper, Armored Missile Trooper
+Mech Factory:
+Udopal speeder
+Gian speeder, Heavy Gian Speeder (strike mech)
+Champion, Heavy Champion (mech destroyer)
+Steadfast, Heavy Steadfast (assault mech)
+Shipyard:
+Utility Trawler
+Light Scout, Scout, Advanced Scout (frigate)
+Transport Ship
+Cruiser, Advanced Cruiser
+Destroyer, Heavy Destroyer
+Missile Destroyer, Heavy Missile Destroyer
+Fortress:
+Royal crusader, Elite Royal Crusader - Unique Unit
+Royal cannon
+Royal air cruiser
+Command Center:
+Royal med droid
+PKN-49 worker droid
+Heavy Weapons Factory:
+Energy Catapult, Heavy Energy Catapult (artillery)
+Mobile Missile Launcher, Heavy Missile Launcher (anti-air)
+Energy Pummel, Heavy Energy Pummel
+Airbase:
+Naboo Royal Lifter (air transport)
+NB-1 Royal Bomber, NB-1S Royal Bomber, NB-1T Royal Bomber
+N-1L Starfighter, N-1 starfighter, N-1T Starfighter
+Spaceport:
+Royal trade ship
+Jedi Temple
+Jedi Padawan, Jedi Knight, Jedi Master
+Trade Federation
+Faction Bonus: No prefab shelters needed, Fortress +3 Anti-Air range
+Team Bonus: Heavy weapons +15% speed
+
+Troop Center:
+Battle Droid Beta Version, Battle Droid, Heavy Battle Droid, Repeater Battle Droid
+Beetle Trooper, Heavy Beetle Trooper, Advanced Beetle Trooper
+Thermal Detonator Battle Droid
+Missile Battle Droid, Baron Battle Droid (heavy anti-air)
+Mech Factory:
+Speeder platform
+STAP, Heavy STAP (strike mech)
+AAT, Heavy AAT (mech destroyer)
+MTT, Heavy Multi-Troop Transport (assault mech)
+Shipyard:
+Utility Trawler
+S-LFRG, S-FRG, S-HFRG (frigate)
+S-TRN (transport ship)
+S-CRS, S-HCRS (cruiser)
+S-DST, S-HDST (destroyer)
+S-AAD, S-HAAD (anti-air destroyer)
+Fortress:
+Destroyer Droid, Heavy Destroyer Droid - Unique Unit
+Bio cannon
+LAATAK
+Command Center:
+MED-47 medical droid
+OX9
+Heavy Weapons Factory:
+HAG-M, HHAG-M (artillery)
+AML, HAML (anti-air)
+Energy Pummel, Heavy Energy Pummel
+Airbase:
+Neimoidian Transport (air transport)
+Droid Starbomber, Shielded Droid Starbomber, Advanced Droid Starbomber (E-STAPs)
+Droid Starfighter, Heavy Droid Starfighter, Advanced Droid Starfighter (Droid starfighters)
+Spaceport:
+Neimoidian trader
+Sith Temple
+Sith Apprentice, Sith Knight
+Wookiees
+Faction Bonus: Carbon collection is 5% faster in Tech Level 3 & 4, Fortress +5 line of sight and +10% strength
+Team Bonus:Troopers +2 line of sight and +2 search radius
+
+Troop Center:
+Wookiee Trooper Recruit, Bowcaster trooper, Heavy bowcaster Trooper, Repeating Bowcaster Trooper
+Dragon trooper, Heavy Dragon Trooper, Advanced Dragon Trooper
+Thermal Detonator Trooper
+Missile Trooper, Heavy Missile Trooper
+Mech Factory:
+HummBike
+Sentinel, Heavy Sentinel (strike mech)
+Kas tank, Heavy Kas Tank (mech destroyer)
+Battle Scythe, Heavy Battle Scythe (assault mech)
+Shipyard:
+Utility Trawler
+Light Scout, Scout, Advanced Scout (frigate)
+Transport Ship
+Cruiser, Heavy Cruiser
+Destroyer, Heavy Destroyer
+Liberator, Heavy Liberator (anti-air destroyer)
+Fortress:
+Berserker, Advanced Berserker - Unique Unit
+Decimator cannon
+Kas air cruiser
+Command Center:
+Wookiee Medic
+Wookiee Villager
+Heavy Weapons Factory:
+Catapult, Heavy Catapult
+Proton Torpedo Launcher
+Heavy Proton Torpedo Launcher (anti-air)
+Energy Pummel, Heavy Energy Pummel
+Airbase:
+Kettrifee Air Mover (air transport)
+Blade, Heavy Blade, Advanced Blade
+Agr, Fast Agr, Advanced Agr
+Spaceport:
+Corellian HoverFreighter
+Jedi Temple
+Jedi Padawan, Jedi Knight
+Species
+Dewback
+Eopie
+Falumpaset
+Fambaa
+Gundark
+Kaadu
+Mynock
+Nerf
+Orray
+Rancor
+Tusk cat
+Buildings and fabrications
+     Unused concept art for a Flak Gun  
+Command center
+Prefab shelter
+Food processing center
+Carbon processing center
+Ore processing center
+Nova processing center
+Farm
+Troop center
+Shipyard
+Spaceport
+Animal nursery
+Walls
+Light Wall
+Medium Wall
+Heavy Wall
+Shield Wall
+Turrets
+Light Turret
+Medium Turret
+Anti-Air Turret
+Advanced Anti-Air Turret
+War Center
+Mech factory
+Jedi Temple
+Sith Temple
+Fortress
+Research Center
+Airbase
+Heavy Weapons Factory
+Gate
+Power core
+AquaHarvester
+Sentry Post
+Monument
+Gungan Temple
+Neimoidian Throne
+Imperial Palace (Monument)
+Government Tree
+Planets
+Battles take place in the following background settings, also available for custom missions.
+
+Alaris Prime
+Avatar Orbital Platform
+Bespin
+Endor
+Hanoon
+Hoth
+Kashyyyk
+Kessel
+Krant
+Naboo
+Reytha
+Realspace, asteroids and asteroid belts.
+Silken Asteroids
+Tatooine
+Yavin 4
+Zaloriis
+Reception
+Critics believed that the game showed the limitations of the engine, which was probably not fit for sci-fi games: Laser shots often hit their target even when the craft wasn't pointing at them, and the proportions (like in the cases of AT-ATs or Rancors) were unrealistic.
+
+Continuity
+The game shows some historical and factual inconsistencies, such as telling players that the AT-AT was developed during the Galactic Civil War when in fact it was developed during the Clone Wars. Among the assault units in the game, the basic Trade Federation trooper is a B1-series battle droid, and the basic Confederacy trooper is a B2-series super battle droid. While the B2 is manifestly an upgraded version of the B1, the game makes them equal. Also, the NR-N99 Persuader-class droid enforcer, identified vaguely in the game as the "Corporate Alliance Tank Mech," is portrayed as much larger and more powerful than it actually was according to canon.
+In some cases, levels are very different from the missions in the movies. For example, if the player is playing as the Empire on the Endor Mission, the Rebels have four bases; this disagrees with the movie and most canon sources, which state that the Rebel force deployed on Endor was limited. In the middle of the mission, the Millennium Falcon and R2-D2, C-3PO, Luke and Leia escape. This is inconsistent, too, as Luke was on the Death Star II at the time of the battle, and the Millennium Falcon and the multiple X-wings and Y-wings seen on the mission were fighting the Imperial Fleet.
+
+Credits
+
+By type 
+
+
+Cast
+
+Uncredited cast
+
+Crew
+
+Uncredited crew
+
+Special thanks
+
+
+Cast
+
+
+
+David Davies ... Obi-Wan Kenobi
+Tom Kane ... Yoda, Boba Fett, C-3PO, Imperial Missile Destroyer Captain, Naboo destroyer captain, Vilmarh Grahrk
+Scott Lawrence ... Darth Vader
+Charles Martinet ... 2-1B, AT-AT driver / OOM-9
+Michael Gough ... Airspeeder pilot / Battle Droid / Rebel hovercraft captain / Sith Knight / Fast Bike driver / Zalor Minister
+Jake Lloyd ... Anakin Skywalker (Episode 1)
+Nick Jameson ... AT-AA driver / Darth Sidious / Supreme Chancellor / Emperor Palpatine / Gen. Jor Drakas / Nikto thug
+Jamie Alcroft ... AT-PT driver / Javelin submarine captain / Sio Bibble
+Jarion Monroe ... AT-ST driver / E-Stap pilot / Gen. Jan Dodonna
+Douglas Rye ... Attack Tank driver / X-Wing pilot
+Tasia Valenza ... Aurra Sing / Empire hovercraft captain / Rebel blaster cannon
+Carol Bach y Rita ... A-Wing pilot / Missile launcher driver
+James Horan ... Boss Gallo / Combat speeder driver / Missile stormtrooper / Reytha governor
+Neil Klapen ... Boss Ganne / Goonga trooper / Grenade battle droid / Gungan trooper / Missile battle droid
+Kevin Michael Richardson ... Boss Nass / Rebel trooper
+Amanda Moody ... Boushh / Gungan hovercraft captain / Naboo hovercraft captain
+David Jeremiah ... Capt. Marsune / Rebel missile trooper / Trade Federation hovercraft captain
+Jeff Coopwood ... Capt. Panaka / Rebel trawler captain
+Rob Paulsen ... Capt. Tarpals / Grenade trooper / Gungan villager #1 / Naboo missile destroyer captain / Royal trooper
+Rachel Reenstra ... Champion Driver / Hover Tank Driver / Swoop Bike Driver
+Jess Harnell ... Darth Maul / Gungan bolo trooper / Hannoon soldier / Stap driver
+Roger Jackson ... Echuu Shen-Jon / Jedi Padawan / Mahwi Lihnn
+Murphy Dunn ... EEK-176 / Naboo cruiser captain
+Phil Proctor ... Empire cruiser captain / Jedi Master / Viceroy Nute Gunray
+Carolyn Seymour ... Empire destroyer captain / Gungan medic / Starbomber pilot
+Ethan Phillips ... Empire medical droid / Krantian governor / Royal grenade trooper
+Victor Raider-Wexler ... Empire scout captain / Prowler submarine captain
+Harvey Jason ... Empire transport ship captain / Royal lifter pilot
+Heidi Shannon ... Flash Speeder driver / Heavy lifter pilot / Mara Jade
+Guy Siner ... Gen. Maximilian Veers / Trade Federation med droid
+Robert Foster ... Gian Speeder driver / Speeder bike driver / Wedge Antilles
+Lewis Macleod ... Gungan missile trooper / Imperial carrier pilot / Obi-Wan Kenobi
+Grey DeLisle ... Gungan villager #2 / Queen Amidala / Rebel scout captain / Royal missile trooper
+David Esch ... Han Solo
+Kath Soucie ... Hannoon leader
+Charity James ... Hunter submarine captain / Naboo trawler captain / Neimoidian lifter pilot
+Ahmed Best ... Jar Jar Binks
+Terence McGovern ... Jedi Knight / Stormtrooper
+Lizzie Murray ... Krantian soldier / Naboo medical droid / Naboo transport ship captain
+Obba Babatundé ... Lando Calrissian
+Bob Bergen ... Luke Skywalker / Reytha soldier
+Joe Paulino ... Moff Yittreas / Sith apprentice / Starfighter pilot
+Kimberly Brooks ... Naboo scout captain / Y-Wing pilot
+Robert Pike Daniel ... OOM-14 / Royal Knight / Tie Fighter pilot
+Frank Welker ... Pekt / Sith Master / Utric Sandov
+Lisa Fuson ... Princess Leia / Rebel grenade trooper
+James Warwick ... Qui-Gon Jinn / Zalor militiaman
+Susan Boyo ... Rebel transport ship captain / Royal cannon
+Hamilton Camp ... Rune Haaku / Tie Bomber pilot
+Michael Ralph ... Steadfast driver / Torpedo launcher driver
+
+Crew
+
+
+
+Garry M. Gaber: Director
+Christopher Williams: Art Lead
+Scot Brew, Bernard Eral, Bryan Erck, James Michael Gutierrez, Shinichiro Hara, Jeffrey Kember, Livia Knight, Michael Licht, Peter Tieryas, Sean Marr, Paul Murphy, Rob Nitsch, Paul Pierce, Allison Purdy, Josef Richardson, Kristen Russell, Josan Russo, Jonathan Sgro, Jennifer Sheldon, Daryl Smolen, Marcia Thomas, Carl Wattenberg, Martin Yee, and Jerril Yoo: Art
+Greg Knight: Concept Art Lead
+Ian Berry, Gregory A. Knight, Ti-Ning Kwa, Ashot Melkumov: Concept Art
+Marc Overney, Animation Lead
+Mike Dacko, Cathy Feraday Miller, Yu Hon Ng, Joe White, and Lisa Wong: Animation
+Reed Knight: Level Design Lead
+Brandy "Lily" Childs, Ryan Kaufman, Stephen J. McManus, Kevin Schmitt, Donald Sielke: Level Design
+Matthew McManus and John Stafford: Level Design Balancing
+Vernon H. Harmon II, Jenny Huang, George Ruof: Engineers
+Charles W. Smith, Engingeers, Tools
+Isa Anne Stamos: Producer
+Nate Schaumberg: Assistant producer/Finnish tv star/Big in Japan
+Chane Hollander: QA Testersmdash;Lead
+Matthew Keast, David Silverstein: QA Testersmdash;Assistant Lead
+James Barton, Phillip Berry, Ryan Bond, Eric Brummel, Jeremy Campbell, Jim Diaz, Nick Eberle, David Felton, Bryan Finoki, Brad Grantham, Jeffrey Gullett, Henry Hall, Alice Henderson, Toby Mast, Matthew McManus, Hugh Moore, Maximillian Alexander Roghi, Roger Romero, Matthew Rubenstein, Chris Susen, and Sean Thomson: QA Testers
+Lynn Taylor: Compatibility Supervisor
+John Carsey, John von Eichhorn, G. W. Childs, Eric Knudson, and Dan Martinez: Compatibility Technicians
+Darryl Cobb: Network Compatibility Lead
+James Davison: Network Compatibility Senior Technician
+Jeff Sanders: International Testing Lead
+Darren Hedges: Manager of International Production
+Karen Ffinch: International Producer
+Paul Purdy: Manager of Quality Services
+Chip Hinnenberg: Quality Assurance Supervisor
+Jay Geraci: Product Support Supervisor
+Larry The O: Sound Design Lead
+Andrew Cheney: Sound Design
+Michael Frayne: Additional Sound Design
+David Levison: Sound Design Supervisor
+Malena Annable: Sound Department Coordinator
+J. White: Music Editor
+Darragh O'Farrell: Voice Director/Producer
+Peggy Bartlett: Voice Department Coordinator
+Cindy Wong: Voice Editing Lead
+William A. Beckman, Hans Larson, Voice Editing
+Burke Pemberton, Voice Editing Intern
+John Williams: Original Star Wars music
+Ben Burtt: Original Star Wars Sound Effects
+Stacy Cheregotis, Chris Gollaher, and Kristi Kaufman: Lucas Licensing
+W. Haden Blackman: Continuity Expert
+Joel Dreskin: Product Marketing
+Alexis Mervin, Heather Twist, and Tom Sarris: Public Relations
+Kathy Apostoli: International Marketing / PR
+Kevin G. Graas, and Alice Henderson: Manual Writers
+Mollie Boero: Manual Editor
+Logan Parr: Poster Editor
+Cassia Dominguez and Patty Hill: Manual and Poster Design
+Darryl Cobb, John von Eichhorn, Chip Hinnenberg, and Lynn Taylor: Technical Writers
+Kellie Walker and Wendy Kaplan: CD Burning Goddesses
+Greg Canessa, Matthew Esget: Special Thanks
+George Lucas: Very Special Thanks
+
+
+

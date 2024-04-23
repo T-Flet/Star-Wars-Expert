@@ -1,8 +1,8 @@
 # Track db subfolders but the files in their containing folders
-scripts/*
-!scripts/db/
-wookieepedia/*
-!wookieepedia/db/
+# scripts/*
+# !scripts/db/
+# wookieepedia/*
+# !wookieepedia/db/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

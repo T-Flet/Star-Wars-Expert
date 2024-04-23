@@ -1,0 +1,171 @@
+Imperial I-class Star Destroyer
+
+
+Production information
+
+Manufacturer
+Kuat Drive Yards
+
+
+Line
+Imperial-class Star Destroyer
+
+
+Model
+Imperial I-class Star Destroyer
+
+
+Type
+Star Destroyer
+
+
+Cost
+150,000,000 credits
+
+
+
+Technical specifications
+
+Length
+1,600.52 meters (5,251 ft 1 in)
+
+
+Width
+985.17 meters (3,232 ft 2 in )
+
+
+Height/depth
+455.40 meters (1,461 ft 3 in)
+
+
+MGLT
+60 MGLT
+
+
+Maximum atmospheric speed
+975 kilometers per hour
+
+
+Engine unit(s)
+Destroyer-I ion engines (3)Gemon-4 ion engines (4) (emergency use)
+
+
+Hyperdrive rating
+Class 2 (primary)Class 8 (backup)
+
+
+Hyperdrive system
+Equipped
+
+
+Power plant
+Solar ionization reactor
+
+
+Shielding
+ISD-72x shield generator domes (2)
+
+
+Sensor systems
+Long range sensor
+
+
+Targeting systems
+Tractor beam targeting array
+
+
+Navigation system
+Navicomputer
+
+
+Armament
+XX-9 heavy turbolaser batteries (60)NK-7 ion cannons (60)Dual heavy turbolaser turrets (6)Dual heavy ion cannon turrets (2)Quad heavy turbolasers (2)Triple medium turbolasers (3)Medium turbolasers (2)Heavy Q7 tractor beam projectors (10)
+
+
+Complement
+TIE fighter series starfighters (72), usually:TIE/ln space superiority starfighters (48)TIE/sa bombers (12)TIE/IN interceptors (12)AT-AT walkers (20)AT-ST/AT-DP walkers (30)K79-S80 Imperial Troop Transports (15)LAAT/le patrol gunshipsLambda-class T-4a shuttles (8)Hyperdrive podsX3-13s74-Z speeder bikes
+
+
+Crew
+37,085Officers (9,235)Enlisted (27,850)
+
+
+Passengers
+Stormtroopers (9,700)
+
+
+Consumables
+2 years
+
+
+
+Usage
+
+Role(s)
+Multi-functionCapital shipCommand shipPlanetary subjugationTroop and vehicle deployment
+
+
+Year introduced
+19 BBY
+
+
+Retired
+Production stop by 9 BBY
+
+
+Affiliation
+Galactic EmpireImperial NavyAlliance to Restore the RepublicRebel Alliance NavyScourge (Captured)Thrawn's forces
+
+
+[Source]
+
+
+
+"I am aboard an Imperial I-class Star Destroyer. Built at the Kuat Drive Shipyards. It possesses many useful systems and capabilities."
+―The Scourge
+The Imperial I-class Star Destroyer was a model of Imperial-class Star Destroyer in the service of the Imperial Navy. A wedge-shaped capital ship, it bristled with weapons emplacements, assault troops, boarding craft, and TIE fighter series starfighters. In the era of the Galactic Empire, its command bridge was staffed by the finest crewmen in the navy.
+At first, Star Destroyers were deployed to sectors and systems caught in the aftermath of the Clone Wars, where they would crush any signs of sedition. During the Galactic Civil War the Destroyer's role changed to hunting down high value Rebel targets and bases. They fought in notable battles such as the Battle of Hoth and the Battle of Endor. The Imperial II-class Star Destroyer was a derivative of the Imperial I-class.
+
+Characteristics
+Dimensions
+     Technical drawing of an Imperial-class Star Destroyer  
+With a length of 1,600 meters, the wedge-shaped Imperial I-class Star Destroyer was 445 meters longer than its immediate predecessor, the Venator-class Star Destroyer, which had been developed for the Galactic Republic during the Clone Wars. In keeping with the Empire's habit of favoring muted colors whenever possible, the hull of the Imperial-class was painted in whitish gray, while the Venator-class of the Clone Wars era had red markings denoting the Republic's diplomatic immunity.
+
+Crew requirements
+Imperial I-class Star Destroyers had over 37,000 crew on board— 9,235 officers and 27,850 enlisted personnel. The complement of 9,700 stormtroopers added to a total of 46,785 crew and passengers. With the bridge being located in the upper half of the ship, the officer's quarters were located right below it. To complement its impressive crew size, every Imperial-class vessel carried consumables for 2 years, with its liquid stores and holds for raw materials being located near its bow. Amidships, crew barracks, gunnery crew quarters, meeting rooms, training areas, and cell blocks were located in the vessels second 'step,' with four gradually upsloping smaller 'steps' eventually leading to the ships 'neck' which connected it to its upper bridge section, deflector shield generators, and communications array. On the "side" of the ship existed the port lateral umbilical restocking vestibule.
+Like other Star Destroyers, a single Internal Affairs officer was stationed aboard the ship to scan the crew for signs of disloyalty and sedition, as well as interrogate any captured prisoners. As most ships in the Navy, Rebaxan Columni MSE-6 series repair droids were employed to serve as messenger, repair and custodial assistants.
+
+Armament and shielding
+
+"This is an Imperial Star Destroyer. All vital equipment is shielded. Even twenty bombs will do nothing."
+―Prelate Verge
+     The Ghost flies into the Relentless's tractor beam projectors.  
+The Imperial-class Star Destroyer bristled with weapons emplacements. 60 Taim & Bak XX-9 heavy turbolaser batteries, 60 Borstel NK-7 ion cannons, and ten Phylon Q7 tractor beam projectors dotted its whitish gray hull. At the very front of the ship existed the forward pursuit tractor beam array. The ship also featured six dual heavy turbolaser turrets, two quad heavy turbolasers, three triple medium turbolasers, and two medium turbolasers. The Imperial I-class also featured two dual heavy ion cannon turrets that lined the dorsal superstructure flanking the command tower. The turbolaser turrets of an ISD were hooked to large arrays of auxiliary power cells. At both "ends" of the Star Destroyer existed an aft point defense laser cannon.
+By far the heaviest weapons on the ship were the six turbolaser turrets positioned alongside the two ion turrets. With a diameter of 50 meters, each turbolaser was capable of ripping through heavy armor and overloading shields. Although it was difficult to hit small, fast-moving craft, even a glancing blow would destroy them.
+On the underside of the very tip of the ISD was the navigational deflector generator. It worked in tandem with the two bridge deflector shield domes[source?] to give the ship heavy shielding. It carried shields strong enough to easily withstand a collision with a GR-75 medium transport with no damage to the hull. The Star Destroyer's targeting computers were produced by LeGrange.
+
+Complement
+     A heavy turbolaser battery on an Imperial I-class Star Destroyer  
+Within its vast belly hangar bays, an Imperial-class Star Destroyer typically carried an impressive complement of troops, consisting of seventy-two TIE fighter series starfighters, eight Lambda-class T-4a shuttles, twenty AT-AT walkers, thirty AT-ST or AT-DP walkers, and fifteen Imperial Troop Transports. Despite its fighter complement, Imperial I-class vessels proved less effective against skilled rebel pilots than their Venator-class predecessors had been against droid starfighters. They were nonetheless essential in the Imperial doctrine of planetary containment and fast infantry deployment, and the vessel was noted as one of the most resource-intensive ships in the Imperial Navy.
+
+Propulsion systems
+     The Ion Engines of an Imperial I-class Star Destroyer.  
+Powering the Destroyer were seven main engine units, including Cygnus Spaceworks Gemon-4 ion engines, and could accelerate to speeds of up to 975 kph. The ship however was not suited towards planetary atmospheres, in which full power was required to stay aloft. Any interruption in the power supply in atmosphere could be catastrophic to the vessel, despite all vital equipment being shielded. The primary power source on board the ship was a solar ionization reactor large enough relative to the rest of the craft to protrude with a ventral bulb, powering a massive cylindrical power generator located in sector 19-A on the ship's rear.
+Although well-armored, a direct hit from proton torpedoes in that area would cause a breach in the generator venting tunnel, causing the reactor to overload and explode within seven minutes. To prevent ship-wide catastrophe it was possible to jettison the reactor assembly, although this action would ultimately leave the ship running on auxiliary power. Engines were controlled in a massive room filled with walkways and "Tulip" style Imperial work stations. In order to jump to light-speed and enter hyperspace the Imperial-class was equipped with a Class 2 hyperdrive, while it was standard protocol to dump the ship's garbage before entering hyperspace in order to reduce the weight of the vessel.
+
+Bridge tower
+     The bridge of the Imperial I-class Star Destroyer Devastator.  
+A prominent feature of the Imperial-class was its bridge tower. Located atop the tower were twin deflector shield generator globes and a tractor beam targeting array. The command bridge itself featured two elongated pits set below floor level, whose walls were lined with monitors and control panels. In addition, six more duty station consoles were mounted freely in each pit. The superiors officers stood on a walkway surrounding the pits at the normal deck height. All the consoles were aligned perpendicular to the walkway. A small room behind the main bridge existed separated by a single blast door, which had access to advanced communications equipment and a holographic imaging table. This arrangement was considered beneficial for denoting rank hierarchy within the ship.
+
+History
+     Grand Admiral Thrawn's Seventh Fleet  
+The Imperial-class Star Destroyers were the technological successors of the Venator-class Jedi cruisers used by the naval forces of the Galactic Republic during the Clone Wars. After the Republic was turned into the Empire at the end of the Clone Wars, the self-anointed Galactic Emperor Sheev Palpatine decreed a massive military buildup. To meet interstellar defense needs, the great shipyards of the galaxy were fired up during the Clone Wars and remained lit well into the Age of the Empire. The enormous construction facilities at Kuat, Corellia, Ringo Vinda, Fondor, and elsewhere were converted from civilian graving docks into military starports capable of churning out Imperial-class Star Destroyers. Building upon the strengths of the Jedi cruisers, the bigger Imperial-class vessels became one of the most instantly recognizable symbols of the Imperial might, and were often titled intimidating names such as Lawbringer, Relentless, and Devastator.
+
+     Three Imperial I-class Star Destroyers over Lothal  
+Initially, the new Star Destroyers were deployed to sectors and systems that had once been beyond the reach of Republic law, where they would subjugate them and crush any signs of resistance or rebellion. Imperial Star Destroyers became symbols of this new order. Citizens weary of chaos and war cheered the sight of these giant dagger-shaped warships, while pirates and enslavers quailed at the thought of confronting them. But a few citizens wondered if the imposition of Imperial law was worth the freedoms lost.
+Easily becoming the most recognizable symbol of Imperial power, the Imperial-class further demonstrated its tactical versatility by protecting galactic commerce and bolstering Imperial-backed governments. Many admirals, Grand Moffs, ISB agents and senior Imperial commanders utilized these ships as their personal command ship, with the ship's officer often being as intimidating as the ship itself—whose shadow alone could bring results. At the peak of the Empire, over 25,000 Imperial Star Destroyers were in existence, with the Empire's primary source of Star Destroyers and Destroyer-equipped shipyards located at the industrial manufacturing center of Kuat. Ultimately, these giant craft became the backbone of the Imperial Navy, hunting down Rebel task forces, blockading undisciplined worlds and serving as launch bases for planetary assaults.
+Eventually, the Imperial I-class Star Destroyer would be replaced by the Imperial II-class Star Destroyer. The Devastator was the last of the Imperial I-class Star Destroyers to lumber out of the Kuat Drive Yards before the facility began production on the Imperial II-class, although it was later upgraded to compete with these more advanced warships.
+The Imperial-class would ultimately see service in the First Order's Navy thirty years after the Battle of Endor, and would be regarded as a highly respected ship, with many of its design flaws rectified with the construction of the Resurgent-class Star Destroyer, a newer, more powerful vessel based on the Old Empire's dreaded warships. 35 years after the Battle of Yavin, the Sith Eternal used Xyston-class Star Destroyers. These Star Destroyers were based directly on the design of the Imperial-I-class Star Destroyer, with the primary exception being that the Xyston-class was armed with a planet-killing weapon.
+
+Behind the scenes
+There are some inconsistencies over the armament of the Imperial I-class Star Destroyer. Starships and Speeders states that the Imperial I-class Star Destroyer possessed both light and heavy turbolaser batteries, and two different types of ion cannons. However, Star Wars: Rogue One: The Ultimate Visual Guide does not support different ion cannons or light and heavy turbolasers, and Ultimate Star Wars, New Edition and Star Wars: Dawn of Rebellion: The Visual Guide state that it had 60 Taim & Bak XX-9 heavy turbolaser batteries and 60 Borstel NK-7 ion cannons. This article assumes Starships and Speeders is incorrect.

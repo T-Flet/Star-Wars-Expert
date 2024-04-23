@@ -1,0 +1,211 @@
+Pelta-class frigate
+
+
+Production information
+
+Manufacturer
+Kuat Drive Yards
+
+
+Model
+Pelta-class frigatePelta-class Assault ShipPelta-class Command CruiserPelta-class strike frigate
+
+
+Type
+CruiserFrigate
+
+
+Cost
+7,265,000 credits
+
+
+
+Technical specifications
+
+Length
+282 meters
+
+
+Maximum atmospheric speed
+800 kilometers per hour
+
+
+Engine unit(s)
+Engine (1) (standard)
+
+
+Hyperdrive rating
+Class 2 (primary)Class 16 (backup)
+
+
+Hyperdrive system
+Equipped
+
+
+Shielding
+Deflector shield generators
+
+
+Sensor systems
+Long-range sensor
+
+
+Navigation system
+Equipped
+
+
+Armament
+Point-defense laser cannonsTurbolasers (retrofitted)Tractor beams (retrofitted)
+
+
+Complement
+8 starfighters (retrofitted)RZ-1 A-wing interceptors
+
+
+Docking bays
+Port and starboard docking tubesVentral hangar (retrofitted)
+
+
+Escape craft
+16Republic escape podsRGC-6b escape pods (retrofitted)
+
+
+Crew
+900 officers and enlisted crew
+
+
+Passengers
+200 troops
+
+
+Consumables
+5 months
+
+
+
+Usage
+
+Role(s)
+Anti-starfighterAssault shipCommand shipCommunicationsEscortingFire supportFreighterMedcenterPicket shipSupply ship
+
+
+Affiliation
+Jedi OrderTrade FederationGalactic RepublicGalactic Republic NavyGalactic EmpireImperial NavyPhoenix CellAlliance to Restore the RepublicRebel Alliance NavyCitizens' Fleet
+
+
+[Source]
+
+
+
+"There are several medical transports surrounding the station.""Target the transports first."
+―A B1 battle droid and General Grievous, during the Battle of the Kaliida Nebula —  Listen (file info)
+The Pelta-class frigate was a versatile model of frigate manufactured by Kuat Drive Yards that had several different configured variants. During the Clone Wars between the Galactic Republic and Separatist Alliance, the frigates were used by the Republic Navy as a critical component of its war effort. The most common combat configuration was the Pelta-class strike frigate, while other configurations served as hospital ships, such as the Pelta-class Medical Frigate, which was used to safely ferry injured clone troopers to medical stations for treatment. Pelta-class Transport Frigates also served as supply ships to deliver armaments, medical supplies, and food rations.
+These vessels were vital to Republic operations during the Battle of Ryloth and the Battle of Christophsis, which saw the use of Pelta-class frigates as blockade runners, supply ships, and medcenters. In the latter role, a number of medical frigates participated in the evacuation of the Republic Kaliida Shoals Medical Center, which was targeted by the Separatist heavy cruiser Malevolence, captained by Supreme Commander of the Droid Army General Grievous. In the second year of the Clone Wars, Geonosian brain worms infected the clone troopers of Tango Company aboard the Pelta-class Medical Frigate TB-73. Following the sabotage of the Venator-class Star Destroyer Endurance, a frigate participated in the recovery and rescue efforts. Pelta-class frigates also served in the capacity of supply ships during the mercy mission to Aleen. Jedi Master Kelleran Beq used the Pelta-class frigate Athyliato train Jedi Initiates.
+During the rule of the Galactic Empire, the nascent Rebel Alliance used Pelta-class frigates as medcenters, with a handful being retrofitted with turbolasers. The Pelta-class vessel Phoenix Home served as the command ship for the rebel Phoenix Cell until it was destroyed by the Dark Lord of the Sith Darth Vader during the Siege of Lothal. Rebels heavily modified Pelta-class frigates into Pelta-class Assault Ships and Pelta-class Command Cruisers. Numerous Pelta-class frigates would go on to serve in the Citizens' Fleet against the Sith Eternal's fleet, the Final Order. The frigates participated in the Battle of Exegol, which saw the defeat of the Sith Eternal, and inspired a galactic uprising against the First Order.
+
+Characteristics
+
+"We've lost our shields!"
+―A rebel crewmember, to Commander Sato —  Listen (file info)
+The Pelta-class frigate was a model of frigate manufactured by Kuat Drive Yards, measuring 282 meters long and with a crew of 900. It was equipped with a deflector shield generator and a Class 2 hyperdrive. During the early rebellion against the Galactic Empire, the nascent Alliance to Restore the Republic retrofitted Pelta-class frigates with turbolasers and point-defense laser cannons to fulfill other roles. The Alliance also modified Pelta-class Assault Ships and the Pelta-class Command Cruisers, variants of the standard Pelta-class frigate. The Pelta-class Assault Ships were equipped with armaments on their hull, which gave the ship the ability to broadside enemy vessels. The Pelta-class frigate was equipped with sixteen escape pods. Some models of escape pods that the Pelta-class could be equipped with included Republic escape pods and RGC-6b escape pods. Pelta-class frigates had the ability to dock with Haven-class medical stations, both horizontally and vertically with respect to the docking ports.
+
+     Aft of a modified Pelta-class frigate with "wings" open. Rebel modifications include additional small engine units, shortened main engine, and weapon emplacements.  
+On the aft of the Pelta-class frigate by its engine were two "wings" that were able to pivot and open. The rebellion was able to exploit this by adding additional engine units, albeit smaller, to the aft of the vessel. The Pelta-class frigate was also equipped with a docking port on the starboard and port sides near the mid-section of the vessel, and later modifications would alter the door and frame of the docking ports. Alliance modifications also replaced the ramp and cargo bay with a ventral hangar bay that was able to accommodate eight starfighters, including at least five RZ-1 A-wing interceptors. The hangar bay had walkways located above the starfighters to allow pilots to enter their respective starships.
+Modified Pelta-class frigates were also fitted with deflector shield generators. On one occasion, a Pelta-class frigate was destroyed by a single TIE Advanced x1 starfighter after only several strafing runs, despite having a deflector shield.
+
+Interior
+
+"I'll go to the reactor room and disable the thrusters. You head for the aft comm-center and send a warning to Master Fisto."
+―Barriss Offee, to Ahsoka Tano —  Listen (file info)
+     Ahsoka Tano in a Pelta-class' reactor room  
+The interior layout of Pelta-class frigates was lined with ventilation shafts and white corridors with controls, and the frigates were equipped with a variety of facilities for the passengers and the crew, including a barracks for escorting troops, private quarters for higher-level passengers, and a mess hall for dining. The private quarters featured at least four beds, one located above the other, and was equipped with computer consoles on the opposite side of the entrance. The barracks were situated between the private quarters and the mess hall. The barracks had doors on opposite sides, and the bunk beds were lined parallel to the middle corridor. The mess hall also had two entrances, one opposite the other, with the food serving station positioned on one side, vertical to the doors.
+The bridge of the Pelta-class frigate was located at the top of the vessel and was the upper-most point of the ship. The Alliance to Restore the Republic would later use the bridge as a communications array, while another bridge was retrofitted at the bow and utilized as the ship's command center. Ray shields were equipped in a passageway to reach the bridge, acting as a security measure. Pelta-class frigates also had a cargo bay for supplies, a reactor control room that included the controls for the coolant and power systems, and an aft communications station. The Pelta-class frigate also had a ramp on the keel that opened up for easy transportation of supplies, as well as six landing gear legs.
+
+Role
+
+"The destruction of our command ship has severely limited our ability to fight the Empire in this sector."
+―Commander Jun Sato after the loss of the Pelta-class frigate Phoenix Home —  Listen (file info)
+     Phoenix Home launches A-wing fighters from its hangar bay.  
+The Pelta-class frigate served a variety of purposes during its service, seeing extensive use during the pan-galactic Clone Wars between the Galactic Republic and the Separatist Alliance, primarily as hospital ships and supply ships in the Republic Navy. They were also used as freighters, picket ships, escorts, and light assault ships. As hospital ships, the Pelta-class frigates were equipped to transport patients, as well as rescue personnel in stranded escape pods. During the Clone Wars, honorable Separatist generals were known to withhold from attacking the Pelta-class frigates. Pelta-class frigates were also used by the Alliance to Restore the Republic as command ships and hospital vessels. After undergoing weapon retrofits, the frigates served larger combat and command roles, as well as fire support, anti-starfighter roles, and communications responsibilities.
+Rebel Pelta-class frigates, such as the Phoenix Home, were modified to carry eight starfighters, including at least five RZ-1 A-wing interceptors in a make-shift hangar bay, serving in the capacity of a starfighter carrier. While acting as a carrier, the frigate would typically be flanked by escorts, such as rebel CR90 corvettes.
+
+History
+Service to the Jedi
+At one point, the Jedi Order utilized the Athylia, a Pelta-class prior to the Order's destruction. Jedi Master Kelleran Beq, the protocol droid AD-3, and the astromech droid LX-R5 served aboard the craft.
+
+Clone Wars
+Battle of Christophsis
+
+"General, one of the supply ships has been hit."
+―A clone officer to General Anakin Skywalker during the Battle of Christophsis —  Listen (file info)
+     Pelta-class frigates escorted by Venator-class Star Destroyers during the Battle of Christophsis  
+The Pelta-class frigates saw early action on the onset of the Clone Wars, with three being deployed to the planet Christophsis in 22 BBY to deliver much needed supplies to Senator Bail Organa and his relief effort, which had been cut off by Separatist forces during the early stages of the Battle of Christophsis. The frigates were escorted by Jedi General Anakin Skywalker, Admiral Wullf Yularen, and three Venator-class Star Destroyers from Skywalker's task force. Although Skywalker was instructed not to engage the Separatist blockade by Jedi General Obi-Wan Kenobi, Skywalker decided to engage the Separatist armada regardless and was soon outnumbered and outgunned, as the Separatist fleet consisted of Munificent-class star frigates, Lucrehulk-class Battleships, and the Invincible, a Providence-class Dreadnought. Unbeknownst to Skywalker and Yularen, the Separatist fleet was led by none other than Admiral Trench, who was thought to have been vaporized by a Jedi-led task force at the Battle of Malastare Narrows when his flagship was destroyed.
+
+     A Pelta-class frigate is destroyed during the Battle of Christophsis.  
+Skywalker and Yularen were able to briefly contact Organa, who informed them that his positions were in danger of being overrun by Separatist ground forces. The transmission was cut off just as one of Skywalker's Venator-class Star Destroyers was hit by a barrage of Separatist laser fire. Soon, the Invincible began bearing down on the Republic fleet unopposed, and Trench ordered his forces to separate the Pelta frigates from their escorts. The Invincible launched a salvo of laser fire at the Republic fleet, resulting in the destruction of a Pelta frigate. Kenobi soon arrived in his flagship, the Venator-class Star Destroyer Negotiator, contacting Skywalker and advising him to retreat as he had brought a new secret weapon that would give the Republic an advantage in the battle. Skywalker reluctantly agreed, ordering the two remaining Pelta frigates to retreat to Kenobi's position behind Leesis, the moon of Christophsis, while Skywalker's Venators covered their retreat. Eventually, Trench was defeated when Skywalker used the secret weapon, a stealth ship, to destroy the Invincible, with Trench still onboard.
+As the battle continued on the surface, Yularen and a Venator-class Star Destroyer were dispatched to a Haven-class medical station to pick up supplies and reinforcements, with several Pelta-class frigates also docking with the station.
+
+Battle of Ryloth
+
+"This is Republic blockade runner 0-9-9, we have broken through!"
+―A Pelta-class frigate relays that they have broken through the Separatist blockade —  Listen (file info)
+When the Separatists invaded the planet Ryloth in 22 BBY, the Republic Outer Rim garrison led by Jedi General Ima-Gun Di and the Twi'lek Resistance led by General Cham Syndulla were quickly overrun, and Di attempted to contact the Jedi High Council for reinforcements. After a period of heavy fighting, Republic supplies were exhausted, and Republic forces were being overwhelmed. Di ordered the Republic fleet in space led by Admiral Dao to attempt to contact the Jedi High Council again for immediate reinforcements. Although Dao finally managed to contact the Jedi Council and inform them of their dire situation, the Republic fleet was destroyed and Dao was killed mid-transmission.
+
+     Three Pelta-class frigates break through the Separatist blockade of Ryloth, successfully delivering supplies.  
+Ryloth was too far from the nearest Republic base to help in time, while the planet Toydaria was the closest potential base to launch a humanitarian mission. As such, the Jedi contacted Senator Organa and informed him of the situation on Ryloth, asking him to negotiate alongside Junior Representative Jar Jar Binks of Naboo to persuade the Toydarians to open up their world as a supply base for several Pelta frigates to launch their aid mission to Ryloth from. After failed negotiations with the Toydarians at the impediment of Senator Lott Dod of the Trade Federation, King Katuunko of Toydaria approached Organa and Binks, stating that the Toydarians could not turn a blind eye to the suffering on Ryloth, and that the Republic may use Toydaria as a supply base on the conditions that it would only be the supplies that the Republic have already brought with them and that the Trade Federation would not be aware of the aid mission and Toydaria's involvement.
+Organa devised a plan which included a special dinner for Katuunko, several of his advisors, and the representatives of the Trade Federation, all of which was a ruse to distract the Trade Federation of the three Pelta frigates which were loading up the supplies and leaving for Ryloth. The Trade Federation was unaware of the ruse until it was far too late, and three Pelta-class frigates, including blockade runner 0-9-9, were able to load supplies and successfully pass through the Separatist blockade of Ryloth and drop relief supplies to the Twi'lek Resistance and their families after the sacrifice of Di and his men to cover their retreat. The Twi'lek Resistance were able to capture the supplies and continue their campaign.
+
+The threat of the Malevolence
+
+"Guide the patients that can be moved onto transports as quickly as you can."
+―Chief Nala Se, to a clone officer —  Listen (file info)
+In 22 BBY, after the Battle of Abregado, the new Separatist weapon, a Subjugator-class heavy cruiser named the Malevolence under the command of Supreme Commander of the Droid Army General Grievous, was tasked with destroying a convoy of at least three Pelta-class frigates and their escorting Venator-class Star Destroyer. The successful attack led to the entire convoy being destroyed, with survivors attempting to flee in escape pods. During the engagement, Grievous was given new orders by Separatist Head of State Count Dooku to target and destroy a Haven-class medical station, the Kaliida Shoals Medical Center, as it housed tens of thousands of wounded clone troopers, making it a target ripe for destroying. With Grievous forced to take a longer route around a large nebula to reach the station, the Republic deduced that based on the previous attack, the medical station was the next likely target, and Skywalker was dispatched along with his padawan Ahsoka Tano, Jedi General Plo Koon, and the BTL-B Y-wing starfighter/bomber Shadow Squadron, to the medical station and destroy the Malevolence.
+
+     Pelta-class frigates return to the medical station after the Malevolence retreats.  
+Yularen alerted the medical station of the incoming threat, and Chief Medical Scientist Nala Se informed Yularen that even if they had the necessary transports, there would still not be enough time to evacuate all of the wounded. Kenobi soon contacted Nala Se, informing her that the nearby planet Naboo was sending ships to aid in the evacuation. As Grievous was en route to the medical station, Pelta frigates began arriving and loading the more stable wounded patients to the frigates first, with the more critically injured having to wait. When Grievous and Skywalker arrived, Grievous opted to target a fleeing group of Pelta frigates first, and then deal with Skywalker and his squadron. After Grievous destroyed the fleeing group of Peltas, the Malevolence and its starfighters engaged Skywalker and his squadron; in the ensuing battle, Skywalker lost nearly half of his squadron. At the behest of Tano and Koon, Skywalker decided to change his strategy of attacking the bridge to targeting the ion cannons of the Malevolence.
+This strategy turned out to be successful, as the Malevolence received critical damage to both of its ion cannons and hyperdrive, with extensive damage throughout the vessel. As three Venators lead by Kenobi and Yularen arrived, Grievous was forced to call off his attack, retreat and call for reinforcements. In the aftermath of the battle, the surviving Pelta frigates returned to the medical station, the Separatist reinforcements were engaged by Jedi General Luminara Unduli and her forces, and the Malevolence would eventually be destroyed after its hyperdrive was sabotaged, sending it crashing into the Dead Moon of Antar.
+
+Parasitic troubles
+
+"Very well. Take a medical frigate."
+―Obi-Wan Kenobi, to Ahsoka Tano and Barriss Offee —  Listen (file info)
+In 21 BBY in the aftermath of the Second Battle of Geonosis, Republic forces situated on the planet Geonosis received a distress call from Jedi General Mace Windu and his forces on the world of Dantooine. Windu's defenses held, but the battle was costly to his men and he requested medical supplies. With Skywalker, Kenobi, Unduli, and Jedi General Ki-Adi-Mundi occupied with the aftermath of the battle and the transportation of Geonosian Archduke Poggle the Lesser to Coruscant for interrogation, Skywalker suggested that they let Padawans Tano and Barriss Offee handle the supply mission and use TB-73, a Pelta-class frigate, to pick up the supplies from the Ord Cestus medical station and transport them to Dantooine. Tango Company was ordered to accompany the Jedi, however, unbeknownst to the others, clone trooper Scythe had been infected by a Geonosian brain worm on the planet's surface. The worms were previously seen and thought destroyed along with the Progate Temple when Geonosian Queen Karina the Great used the brain worms to form a hive mind and reanimate dead Geonosian warriors to create an undead army.
+
+     TB-73 arrives at the medical station with no one at the controls.  
+The infected Scythe gathered more Geonosian brain worms and brought them inside TB-73, resulting in the infection of most of the crew, and soon took command of the bridge after killing the pilots. Tano and Offee, unaware of the dire situation, went to the mess hall to eat and relax when they were attacked by two infected clone troopers, Ox and Edge. Deciding to split up, Tano was able to communicate with Clone Captain Rex and Skywalker, and informed them of the situation aboard the frigate. Skywalker interrogated Poggle for information on how to stop the brain worms without the knowledge of the others. After Skywalker Force choked Poggle, he informed Skywalker that the worms were affected by the cold. After Offee was infected, she engaged in a duel with Tano, with Tano being able to escape and rupture the coolant system onboard the ship as instructed by Skywalker.
+One by one, the brain worms became affected by the severe cold, just as TB-73 came out of hyperspace. Jedi General Kit Fisto, who was onboard the medical station, dispatched two Republic TUG-314 spacetugs to help guide the ship into the docking port. The spacetugs were having difficulty guiding the ship in, with the tug pilots deducing that the pilots of TB-73 were dead and that there was no one at the controls. After Tano briefly dueled Offee once more on the bridge, Tano was able to kill the brain worm that infected Offee, rendering her unconscious. The tugs were eventually successful in docking TB-73 to the medical station, preventing a collision between TB-73, the medical station, and other Peltas docked with the station. Republic forces quarantined the ship and rescued Tano, Offee, and the clone troopers, who were all able to recover from the cold and the infections.
+
+Later campaigns
+
+"Let's get these cans unloaded."
+―Clone Commander Wolffe during the mission to Aleen —  Listen (file info)
+     A Pelta-class frigate rescued survivors of the Endurance.  
+Later, after the Venator-class Star Destroyer Endurance was sabotaged by the son of the clone template and bounty hunter Jango Fett, Boba Fett, in a plot to seek revenge against Windu for killing his father during the first battle of the Clone Wars, the Endurance crashed on the surface of the planet Vanqor. Windu and Skywalker—who was also present aboard the Endurance—managed to survive the assassination attempt, and evacuated the starship along other crew members. A Pelta-class frigate under the command of Captain Silver arrived in the system to retrieve survivors who evacuated before the ship entered the atmosphere. The Pelta remained in the area until the Jedi reported from the crash site that there were no other survivors. Later in the war, during the Battle of Sullust, as least one Pelta-class frigate participated in the battle, staying closer to larger Republic capital ships.
+After earthquakes rocked the planet Aleen in 20 BBY, the 104th Battalion under the command of Clone Commander CC-3636 "Wolffe," were dispatched with an Acclamator-class assault ship and three Pelta-class frigates to give the Aleena supplies and help them rebuild. Later, following the conclusion of the Battle of Kadavo and the rescue of Togruta colonists of Kiros who had been kidnapped to be sold into slavery, several Pelta-class frigates, a Venator-class Star Destroyer, and an Arquitens-class light cruiser were on site to aid the colonists.
+In the aftermath of an attack on Obi-Wan Kenobi's fleet and its destruction at the hands of Grievous near the world of Florrum in the Sertar sector, Kenobi and his fellow survivors were rescued and were situated in a Venator-class Star Destroyer with several Pelta-class frigates escorting, when pirate Hondo Ohnaka and the remnants of his pirate cartel arrived with a group of Jedi younglings and Tano, who had previously been captured by Ohnaka and his gang until an attack by Grievous.
+
+Age of the Empire
+
+"I will not abandon our command ship!"
+―Commander Jun Sato during the attack on Phoenix Squadron —  Listen (file info)
+     Phoenix Home served as the command ship of Phoenix Squadron.  
+With the fall of the Galactic Republic and the rise of the Galactic Empire, the emerging rebel cells and later the Alliance to Restore the Republic, utilized Pelta-class frigates as hospital ships, although several Pelta frigates being retrofitted with turbolasers and point-defense laser cannons to fulfill larger roles such as anti-starfighter, fire support, communications, and command roles. The Empire also utilized the Pelta-class frigate as hospital ships. At some point during the early rebellion against the Galactic Empire, Kaeden Larte enrolled in a medical program in a city on the Core World of Alderaan, before she was stationed on a Pelta-class frigate.
+
+By 4 BBY, one retrofitted Pelta-class frigate, Phoenix Home, served as the flagship of Phoenix Cell that was under the leadership of Commander Jun Sato. This section of the article assumes completion of a roleplaying game adventure seed or suggestion.At one point, the Phoenix Home was in dire need of medical supplies, so Commander Sato came up with a plan to repaint the Phoenix Home as an Imperial Pelta-class medical frigate to sneak onto a sector hospital station to steal the supplies. Sato hired several Rebels to carry out with the alteration and the theft. The plan was successful.
+At another point, the Alliance acquired another Pelta-class frigate and modified it to fit the specifications of Phoenix Home. Alliance members were tasked to carry out its shakedown cruise, which consisted of attacking a lightly defended Imperial sensor post. The attack was successful.Assumption ends here.
+The vessel was destroyed by the Dark Lord of the Sith Darth Vader during the Siege of Lothal when Vader used his TIE Advanced X1 during the attack with the objective of finding and destroying the fleet and capturing the cell's leaders. After the destruction of Phoenix Home, Sato and other members of Phoenix Cell discussed the loss of their command ship, where they realized that they would need to establish a suitable base in order to sustain themselves.
+Following the blockade of Ibaar, which took place by 2 BBY, Mon Calamari Admiral Raddus sent a document composed by his Mon Calamari aides, Caitken and Shollan, to Commander-in-Chief Mon Mothma detailing the Alliance Fleet's current status. Attached to the document, Raddus wrote that the fleet was getting by with smaller vessels as the heavier starships were not yet online and that the Alliance was not ready for fleet engagements against the Empire. The report detailed the major composition of the fleet, which included Pelta-class frigates, CR90 corvettes, CR70 corvettes, Hammerhead corvettes, Dornean gunships, and GR-75 medium transports.
+
+Galactic Civil War
+     A Pelta-class Assault Ship engaging with a Raider-class corvette.  
+Sometime during the galaxy-spanning Galactic Civil War between the Galactic Empire and the Rebel Alliance, an Alliance Pelta-class Assault Ship broadsided and damaged an Imperial Raider-class corvette while T-65B X-wing starfighters engaged TIE fighters nearby. The Alliance also used Pelta-class Command Cruisers as command ships.
+The Rebel Alliance continued to use the Pelta-class frigate as late as the Battle of Endor, a decisive battle between the Rebel Alliance and the Galactic Empire where the Alliance managed to destroy the second Death Star and Emperor Palpatine was killed by Vader.
+
+First Order–Resistance war
+In order to combat a reborn Darth Sidious and the Sith Eternal, General Lando Calrissian gathered an enormous fleet, that consisted of more than 14,000 ships to attack the Sith Eternal forces. Many Pelta-class frigates were part of this fleet and participated in the battle of Exegol.
+
+Behind the scenes
+     Concept art of the changes made to the Pelta-class frigate for Star Wars Rebels  
+The Republic medical frigate first appeared in the 2008 theatrical film Star Wars: The Clone Wars. The frigate went on to appear in the Star Wars: The Clone Wars animated television series and was prominently featured in the 2009 episode "Brain Invaders," where it served as the primary setting of the episode. The vessel was first provided with its proper canonical name in the Databank on the StarWars.com website.
+The frigate was first named in the Star Wars Legends continuity via The Clone Wars Campaign Guide, which was released in 2009. In its entry for the Pelta-class frigate, the 2018 canon reference book Star Wars Encyclopedia of Starfighters and Other Vehicles incorrectly identifies the model as a YT-2400.
+In the German magazine, Star Wars Animation-Magazine, in the comic strip "Divide and Conquer," Phoenix Cell is depicted as having a Pelta-class frigate in their possession. As the comic takes place after the third season episode, "Imperial Supercommandos," Phoenix Cell's Pelta-class was destroyed in the premier of the second season, Star Wars Rebels: The Siege of Lothal, and because no other source has indicated that Phoenix Cell had another Pelta-class, this article assumes that it is likely an inconsistency in the comic's art.

@@ -1,0 +1,219 @@
+    
+
+
+
+
+
+
+
+CR90 corvette
+
+
+Production information
+
+Manufacturer
+Corellian Engineering Corporation
+
+
+Line
+CR series
+
+
+Model
+CR90 corvette
+
+
+Type
+Corvette
+
+
+Cost
+3,500,000/2,700,000 credits (new)1,500,000 credits (used)
+
+
+
+Technical specifications
+
+Length
+150 meters
+
+
+Width
+48.6 meters
+
+
+Height/depth
+32.6 meters (including upper communications antenna)
+
+
+Maximum acceleration
+2,100 G
+
+
+MGLT
+60 MGLT
+
+
+Maximum atmospheric speed
+950 km/h
+
+
+Engine unit(s)
+Girodyne Ter58 high-output ion turbine engines (11, in trireme configuration)
+
+
+Hyperdrive rating
+Class 2.0
+
+
+Hyperdrive system
+CEC subspace hyperdrive
+
+
+Power plant
+Mason-Branger 7085 ionization reactor and regulator
+
+
+Shielding
+Phoah-Kingsmeyer 484-J4E screen control and shield projector (rated 400 SBD)
+
+
+Hull
+Ferro-magnesium ceramic (rated 188 RU)
+
+
+Sensor systems
+Pax Hustana variable array sensor units (2)
+
+
+Navigation system
+Corellian Chain Management NavCom Unit (26640 limited non-AI processing)
+
+
+Armament
+Taim & Bak H9 dual turbolasers (2 turrets: 1 dorsal, 1 ventral)Taim & Bak H9 single turbolasers (4 turrets mounted on dorsal escape pods: 2 port, 2 starboard)
+
+
+Docking bays
+Ventral starfighter-scale landing bay (1)
+
+
+Escape craft
+Faberstien-Lago 37s emergency escape pods (8, ventral)Armed Faberstien Maximum capacity life ships (4, dorsal)
+
+
+Crew
+30-165 (depending on configuration)
+
+
+Minimum crew
+7
+
+
+Passengers
+Up to 600 (depending on configuration)
+
+
+Cargo capacity
+Up to 3,000 metric tons (depending on configuration)
+
+
+Consumables
+1 year
+
+
+
+Usage
+
+Role(s)
+CorvetteLight escortTransport
+
+
+Year introduced
+Prior to 22 BBY
+
+
+Affiliation
+Galactic RepublicGalactic EmpireKota's MilitiaAlliance to Restore the RepublicNew RepublicGalactic Federation of Free AlliancesCorellian Defense ForceHutt CartelBesadii kajidicZann ConsortiumMandaloriansZsinj's EmpireAiram Clans
+
+
+[Source]
+
+
+
+"The Rebel blockade runner is the pride of the Corellian Engineering Corporation's military vehicles. With its mess of huge engines, it can whoop any jerk-ass Imperial."
+―Corellian Engineering Corporation advertisement
+The CR90 corvette, commonly referred to as the Corellian corvette or the Rebel blockade runner, also known as an Alderaan cruiser, was a small, multi-purpose capital ship manufactured by Corellian Engineering Corporation.
+The CR90 had a wide variety of users throughout the galaxy, from pirates to corporations to galactic navies, and had a known operational life from at least as early as 52 BBY to as late as 137 ABY. It possessed the same legendary adaptability as other CEC products, which allowed it to serve in roles as mundane as freight hauling or as a high-profile diplomatic escort.
+
+Characteristics
+     A Corellian corvette  
+A versatile starship, the CR90 was used extensively across the galaxy by governments and private interests. The interior of the CR90 featured a modular design to allow for easy reconfiguration of the Corellian corvette from one function to another. Some older model corvettes, like the CR70, could easily be upgraded with retrofit packages like the Vanguard c20 to become CR90s.
+Common configurations included a troop carrier, light escort vessel, cargo transport, or passenger liner. Its ease of modification was a trademark of CEC and increased the corvette's resale value. One of the rarer variants could carry starfighters, such as the Night Caller and Constrictor.
+The weapon systems varied, although the standard configuration mounted two Taim & Bak H9 dual turbolasers and four single turbolasers. CR90 corvettes could carry as many as eight turbolasers, six laser cannons, and four ion cannons. Under the standard configuration, these turrets were unable to hit anything directly behind the corvette's engines, so CR90 corvettes featured a well-known axial blind spot.
+A common configuration for combat-oriented corvettes consisted of six H9 dual turbolasers. A similar armament was mounted on the CR92a Assassin-class corvette, a successor of the CR90 that was designed exclusively for combat roles.
+
+     A CR90 corvette travels in formation with two GR-75 medium transports.  
+The ship was capable of sustaining acceleration up to 2,100 G and could carry 600 passengers. However, its class 2 hyperdrive was slow compared to many ships of similar size. The standard crew was made up of 8 officers and 38 enlisted crew, but could range from 30 to 165 total, depending on its configuration.
+Interestingly, the CR90 could be piloted by as few as two people, as shown when Han Solo and Chewbacca flew a series of corvettes bearing the name Jaina's Light, or even one person if necessary via a steering yoke, as Wedge Antilles demonstrated when he flew the modified corvette Night Caller.
+The 150 meter-long craft could reach atmospheric speeds of 950 kilometers per hour.
+
+History
+Republic service
+In the last decades of the Galactic Republic, the CR90 corvette was introduced and older corvette-models like the CR70 were gradually being refitted into this version. The Republic CR90 corvettes served in the Judicial Forces and later in the Republic Navy when it was reinstated during the Clone Wars. The CR90 model was considered a mid-sized corvette in the time before the Wars.
+
+Imperial service
+     A corvette in space  
+A dwarf amongst the massive Imperial-class Star Destroyers of the Imperial Navy, CR90 corvettes were relegated primarily[source?] to diplomatic and escort duty in the Galactic Empire. In fleet engagements, CR90 corvettes were often tasked with attacking enemy starfighters or fleeing the battlefield with important cargo or intelligence. Prior to the Dissolution of the Imperial Senate by Emperor Palpatine, these corvettes were used by Imperial senators as diplomatic couriers.
+
+Rebel and fringe service
+Unlike their Imperial counterparts, Alliance CR90 corvettes acted as front-line combat ships for the early years of the Galactic Civil War, generally being used as anti-starfighter screens. The ease of acquiring CR90 parts and mechanics made them a good fit for the desperate Rebellion. Its near ubiquity made it a popular choice amongst Rebels, pirates, and smugglers, earning it the nickname "blockade runner" for its ability to slip through Imperial nets. However, it proved ineffective against larger ships such as the Imperial I-class Star Destroyer short of suicidal ramming attacks unless it was used in large numbers against such a vessel. One example was at the Space Battle at Kuat when five Corvettes caused considerable damage to the Star Destroyer Tyranny.
+Knowing that the corvette was used by the Rebellion, Imperial authorities often stopped them for inspections on the flimsiest of excuses.
+
+     Tantive IV, a Rebel corvette, leaves Alderaan.  
+Crime Lord Tyber Zann acquired CR90 corvettes for his fleet during his corruption efforts in the galaxy.
+
+New Republic service
+Following the transition of the Alliance into the New Republic, CR90 corvettes continued to play an important role in the newly organized New Republic Defense Fleet until phased out of line-duty with modernization efforts like the New Class Modernization Program.
+
+Later history
+Several CR90s were used to make up a secret retreat in 137 ABY. At least two were used during the Evacuation of Dac.
+
+Descendants
+     Sundered Heart  
+The CR90 design, itself a descendant of a line of similar vessels, provided the basis for a series of derivative designs and creative refits.
+
+Sundered Heart
+ Main article: Sundered Heart
+A well-known example of a significantly modified CR90 was Sundered Heart, a corvette modified for extreme speed. With an added set of sublight engines, this vessel was capable of up to four times the sublight acceleration of the original CR90.
+
+CR92a Assassin-class
+ Main article: CR92a Assassin-class corvette
+     A CR92a Assassin-class corvette  
+Sometime around the Battle of Hoth, the CR92a Assassin-class corvette began to see widespread use. Commonly known as the "Modified Corvette," the Assassin-class was designed specifically for combat. In its default configuration, it carried six dual turbolasers and one warhead launcher. The Imperial Navy was known to use the Assassin-class in significant numbers.
+
+Corellian Buccaneer
+ Main article: Corellian Buccaneer
+The Corellian Buccaneer was another militarized corvette class introduced no later than 7 ABY. It had similar technical specifications to the CR90, but had a stock armament of ten dual turbolasers. One such vessel was used by the Dynamic Automata company in the Pentastar Alignment.
+
+Pocket carriers
+Night Caller
+ Main article: Ession Strike
+Some time after the Battle of Endor, the New Republic captured at least two different CR90 refits designed to carry starfighters. The first was Night Caller, captured from Warlord Zsinj in 7 ABY. Though it was very similar to the CR90 in most respects, it was built from the ground up to serve as a small carrier. The primary changes from the original CR90 design were an enlarged bridge section with a starfighter hold, and a tractor beam projector suited to a much larger warship.
+
+FarStar
+ Main article: FarStar
+     FarStar  
+The second known carrier refit was FarStar. Originally commissioned in 52 BBY, it was refit by the order of Moff Kentor Sarne. A large docking bay was grafted onto the vessel's spine, and its hyperdrive system was modified to accommodate the new hull shape. It is unclear if this modification was in any way standardized or if it was a custom Imperial design.
+
+Behind the scenes
+ Main article: Tantive IV#Behind the scenes
+The CR90 corvette's design was developed from one originally intended for Millennium Falcon. When that design was rejected for being too reminiscent of Space: 1999's Eagle Transporter, it was adapted to become the CR90. The most obvious change was replacing its cockpit area with the distinctive "hammerhead" bridge section. In addition, the escape pods were relocated to the lower hull, with laser cannons being mounted where the pods had originally been placed. This was essential because Tantive IV had to launch an escape pod while inside the Imperial-class Star Destroyer Devastator's ventral hangar bay.
+
+     A CR90 Hologram  
+Corvettes have a well-known "blind spot," in that they cannot shoot anything behind their engines, known especially to gamers of X-Wing computer game series and used whenever they had to destroy one. This may appear to contradict the very first scene of A New Hope—Tantive IV shoots Devastator, right behind her. This may be explained by the fact that Devastator was a much broader target and slightly above her (although Tantive's ventral cannon was also used).
+Early West End Games RPG statistics for the Corellian corvette list its armament as six double turbolaser turrets, despite the corvettes seen in A New Hope and Return of the Jedi clearly mounting only two such turrets. This was later retconned by describing the heavier armament as an optional upgrade. The CR90 that appears in Star Wars: Empire at War is armed with only eight laser cannons, although this is a simple game balance issue, as the ship is placed into the anti-fighter role as the Rebel counterpart to the Tartan-class patrol cruiser. In comparison, the Imperial-class Star Destroyers mount only four turbolasers instead of the sixty batteries they are supposed to have, while the MC80 Liberty type Star Cruiser is similarly nerfed from 48 turbolasers to four to match the Imperial-class in strength.
+Early schematics for the CR90 show a much smaller ship length-wise than the original filming miniature portrays. The reason is unclear, but the trend toward a stunted look continued and affected every incarnation of the ship, from roleplaying deckplans to computer models for the X-Wing series. The error was propagated even into Revenge of the Sith's portrayal of the Tantive IV as a stunted ship. This was retconned by the Rebel Alliance Blueprints book as being a CR70 corvette, while the much longer Tantive IV is now recognized as the definitive CR90.
+In the Star Wars: Galactic Battlegrounds expansion pack Clone Campaigns, the player via a cheat code, can get a CR90 corvette (then titled "Rebel Blockade Runner") as a playable ship. The cheat code's name was a reference to the Tantive IV.
+The Essential Guide to Warfare mentions that Corellian corvettes were an important part of the imperial Support Fleet, but doesn't state the corvette model. The book says that CR70 and CR90 were two of the most common models.
+According to The Sounds of Star Wars, the sound of the rebel blockade runner in the opening scene of A New Hope is a mixture of a slowed down World War II AT6 propeller-driven racing airplane and a 747 jet.

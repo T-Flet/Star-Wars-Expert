@@ -1,0 +1,665 @@
+
+This article is about the video game.You may be looking for the various other Knights of the Old Republic projects.
+
+
+
+
+
+
+
+Star Wars:Knights of the Old Republic
+
+Production information
+
+Developer(s)
+BioWareAspyr Media (Mobile ports)
+
+
+Publisher(s)
+LucasArts
+
+
+Release date
+July 15, 2003 (Xbox)November 19, 2003 (Microsoft Windows)[source?]September 7, 2004 (MacOS)[source?]May 17, 2013 (iOS)December 22, 2014 (Android)November 11, 2021 (Nintendo Switch)
+
+
+Game engine
+Odyssey Engine
+
+
+Genre
+RPG
+
+
+Modes
+Single-player
+
+
+Rating(s)
+ESRB: Teen (T)PEGI: 12+ACB (AU): PG (8+)
+
+
+Platform(s)
+XboxMicrosoft WindowsMacOSiOSAndroidNintendo Switch
+
+
+
+Chronological information
+
+Timeline
+3956 BBY
+
+
+Next
+Star Wars: Knights of the Old Republic II: The Sith Lords
+
+
+[Source]
+
+
+
+"What greater weapon is there than to turn an enemy to your cause? To use their own knowledge against them?"
+―Bastila Shan —  Listen (file info)
+Star Wars: Knights of the Old Republic (KotOR) is a roleplaying game made originally for the Microsoft Xbox and later released for the PC and Mac OS X, also available on iOS and Android devices. The game was developed by BioWare and published by LucasArts for Xbox on July 15, 2003, for PCs running Microsoft Windows on November 19, 2003, and later for Mac OS X on September 7, 2004. A decade later it was ported by Aspyr Media, first on iOS, in May 30, 2013, and on Android in December 23, 2014. Set 3,956 years before A New Hope, Knights of the Old Republic covers the era just after that of the Tales of the Jedi comics, the time of the ancient Galactic Republic.
+KotOR is the first computer RPG set in the Star Wars universe. It uses the d20 System, from the Wizards of the Coast Star Wars Roleplaying Game rules. The game also allows the player to either be a servant to the light side of the Force or the dark side, using an alignment system that tracks actions, from simple dialogue choices to major plot decisions. Combat is turn-based. Time is divided into discrete rounds, and combatants attack/react simultaneously. However, the number of actions a combatant may perform each round is limited. While the round's duration is a fixed short interval of real time (around six seconds), the player can configure the combat system to pause at specific events or at the end of each round.
+A sequel - Star Wars: Knights of the Old Republic II: The Sith Lords - was developed by a different studio, Obsidian Entertainment, using an updated version of the Odyssey Engine from the first game. Bioware was occupied with producing Jade Empire and wanted to focus more on their original productions than licensed games, but they recommended Obsidian for KotOR's sequel and retained limited oversight on Obsidian's development of The Sith Lords. It was released for Xbox a year later, in December of 2004, and PC in February of 2005. On September 9, 2021, Sony announced Star Wars: Knights of the Old Republic – Remake, a PlayStation 5 remake of the original game developed by Aspyr Media.
+
+Opening crawl
+     Full cover art.  
+
+
+KNIGHTS OF THE OLD REPUBLIC
+
+
+Four thousand years before
+the rise of the Galactic
+Empire, the Republic verges
+on collapse. DARTH MALAK,
+last surviving apprentice of
+the Dark Lord Revan, has
+unleashed an invincible
+Sith armada upon an
+unsuspecting galaxy.
+
+Crushing all resistance,
+Malak's war of conquest
+has left the Jedi Order
+scattered and vulnerable
+as countless Knights fall in
+battle, and many more
+swear allegiance to the new
+Sith Master.
+
+In the skies above the Outer
+Rim world of Taris, a Jedi
+battle fleet engages the
+forces of Darth Malak in a
+desperate effort to halt the
+Sith's galactic domination....
+
+
+
+
+Synopsis
+This is based on the canonical male light side version of the game and assumes that the planets are visited in the order Dantooine, Tatooine, Kashyyyk, Manaan, then Korriban. Gender, order of planets visited and other variables can differ depending on the input of the player.
+
+This section of the article assumes that the player chooses only "light side" options in the course of the game. Alternate stories are noted in the "Behind the scenes" section. Note: The events in this section may or may not have been confirmed as canon within the Star Wars Legends continuity.
+Trapped on Taris
+ See also: Attack on the Endar Spire
+ See also: Rescue of Bastila Shan
+     Carth Onasi.  
+A soldier of the Galactic Republic wakes up to find himself in the middle of a battle on the Hammerhead-class capital ship Endar Spire, which is on a mission under the Jedi Sentinel Bastila Shan. Trask Ulgo, another Republic soldier, aids his escape from the doomed vessel and splits off to face Darth Malak's apprentice Darth Bandon. Trask seals the door behind him and buys his brother in arms time to escape. After entering the starboard section and finding Carth Onasi in the escape pod bay, the two join up and crash-land on the Sith-occupied ecumenopolis of Taris. Carth is able to drag the unconscious man from the wreckage and rent an abandoned apartment in the Upper City. The man remains in a stupor for the next few days.
+
+     Bastila Shan.  
+When the man regains consciousness, Carth informs him of the situation and that they need to find and rescue Bastila, whose escape pod has crash-landed somewhere on the planet. Bastila is and still would be, if rescued, the key to the Republic's war effort against the Sith due to her ability in battle meditation, a Force power that allows her to strengthen an entire army with confidence and spirit, while discouraging and confusing the enemy. Together, the two set out to find Bastila, and proceed into the hostile world.
+The soldier and Carth learn that Bastila's escape pod had landed in the Undercity of Taris—a rough area below the privileged Upper City and the slums of the Lower City where rival swoop gangs, the Hidden Beks and Black Vulkars, are engaged in a fierce gang war. The battles, plus the search for any other survivors of the battle, prompted the Sith to impose a security lockdown, forcing one of the pair to disguise himself in stolen Sith trooper armor to gain entry to the area.
+In the Lower City, the soldier and Carth go to the Hidden Beks' hideout, where they find out from the leader of the Beks, Gadon Thek, that the Vulkar gang leader, Brejik, has taken Bastila captive, intending to offer her as a prize for the winner of the upcoming swoop race. Gadon agrees to sponsor the soldier as the Bek rider, on the condition that he retrieve a prototype swoop-bike accelerator that had been stolen from them by the Vulkars. In order to get to the back entrance of the Black Vulkar Base, Gadon tells them to find the Twi'lek girl Mission Vao and her Wookiee friend Zaalbar, who are supposed to know a way in through the Undercity of Taris, the lowest level of the city where criminals and refugees were exiled.
+Coincidentally, when they find her, they discover that Mission needs their help as well. She and Zaalbar were attacked by Gamorrean slavers and Zaalbar had been captured as a result. Mission agrees to help them infiltrate the Vulkar Base if they help her find Zaalbar. The group ventures into the sewers. They track down and rescue Zaalbar from the slavers. Zaalbar, in gratitude, swears a Wookiee life debt to the soldier.
+The group, led by Mission, go deeper into the sewers to the back entrance of the Vulkar Base, which is guarded by a rancor. They raid the Vulkar Base and retrieve the accelerator after a confrontation with one of Brejik's lieutenants, Kandon Ark. Afterwards, they return to Gadon and the Beks. They stay the night before going to the swoop track the next morning. The untested racer manages to win the race. Before he can accept his prize however, Brejik breaks the deal at the last moment, claiming the soldier had cheated by using the prototype accelerator. In the chaos Bastila breaks free and a fight ensues. Brejik and his Vulkar thugs cannot defeat them and die in the battle.
+Having rescued Bastila, the party begins looking for a way to get off Taris through the Sith blockade when a messenger comes to their apartment, telling them that a Mandalorian mercenary, Canderous Ordo, wants to speak with them in Javyar's Cantina. When they get there, Canderous proposes that they steal the Ebon Hawk, a freighter that belongs to his employer, Davik Kang, the Tarisian Exchange boss. But first, they need the security pass codes to get through the Sith blockade, and the only place to get the codes is from the Sith base. To gain entry into the base, they have to purchase T3-M4, a T3-series utility droid that Davik has had programmed with the entrance codes to the base.
+
+     Darth Malak.  
+After purchasing T3-M4, the party breaks in and kills the Sith Governor to steal the passcodes. Canderous takes the soldier and Bastila to Davik's estate. Canderous recommends the soldier to Davik for hire as a ploy. Shortly after being welcomed, the three open the hangar doors and proceeded to steal the Ebon Hawk. Even as they do so, Darth Malak, the Dark Lord of the Sith, now leading the Sith after betraying his former master Darth Revan, orders Saul Karath, Admiral of the Sith Fleet, to bombard
+Taris in order to prevent Bastila from escaping.
+As they are getting to the Ebon Hawk, they are confronted by Kang and the galaxy-wide famous bounty hunter Calo Nord in the hangar. They kill Davik and leave Nord buried under rubble caused by the Sith bombardment. After stealing the Ebon Hawk, the infiltration party picks up the others and charges the Sith blockade while broadcasting the codes and escape the Sith onslaught.
+
+Dantooine refuge
+Bastila reveals to the soldier that he is very strong in the Force and takes him back to the Jedi Enclave on Dantooine to see if the Council will train him as a Jedi. They accept, in spite of his age, particularly after it is revealed that he is experiencing visions detailing the fall of Revan and Malak - and that he has shared these visions with Bastila, with whom he has forged a Force bond. After training under Zhar Lestin, the soldier, now a Jedi-in-training, is charged with doing battle with Juhani, a young Jedi apprentice who had been tainted by the dark side of the Force. After defeating her, he succeeds in convincing her to return to the light and is promoted to the rank of Padawan.
+He is then ordered by the Council to investigate mysterious ruins that are believed to be the place seen in his visions. There, he finds a droid, which requires him to pass two tests regarding his knowledge of astrography before proceeding further into the temple. The party completes these tasks successfully and is granted access into a room containing an incomplete Star Map. One which gives clues to the locations of four more, similar maps. The party surmises that the maps, if combined, would lead them to a mysterious "Star Forge" that the droid speaks of and which seems intricately tied to the fall of Revan and Malak. After learning of this, the Council charges the Padawan with the mission to find the Star Forge, accompanied by Bastila, his companions, and Juhani.
+Meanwhile, unknown to them, Calo Nord, who has survived the carnage on Taris, is brought before Malak by Admiral Karath. Nord offers information to the Dark Lord about Bastila and her companions, which Saul promises Malak would find "most interesting." Malak agrees to hear this and to hire Nord to hunt down the party and bring Bastila to him alive.
+
+Second Star Map: Tatooine
+The newly christened Padawan and his companions journey to the desert world, Tatooine, and explore the city of Anchorhead. There, the Padawan receives another vision, indicating that the Star Map he is looking for is located in a cave. When learning that only hunters are allowed to leave the city, the Padawan persuades the head of the Czerka mining company there to hire him to eliminate the Sand People that have been plaguing the miners and other hunters in the area. However, a Duros tells the Padawan that there might be a peaceful solution to the matter and urges him to find one.
+
+     Anchorhead Settlement.  
+Listening to the Duros' advice, the Padawan buys HK-47, an HK-series assassin droid, thinly disguised as a protocol droid from the town's droid shop owner Yuka Laka. With the droid's help, the player is able to communicate with a nearby tribe of Sand People at their enclave and negotiates an end to the attacks on Czerka Corporation by giving the Sand People chieftain two moisture vaporators. The chieftain then presents the party with his Chieftain's gaderffii as a sign of good faith, and a map that helps them locate a Star Map hidden in the Eastern Dune Sea. The Padawan then follows this map to a canyon krayt dragon's cave and assists a local hunter, Komad Fortuna, in killing it. He enters the cave and acquires the second Star Map. As he and the others leave the cave they are confronted by Calo Nord and some other bounty hunters. Calo says he will have to kill them in spite of Malak's request that he take Bastila alive. The Padawan and his companions defend themselves, and kill Nord for good.
+
+Third Star Map: Kashyyyk
+ See also: Rebellion on Kashyyyk
+The Padawan then travels to Kashyyyk, and finds that the planet is under the control of Czerka Corporation, and that they are enslaving the local Wookiees. Hoping to enlist the aid of the Wookiees in reaching the Shadowlands and the Star Map present there, the Padawan heads for the village of Rwookrrorro. However, because he brings with him the accused mad-claw Zaalbar into the city, he is seized and brought before the Wookiee Chieftain. The chieftain, Chuundar, Zaalbar's brother, is secretly in league with Czerka. Chuundar blackmails the Padawan into hunting down a crazed Wookiee in the Shadowlands by keeping Zaalbar as a hostage. Fortunately for the Padawan, that gives him a chance to find the Star Map.
+
+     Zaalbar.  
+In the Shadowlands, the Padawan meets an old hermit named Jolee Bindo who agrees to lead him to the Star Map in exchange for a favor: removing a group of Czerka poachers. The Padawan finishes the job and, as promised, Jolee lowers the deflector shield to let the party into the lower Shadowlands. When down there, the party discovers that the mad Wookiee is Freyyr, Zaalbar and Chuundar's father who had exiled Zaalbar more than twenty years before as a mad-claw, only to discover the truth of Chuundar's treachery later. Having been driven from Rwookrrorro, Freyyr descended into the Shadowlands and when the party encounters him, he blindly attacks them and is defeated. However, the Padawan spares him and together they concoct a plan to get Bacca's Ceremonial Blade, the symbol of a true chieftain, and fight Chuundar for the title. Freyyr says that the blade of the sword was lost in a ritual fight long ago against an ancient beast. The party baits, finds the beast, and kills it. They then retrieve the blade from its hide. They give the blade to Freyyr, who then climbs up the trees towards Rwookrrorro, and asks the party to meet him there.
+While in the Shadowlands, the Padawan discovers an ancient computer; whose artificial intelligence poses him a series of ethical dilemmas, whose "correct" answers reflect Sith philosophy. The Padawan's answers are deemed wrong by the computer, which sends out defense droids to terminate the intruder. However, when the party successfully defeats the ancient droids, the computer's scans of his brainwaves during the fight match those of the only person who is allowed to see the map. Thinking that the Padawan is that person, he allows the Padawan to see the Star Map.
+Upon returning to the lift, the party is forced to kill the Wookiee in charge of the basket, Gorwooken, who has discovered their betrayal of Chuundar and attacks them. The party proceeds to the canopy on their own, meeting up with Freyyr's supporters on the way to Rwookrrorro. Upon arriving at the Chieftain's Hut, the room erupts in chaos, leading to a battle between the Padawan's allies and Czerka and Chuundar's loyalists, including himself. The Czerka and Wookiee bodyguards are slain along with Chuundar, and as a reward for their aid, Freyyr gives his only surviving son Bacca's Ceremonial Blade. Zaalbar is allowed to come out of exile and is no longer branded a madclaw. Shortly thereafter, the Wookiees of the village unite under their new chieftain, Freyyr, and rebel against Czerka with the aid of the party.
+Meanwhile, upon hearing the news of Calo Nord's death, Malak sends his apprentice, Darth Bandon, to take the bounty hunter's place as the leader in the search for Bastila.
+
+Fourth Star Map: Manaan
+ See also: Raid on the Sith Embassy
+Following their visit to Kashyyyk, the crew of the Ebon Hawk heads for the oceanic world of Manaan, landing in the docking bay. The Padawan's visions indicated that the Star Map was on the ocean floor and hears the Republic ambassador to Manaan, Roland Wann, might have answers to his questions. Upon reaching the embassy the party asks Roland about a means to reach it. Wann agrees to help them in exchange for retrieving a captured probe droid. The droid had been surfacing from a survey of the Hrakert Rift, a major source for Manaan's precious and unique resource, kolto, and where the Star Map was, when it was captured by the Sith.
+The Padawan agrees to help the Republic, infiltrating the Sith embassy via one of three entrances, and fighting his way to the droid. The droid had been scavenged, but the part that Wann had requested is still intact. The party is leaving the base with droid part in hand when they are confronted by Selkath authorities with reports of shots fired within the embassy. The Padawan is put on trial and despite being offered an arbiter to represent him, he single-handedly persuades the authorities to let him go. Now free, the Padawan proceeds back to the Republic embassy.
+
+     A Selkath.  
+The party learns from Roland that the droid was sent to investigate an illegal kolto harvesting plant that was created by the Republic and which had recently broken contact with the surface. He tells the Padawan that the Republic hired many mercenaries to investigate what happened at the station, but none had returned. He also informs the Padawan that they had lost contact with the facility after uncovering some ancient artifact. In exchange for help in investigating the facility, Roland provides the party with a submersible and sends them on their way.
+Once they arrive, the Padawan meets a crazed mercenary and learns from him that, following the artifact's excavation, the Selkath were going insane and killing everyone. Refusing to leave in spite of warnings, the Padawan fights his way through the facility and obtains an enviro-suit and a sonic emitter in the process. Forced to leave his companions behind, the Padawan searches the ocean floor with the one wet suit available and finds his way to a separate part of the facility.
+There, he meets the head scientist, Kono Nolan and his associate, Sami. The two are the only Human scientists still alive and are trapped in the facility. After surviving their mad attempt to kill him, the Padawan persuades them to tell him what they know. They inform him about a massive firaxan shark, which is responsible for the Selkath's insanity. Upon asking how to get past it to the Star Map, Kono reveals that he had been working on a poison which, in theory, could kill the shark. Sami believes that using it would pollute the waters of Manaan in ways that may never be corrected. Following Sami's advice, the Padawan destroys the kolto harvesting machine, calming the shark down and allowing the Padawan to approach the Star Map.
+When the Padawan is reunited with his companions at the entrance of the base, they meet Darth Bandon, accompanied by two Dark Jedi. After Bandon expresses his excitement that he could still "have the pleasure" of killing the Padawan, the party engages in a vicious lightsaber duel from which the Padawan emerges victorious. The Padawan returns to the Republic embassy and tells Roland of what had happened. Though displeased with the results, Roland thanks the Padawan and sends him on his way. The Padawan is again seized by the Selkath authorities, this time for his actions at the Kolto facility. Again, the Padawan persuades them to release him upon revealing the full story, which some of the Selkath believe tie into their myths surrounding "the Progenitor," which they believe the Padawan had saved.
+
+Revelation aboard the Leviathan
+ See also: Skirmish aboard the Leviathan
+As the party leaves Manaan, they are caught in the tractor beam of the Leviathan, the flagship of Admiral Saul Karath, Carth's old mentor. While they are being pulled in, they discuss how to escape and the Padawan picks a member of his party to escape the Sith and rescue everyone else from capture. The Padawan, Bastila, and Carth are all put in force cages, and are interrogated by Saul Karath himself as he waits for Malak's arrival. He also informs them that the Jedi Academy on Dantooine has been destroyed. Bastila refuses to submit to Karath's questions, so the Admiral questions the Padawan instead. For every question he answers incorrectly, Bastila is tortured. The Padawan's will weakens, but ultimately the Sith receive little of use from the interrogation. Saul leaves and orders the trio's torture to be continued. The Padawan faints along with Bastila, and Carth informs him that he got the worst of the torture, and Bastila is worried that the dark side is growing stronger, because she did not sense a disturbance in the force when Dantooine was attacked. However, she senses that Saul sent his message to Darth Malak
+Meanwhile the party member is able to infiltrate the Leviathan, and get some weapons in the process. In the prison block, the party member finds a Rodian who helps in the rescue in exchange for his freedom. He gives the party member the ICE breaker. The party member uses it to open the area that contains the Padawan and the others who, when freed, recover their equipment from lockers in the next room. Afterwards, Canderous volunteers to take the group to the Ebon Hawk and get it ready to launch, while the Padawan, Bastila, and Carth move to the bridge to disable the shields in the hangar bay.
+After getting to the bridge by walking along the hull of the ship in environmental suits, the Padawan, Carth, and Bastila confront Admiral Karath and his men there. The Admiral confidently reveals that Malak's arrival is near and Bastila confirms it through the Force. An urgent battle follows, which the three manage to win. Saul, near death, asks his old student to come closer so he can reveal a secret. Curious, Carth leans in and with his dying breath Saul tells the soldier something that sends him into a fury. Carth confronts Bastila about what Saul had said, and Bastila begs Carth to wait until after they've escaped to talk about it, promising to explain everything. Reluctantly, Carth agrees, leaving the Padawan in the dark.
+
+     The Ebon Hawk escapes from the Leviathan.  
+Before they are able to reach the hangar, they run into the Dark Lord, who disarms Carth in a standoff with Bastila and the Padawan. Then the Dark Lord says he is surprised to see the Padawan again, which confuses the Jedi-in-training. This amuses Malak who sneeringly reveals to the Padawan a truth that Bastila, the Jedi, and now Carth have been hiding from him: his true identity, the former Dark Lord of the Sith, Darth Revan. Malak, eager to kill his former Master once and for all, uses Force Stasis Field on Bastila and Carth, leaving Revan to fight the Dark Lord by himself. After a prolonged battle, Bastila releases herself and Carth. She charges in, telling Carth and Revan to escape so they can find the Star Forge. She then takes on the Dark Lord by herself and the door seals behind her, trapping her and stopping Revan and Carth from helping her.
+Seeing nothing else that they can do, Revan and Carth run to the Ebon Hawk, and after a skirmish with Sith fighters, escape the Leviathan. Afterwards, the rest of the group learns the truth about their leader, meeting it with mixed but overall positive reactions. In a strange coincidence, HK-47's memory, which had been lost due to simulated damage to his memory core, was restored due to a program designed to do so upon returning to his first and true master: Revan.
+
+Fifth Star Map: Korriban
+ See also: Skirmish on Korriban
+Eager to acquire the last Star Map and find the Star Forge before it's too late, the group arrives on Korriban, a Sith world and the location of a settlement and a Sith Academy. Students from the Academy dominate the docking areas. These students, training to become Sith themselves, are encouraged to commit acts of cruelty and brutality. The most frequent victims of these acts are the new arrivals eager to join the Academy.
+
+     Dreshdae.  
+Revan quickly surmises that the Star Map would be accessible only by a student of the Academy. Admittance requires gaining the notice of the student body and distinguishing oneself by means of strength, cunning, and/or ingenuity. Only one graduate is allowed to join the Academy each term so vicious and often fatal competition is encouraged by the Sith Masters.
+Revan finds help in this regard when he comes to the attention of Yuthura Ban, second-in-command at the Academy. She quickly notices the vast Force potential of her newest recruit although she does not realize that she is dealing with the deposed Dark Lord. She entangles Revan in a web of conspiracy whose ultimate goal is to engineer the assassination of Uthar Wynn, the head of the Sith Academy and Yuthura's master.
+The potential students of the academy prove their worth by performing various tasks and gaining prestige. Some of the challenges are martial in nature while others were mental, but all require a certain commitment to the Sith ideals embodied by the Code of the Sith which Revan is required to relearn and recite in order to take an early lead over his fellow initiates. The Code of the Sith, a twist of the Jedi Code, is a harsh insight for Revan as much of its philosophy is based on ideals and motives he had set in motion as the Dark Lord.
+At some point Revan, most likely in an attempt to receive prestige, explores and raids the tomb of the ancient Sith Lord Ajunta Pall. This is complicated by the fact that the Sith Lord himself has survived the many centuries since his death as an embittered Force ghost. Ajunta Pall demands that Revan locate his infamous blade, taking it with him when he leaves the tomb. Revan retrieves the blade as well as two more besides. Revan then persuades the dark specter that he could at last find peace if he was willing to seek redemption. At last giving into the light, Ajunta fades away, redeemed by Revan.
+Between Revan's actions and Yuthura's plotting, Revan eventually wins the prestige contest, gaining access to the tomb of Naga Sadow and the Star Map inside. There he finds the last of the Star Maps and finishes the last of the Academy's trials. Upon emerging he is forced to choose sides between Uthar and Yuthura and eventually defeats both of them, sparing Yuthura even after she betrays him following the death of Uthar Wynn. Upon leaving the tomb, all of the students of the academy attack Revan; they are all slain. With his goals completed, Revan leaves the Sith world behind him, and sets a course for the Star Forge itself.
+
+Crash-landing on an unknown world
+Armed with the location of the Star Forge, Revan and the crew of the Ebon Hawk arrive at the coordinates shown on the Star Maps, only to be trapped in a power disruption field that forces them to crash-land on the planet that is the source of the disruption. Before they crash, Carth manages to send the coordinates of the Star Forge to the Republic so that they can gather a fleet to destroy the Sith forces located in the system.
+
+     The Rakatan world at the time of Revan's second known landing.  
+They discover that the planet is a graveyard of crashed ships, many of which have been stripped and looted by other voyagers affected by the power disruption field. Damage to the Ebon Hawk requires Revan to find repair parts as well as the source of the disruptor field; not only does the field prevent the crew of the Ebon Hawk from escaping the planet, it also effectively cripples the Republic fleet on its way. Upon exploring the unknown world, Revan and his companions find that the world is inhabited by a species that call themselves the Rakata.
+Revan discovers the Rakatans are divided into several tribes, one of which was the Elders, who maintain some of the technology from the Rakatan Infinite Empire that built the Star Forge. The Elders, few in number, are at war with another, more primitive tribe known as the Black Rakata. Revan discovers that during his previous visit to the world, he'd exploited both sides to gain access to the Star Forge and he struggles to regain the trust of the Elders. Upon helping them recover some of their number who have been kidnapped by the One, the leader of the Black Rakata, Revan convinces the Elders to aid him in entering the Temple of the Ancients, which is the source of the disruption field. Though he is required to enter alone, Juhani and Jolee, after receiving a vision that warned them that Revan was in danger, join him at the last minute against the Elders' protests. Together they enter the Temple.
+Inside, the three find their way to the disruptor field controls, only to be confronted by Bastila who has fallen to the dark side. She has sworn herself to Darth Malak's service, Malak having used a combination of torture and preying on her arrogance, pride, and love for Revan to convince her that the Jedi are using and holding her back. In a tense confrontation, Revan is forced to defend the light from the very person most responsible for his redemption. He reluctantly engages her in a duel, but with Juhani and Jolee's help, he defeats Bastila, who expresses surprise at Revan's power and comes to believe that he deserves to be the Dark Lord of the Sith. Bastila tries to seduce him back to the dark side, even going so far as to pledge her loyalty to him and promising him that she would use her Battle meditation in his service and become his apprentice and lover. Despite her temptations, Revan rejects her offer, and Bastila angrilly flees in a G-wing, swearing that their next encounter aboard the Star Forge will be their last.
+Escaping the temple and rejoining his companions, Revan and the others join the Republic's assault on the Star Forge knowing that the fate of the galaxy rested on their efforts. However, for Revan, the battle was a personal conflict since saving the galaxy might mean taking the life of the woman he loved.
+
+The Star Forge
+ See also: Battle of Rakata Prime
+     The Star Forge.  
+Admiral Forn Dodonna and Jedi Master Vandar are mystified by the sheer size and efficiency of the Sith fleet and, upon regaining contact with the Hawk and her crew, are horrified to learn of Bastila's defection. To counter the threat presented by Bastila, the Republic commanders come up with a desperate plan. The Ebon Hawk will lead a strike force of Jedi through the static defenses of the Star Forge. Only a handful of ships actually survive the run to land safely on the Star Forge's flight deck where Dark Jedi backed up by the station's battle droids attack the Jedi in the hangar. The Dark Jedi are defeated and the Jedi strike team is assigned to defend the hangar so they can later make their escape. Revan and two of his companions advance into the Star Forge and find themselves alone against the bulk of Darth Malak's entire fighting force, they battle wave after wave as they make their way towards Bastila.
+Finally, Revan and the others reach Bastila's chamber where he is separated from his companions and left to confront Bastila alone. Bastila draws on all of her skills and the dark power of the Star Forge, but is ultimately unable to defeat Revan. Through their love for one another and the bond between them, Revan is able to break Bastila's resolve and persuades her to turn back to the light. In return, Bastila admits her love for Revan as well and promises to use her Battle meditation to aid the Republic fleet. Revan then leaves to confront his old friend and apprentice—Malak.
+Malak tries once more to delay Revan by unleashing more battle droids upon him, but Revan proves more resilient than he had expected, making it past them and into Malak's chamber. A long duel ensues. Revan starts to overpower Malak who uses the technology of the Star Forge and the bodies of Jedi he had captured from the Jedi academy on Dantooine to fuel his power, restoring his lifeforce and strength to maximum levels. Revan releases the suffering Jedi one by one by destroying the machines containing them and allows them to become one with the Force. Malak is forced to rely on his own dark power and after a long battle, Revan finally succeeds in defeating Malak who expresses regret in his last moments before dying.
+Afterwards, Revan flees along with the rest of his companions, barely escaping the final destruction of the Star Forge. The entire group is awarded the Cross of Glory, the highest citation of bravery in the galaxy at the time, in a ceremony on the unknown world's surface and Revan himself is welcomed back into the Jedi Order as the "Prodigal Knight."
+
+Assumption ends here.
+Major characters
+This is based on the canonical male light side version of the game.
+
+This section of the article assumes that the player chooses only "light side" options in the course of the game. Alternate stories are noted in the "Behind the scenes" section. Note: The events in this section may or may not have been confirmed as canon within the Star Wars Legends continuity.
+Revan
+
+"The Dark Lord Revan is dead. I am a servant of the light now."
+―Revan
+ Main article: Revan
+
+Revan is the main protagonist of Knights of the Old Republic. As the Dark Lord of the Sith and Master of Darth Malak, Revan was led into a trap where a Jedi strike team, led by Bastila Shan, infiltrated his flagship and, unknowingly helped by Revan's own apprentice, captured him. Revan was badly wounded and his mind was nearly destroyed from the battle so the Jedi Council, in a bold move, programmed him with a new identity, one that is loyal to the Galactic Republic. Enlisted as a Republic soldier, Revan is caught up in events that lead him to rejoin the Jedi Order as a Padawan and travel the galaxy in search of enigmatic Star Maps in an attempt to foil the efforts of the Sith Empire of the Star Forge. During his journey he is accompanied by various beings who are all determined to help him in his quest, especially Bastila Shan, with whom he developed a Force bond. Along the way, Revan is continuously confronted with situations that test his loyalty to the Jedi Order and the light side of the Force. Inevitably, the amnesiac Revan's memories begin to surface and he unearths his past, hidden from him by the combined efforts of the Jedi Order's lead Masters. The quest reaches a climax atop the Temple of the Ancients on the planet of Lehon, where Revan ultimately rejects the Dark side of the Force and travels to the Star Forge, a large space factory that the Sith Empire is using to construct a conquest fleet, and confronts his former apprentice, Malak. Revan and his companions prove to be victorious and Revan is proclaimed the Prodigal Knight by the Jedi. For his efforts in destroying the Star Forge he is awarded the Republic's highest honor, the Cross of Glory.
+
+
+
+
+Darth Malak
+
+"Wipe this pathetic planet from the face of the galaxy."
+―Darth Malak ordering the destruction of Taris
+ Main article: Darth Malak
+
+Darth Malak is introduced as the reigning Dark Lord of his time and is the main antagonist. After following his former Sith Master, Revan, throughout the Mandalorian Wars and even to the dark side of the Force, this former Jedi Knight, believing himself to be stronger and more deserving, usurps Revan's title of Dark Lord, by ordering his own ships to fire upon the Dark Lord while the latter defends himself against the Jedi strike team led by Bastila Shan. Malak felt confident that he would destroy both of his enemies at the same time. With his new position among the Sith, Darth Malak ruthlessly and systematically begins his reign of terror, either subduing or destroying the planets of the galaxy, his forces apparently limitless. Eventually, he learns that Bastila had not died in the attack, and desiring her Battle Meditation, begins a galaxy-wide hunt for her. Time and time again she eludes his capture and Malak becomes intrigued by the rumors of her new companions. Malak charges his Admiral, Saul Karath, with the task of capturing the group, which he does in an ambush from the bridge of Malak's flagship, the Leviathan. Here it is revealed that the now redeemed Revan, in fact, did not die in the attack. In a series of events, Malak is finally able to capture Bastila and turn her to the dark side under continued torture. Retreating to the Star Forge with his new apprentice, Malak fully intends to end the life of his former master and destroy the Republic with Bastila's Battle Meditation. His plans are shattered when Revan is able to bring Bastila back to the light side and he forfeits his life in a final battle with his former master, Revan.
+
+
+
+
+Saul Karath
+
+"In war even the innocent must die."
+―Saul Karath
+ Main article: Saul Karath
+
+Saul Karath was a famous Republic Admiral, mentor to Carth Onasi, who became a turncoat after he bombarded Telos IV as a show of faith for his new allies, the Sith. This led Carth down a dark path as it killed his wife and caused his son to go missing. Karath replaced another Admiral as leader of the Sith Fleet, reporting directly to Darth Malak. On Malak's orders, he coordinated the Destruction of Taris. He hired Calo Nord to hunt down the amnesiac Revan. When Calo failed to do this, Saul submitted himself to Malak and was spared. Later, after Revan found the third Star Map, the Ebon Hawk was pulled into Karath's flagship, the Leviathan, via tractor beam. The crew was captured, save one unknown by Karath, and Saul personally interrogated Bastila, Carth, and Revan. He used Revan's love for Bastila as a weakness, torturing Bastila every time Revan answered his questions incorrectly. He stopped the interrogation but continued the torture, waiting for the arrival of Darth Malak. The trio escaped with the assistance of the other party member and fought their way to the bridge. Karath, after informing them that Malak would be there momentarily, engaged the three and was beaten. Moments from death, he called Carth over and revealed a secret to him. His trusted leader, the first person Carth had opened up to in years, was Darth Revan.
+
+
+
+
+Bastila Shan
+
+"I'm Bastila Shan, a member of the Jedi Order and a fleet commander for the Republic. Nobody 'owns' me!"
+―Bastila Shan
+ Main article: Bastila Shan
+
+Bastila Shan is a young Jedi Knight proficient from a young age in battle meditation who enters the story after she is saved by Revan from the Black Vulkars on Taris. She leads Revan to the Jedi Academy on Dantooine and encourages the council to take him on as a Jedi Initiate, which they reluctantly agree to do. Bastila and Revan realize that they share a Force bond that allows them to share visions of the Star Maps. Over the course of the party's adventure, she shows signs of rashness and vanity, as well as an attraction to Revan that culminates in a kiss aboard the Ebon Hawk. She is captured aboard the Leviathan after it is revealed that she preserved Revan's life after Malak betrayed Revan. She is tortured for several days by Darth Malak himself in an attempt to turn her to the dark side. He is successful, as Revan finds out atop the Temple of the Ancients when she tries in vain to convince him to join her. He refuses, and she flees from him to the Star Forge. Inside the space station, she uses her battle meditation to assist the Sith fleet while rendering the Republic forces less effective. Revan fights his way to her and they engage in a long duel. Revan overpowers her several times and uses their bond and love for one another to turn her away from the dark side. She then uses her battle meditation against the Sith fleet and is awarded the Cross of Glory in the end for assisting the Republic Fleet.
+
+
+Carth Onasi
+
+"I'm not a warrior, I'm a soldier. There's a difference. Warriors attack and conquer, they prey on the weak. Soldiers defend and protect the innocent—usually from warriors."
+―Carth to Canderous Ordo
+ Main article: Carth Onasi
+
+Carth Onasi is an intensely loyal Commander and expert pilot with the Republic at the time of his escape in an escape pod with one other soldier, the mind-wiped Revan, to Taris after the attack on the Endar Spire. Thus begins Carth's involvement in the adventure that will ultimately become a quest for the Star Maps and the destruction of the Star Forge. After escaping the attack on Taris aboard a stolen starship, the Ebon Hawk, Carth, Revan, Bastila and an ever growing number of companions, make their way to Dantooine, where Revan begins his training as a Jedi and Carth is officially assigned as pilot to the Ebon Hawk. Throughout the journey, Carth slowly reveals to Revan his past and obsession with killing his former mentor, Saul Karath, who is one of the individuals he blames for the death of his wife during the bombing of Telos IV. He comes to view Revan as a friend and is devastated when the group is captured aboard the Leviathan and Saul reveals to him that Revan is in fact the former Dark Lord of the Sith, before exacting his revenge on Saul. Carth is forced to reexamine his views regarding himself and Revan and comes to the conclusion that neither one of them are the same man they used to be and vows to help save Revan from himself and destroy the Star Forge. After the Battle of Rakata Prime, Carth is awarded the Cross of Glory and is promoted to Admiral.
+
+
+
+
+Canderous Ordo
+
+"I've killed many people. I can't say I'm proud of it, but I have. Criminals, competitors, businessmen, police… women, children…"
+―Canderous Ordo
+ Main article: Canderous Ordo
+
+Canderous Ordo is a jaded Mandalorian war veteran working as a mercenary for Exchange crime lord Davik Kang on Taris. He finds no honor nor challenge in his work and as the Sith occupy Taris, Canderous is more than ready to leave. He forms an ingenious plan to steal Davik's flagship, the Ebon Hawk and approaches Revan for help, claiming that only Revan has the necessary skills to follow the plan through to completion. Canderous travels with the group to Dantooine and decides that he will continue traveling with the Jedi, his former enemy, claiming that he will finally find worthy adversaries. His blunt personality and firm belief in the Mandalorian code causes friction between him and the rest of the crew, most notably Carth Onasi and Bastila Shan. In searching for the Star Maps, Canderous's respect for Revan grows and he gradually reveals details of his life to him. On the planet of Tatooine, Canderous's integrity is challenged by Jagi, a former subordinate from the Mandalorian War and he is called out to a duel. Revan's intervention is the deciding factor in the duel, for which he is grateful, yet compels him to rethink his Mandalorian beliefs. The revelation of Revan's past, after their escape from the Leviathan only serves to further cement Canderous's loyalty to Revan. He doesn't bother with distinctions between light and dark. To Canderous, there is only conviction that there is nothing more honorable than to fight for whom he considers to be the greatest warrior of their time. His involvement during the battle to destroy the Star Forge earns him the Cross of Glory.
+
+
+
+
+Mission Vao
+
+"Hey, don't treat me like I'm a little girl. I ain't no kid—I'm fourteen years old."
+―Mission Vao
+ Main article: Mission Vao
+
+Mission Vao is a young, wise-cracking, Twi'lek street urchin from the Lower City of Taris, who had been brought there as a very young child, and later abandoned by her shifty older brother Griff. She is originally recruited by Revan to use her less-than-reputable skills to gain entrance to the Black Vulkar base as part of a plan to rescue Bastila, but quickly becomes a permanent companion after her best friend, the Wookiee Zaalbar, pledges a life debt to Revan. She escapes the destruction of Taris and travels to Dantooine along with the other companions aboard the Ebon Hawk. At the Jedi Enclave she is recognized by her brother's former girlfriend, Lena, and learns that her brother was last seen on Tatooine. She tells Revan that she would very much like to find her brother and Revan agrees, finding it difficult to deny the cheerful girl. Despite her difficult childhood filled with lies and betrayals, Mission is bubbly and optimistic, often seeing the good in people, especially while tracking down her ne'er-do-well brother. Her independent and sometimes mischievous nature at times created some friction with Carth and Bastila, but they both cared for her and acknowledged the usefulness of her skills. Mission is one of the companions that is least disturbed by the revelation of Revan's past, claiming that he isn't the Dark Lord anymore, and she would stick by him for everything that he had done for her. For her part in the Battle of Rakata Prime, Mission is also awarded the Cross of Glory.
+
+
+
+
+Zaalbar
+
+«Unless you want someone threatened or a door bashed in, you should ask someone else.»
+―Zaalbar to Revan, on his abilities.
+ Main article: Zaalbar
+
+Zaalbar is the son of Wookiee Chieftain Freyyr and was born on the planet of Kashyyyk. He had been banished from his clan and labeled a madclaw for dishonorably using his claws to attack, before coming to Taris. He met Mission when she berated Black Vulkar gang members who were harassing him in the Lower City of Taris and the two became inseparable, with Zaalbar taking on the role of the young Twi'lek's protector. Shortly before the orbital bombardment of Taris, he is captured by Gamorrean slavers in the Undercity sewers. He is rescued by Revan, who had been persuaded to help by Mission. After overcoming his initial surprise at meeting another individual who speaks Shyriiwook, Zaalbar promptly pledges a life debt to Revan. The search for the Star Maps takes the companions to his homeworld of Kashyyyk, where Revan aids the Wookiees in expelling Czerka slavers and the restoration of Freyyr as Chieftain. Zaalbar is once again accepted by his clan and is looked upon as the successor of Freyyr. Despite this, he once again reaffirms his life debt to Revan, vowing to return to Kashyyyk only after the destruction of the Star Forge, for which he is granted the Cross of Glory.
+
+
+
+
+Jolee Bindo
+
+"I'm old, dammit. I'm allowed to be enigmatic when I want to be!"
+―Jolee Bindo
+ Main article: Jolee Bindo
+
+Jolee Bindo is an aging Jedi who has spent the last twenty years in a self-imposed exile deep in the Shadowlands of Kashyyyk. Revan first encounters Jolee during his search for the Star Map on Kashyyyk, during which Jolee's help is necessary. Cryptic and close-mouthed about his past, other than revealing that he had fought the Sith in the Great Sith War, Jolee announces his intention to travel with Revan claiming that he can see the swirl of destiny surrounding the Padawan and is curious to discover how it will end. Throughout the adventure, Jolee gradually reveals pieces of his past. He tells Revan of his days as a smuggler and his reasons for leaving the Jedi Order, effectively labeling him as a Gray Jedi. His most startling revelation concerns his wife, Nayama and her fall to the dark side. Jolee is adamant in his conviction that love is important and advises Revan to remember that. The revelation of Revan's past is no surprise to him, since he had already come to that conclusion earlier. He believes that the Force wants him to help Revan and that impression is reinforced at the Temple of the Ancients, at which he experiences a Force vision that prompts him and Juhani to accompany Revan into the temple. His participation in the destruction of the Star Forge earns him the Cross of Glory.
+
+
+
+
+Juhani
+
+"We WILL defeat Malak and save the Republic from the Sith threat once and for all!"
+―Juhani on the Temple of the Ancients
+ Main article: Juhani
+
+Juhani is a volatile Cathar Jedi Knight who joins Revan and his companions in their quest to find the Star Maps after she is pulled back from the dark side during the amnesiac Revan's final test to become a Padawan on Dantooine. As an infant, Juhani's parents had fled with her from their homeworld of Cathar, after the Battle of Cathar during the Mandalorian Wars, to Taris. The death of her father forces her mother into taking loans from the Exchange and when her mother dies, Juhani is sold into slavery to pay off the debts. She is rescued from this fate by the Jedi who come to Taris during the Liberation of Taris. Enamored by the charismatic leader of the Jedi, who she later finds out was Revan, Juhani vows to become one herself and makes her way to the Jedi Enclave at Dantooine. She is eventually taken on as a Padawan by Jedi Master Quatra, who recognizing the difficulty a Cathar has in reconciling their hot-tempered nature with the Jedi code, allows Juhani to believe she had been killed by her in an aggressive duel. Distraught by her actions, Juhani falls to the dark side until her fateful meeting with Revan. After her redemption, Juhani learns that her master had not been killed and it was but a final test. She realizes that she must let go of her anger and finally does so with Revan's help after sparing the life of the individual, Xor, who was responsible for her father's death and was to buy her as a slave. The revelation of Revan's past only serves to strengthen Juhani's resolve to not give into the dark side and she, along with Jolee, plays an important role in aiding Revan at the Temple of the Ancients on Lehon. Juhani is awarded the Cross of Glory for her role in the destruction of the Star Forge.
+
+
+
+
+HK-47
+
+"Disclosure: I am a versatile protocol and combat droid, fluent in verbal and cultural translation. Should your needs prove more... practical, I am also skilled in highly personal combat."
+―HK-47 sells himself
+ Main article: HK-47
+
+HK-47 is a Hunter-Killer assassin droid that is built by Revan towards the end of the Mandalorian Wars and is used not only to dispatch his enemies, but also as a Jedi hunter during the Jedi Civil War. Sometime before Revan's capture by the Jedi, HK-47 is sent on an unknown assassination assignment and is lost. He eventually finds himself in the shop of Yuka Laka, an Ithorian who fitted HK with a restraining bolt. He sat in the shop's corner for a while swearing revenge against Yuka for the bolt and unwittingly claiming to have been built by Systech Corporation until an amnesiac Revan walked in the door during his search for the Star Forge. Revan purchased HK from Yuka and noticed problems with his memory core, it was missing data. HK is bought by Revan for his knowledge of the Sand People dialect and is instrumental in brokering an end to the Sand People attacks on Anchorhead. Revan is eventually able to restore some of his skills and lost experiences. It turned out that HK had been in the service of many important people such as a senator, a Hutt named Bochaba, and a low level Systech officer, they also learned that HK had personally killed most of his former masters. After a certain point, Revan can no longer repair him and he stays a member of the party through the events aboard the Leviathan. After the amnesiac Revan learns of his former identity, more of HK's memory returned as it was programmed to do after he again knowingly meets his former master and true creator. The revelation that Revan is in fact his original master is the stimulus needed to fully unlock his memory. He is pleased to be reunited with his master and accompanies Revan for the rest of the journey.
+
+
+
+
+T3-M4
+
+"Dwoooo...."
+―T3-M4
+ Main article: T3-M4
+
+T3-M4 is a T3-series utility droid who is built and customized by Janice Nall on Taris to be a master slicer. He is originally commissioned by Exchange crime lord Davik Kang to infiltrate the Sith military base as part of the plan to escape Sith martial law, but instead, he is bought by Revan at the suggestion of Canderous Ordo. T3-M4's skills are highly appreciated by Revan and he becomes a permanent crew member of the Ebon Hawk.
+
+
+Assumption ends here.
+Continuity
+After Tales of the Jedi
+Set shortly after the Star Wars: Tales of the Jedi comic books from Dark Horse, the game bears little resemblance in appearance and aesthetics to the classic Star Wars games of the Clone Wars or Galactic Civil War eras. However, while the Tales of the Jedi series shows the galactic civilization to have an archaic retro-like aesthetic and technology (semi-organic skeletal ships with wings and membranes, stone buildings, etc.) the Knights of the Old Republic is more space-like and futuristic, yet the interval between them is only a few decades.[source?] One example of these changes was the use of navcomps and blasters in place of the hyperspace beacons and pulse-wave blasters of the Tales of the Jedi setting. The redundancy of the hyperspace beacons in particular would have dramatically reshaped the astrographic and strategic realities for space travel in the galaxy.
+Additionally, the game provided a full history of Tatooine and also explained the origins of Kashyyyk's ecosystem. It also offers up an alternate theory as to the original home planet of Humans by having a Sand People historian remark on the player's similarity to the ancients of their people, kidnapped by the Rakata many years before, implying that Tatooine is in fact the planet on which Humans originated. In order to emphasize its place in continuity, there are references and future events (like a possible first contact with the Yuuzhan Vong).
+As the game is set during a period long before the familiar films, the creators modeled their 'universe' on many characters and details from the movies, as well as including mentions of conceptual ancestors (for example, the Sith fighter is considered to be an ancestor of the later Sith Infiltrator) but not always (while Sith troopers seem to be based on the movie-era stormtroopers, it doesn't mean the clone troopers were historically based on them). Other examples of this include the modeling of characters, such as Darth Malak, a towering Dark Lord of the Sith who speaks through a vocabulator due to an old injury, very similar to Darth Vader, and the inclusion of Wookiee and droid companions as part of the player's party. Additionally, many scenes have direct analogues in the films, such as the capture of the main character's freighter smuggling vessel, the Ebon Hawk, by tractor beam, just as the Millennium Falcon was captured by the Death Star, followed by a prison break and loss of a character on board a vessel, which is very similar to the Death Star scene in the original film.
+There are also errors in regard to previous events such as the formation of the Republic. Several characters refer to it as having been established 15,000 years prior, as opposed to the canonical 21,000 (although facts in the load file does state the Republic as being more than 20,000 years old).
+
+Alternatives in gameplay
+Knights of the Old Republic has the option to choose different paths at points in the story, such as the order of planets visited and whether Revan followed the light or dark side. Also depending on character alignment, some Force powers will cost more or less "Force points" if Revan corresponds or conflicts with each ones' individual alignment. Core abilities, however, do not change cost.
+Several party members can be killed off by Revan, depending on the actions in dialogue the player takes. For example, it is possible to kill Juhani in one of two ways: provoke her to attack during the mission to remove the taint from Dantooine's fields, or kill her, this time alongside Jolee Bindo, later on in the game while on Lehon. The deaths, or their suggestion in conversation, of party members often have significant influences in dialogue to follow with the remaining crew, and in the case of Mission Vao, as stated in the section directly below, can even lead to party members attacking Revan willingly.
+The encounters with Darth Bandon and Calo Nord can happen on different planets depending on the order selected by the player. Calo appears on the first planet where a Star Map is successfully found and Bandon appears on the third. Both will have different people accompany them for every planet.
+While the order in which the Star Map planets are visited can vary based on player preference, the numeric designations of the level modules and cutscene video files in the game itself are arranged in the order Tatooine–Kashyyyk–Manaan–Korriban. This order is also stated by Bastila Shan in a cutscene played during the Leviathan level, and is the preferred order listed in the officially licensed strategy guide.
+
+Dark side endings
+Because of the various paths the player can take, most importantly the choice of a male or female Revan, the dark side ending can vary from player to player.
+
+Male
+Assuming the player has chosen a male Revan, he fights his way up to the roof of the Lehon temple and encounters Bastila, who has been corrupted and turned to the dark side by Malak. To prove her worth as Malak's apprentice, she engages Revan in a duel, though the latter manages to fight her off. Bastila sees his potential as a Sith and seduces him with talk of power, regaining his place as Dark Lord, and a pledge to be his lover (If the Bastila romance was completed). Tempted, Revan agrees, earning his Sith eyes and hair, and to prove his loyalty, he slays Juhani (if she was spared earlier in the game) and Jolee. They return to the Ebon Hawk and inform the rest of the party of what has happened and that they plan to usurp Malak's mantle. Torn by the news, Carth runs into the forest, unwilling to believe that Revan could have done such a thing; the droids are programmed to follow Revan, regardless of his alignment; Canderous is overjoyed to be able to fight alongside such a leader and warrior; and Zaalbar has sworn a lifedebt to him, granting Revan his loyalty for as long as he lives. Mission is shocked at the revelation of what has transpired and refuses to join the Sith in their conquest after seeing what happened to Taris. She refuses to believe that Revan would kill her in cold blood. Revan can either kill her himself, or use the Jedi mind trick and the leverage of Zaalbar's lifedebt to persuade the Wookiee into doing the deed. (It is also possible to kill Zaalbar as well if Revan takes him on the Star Forge after having him kill Mission, if Revan fails to persuade him, or if Revan simply decides to kill Mission personally.) Onboard the Ebon Hawk, Darth Revan and Bastila receive a transmission from Admiral Forn Dodonna and decide to use the attacking Republic fleet as a distraction to get close enough to the Star Forge to land in a hangar bay by promising to use Bastila's Battle Meditation to support them. They successfully land the Ebon Hawk on the Star Forge and meet a Jedi strike team sent by the Republic. Dark Jedi attack the hangar and Revan assists them in fending off the attackers, after they are victorious Revan decides that they are no longer useful to him and he kills the Jedi as well. Before proceeding to fight Darth Malak, Revan also has the chance to kill Bastila as well onboard the Star Forge. Finally, after killing Darth Malak himself, a gathering on Rakata Prime takes place and Revan officially repossesses the title of Sith Lord.
+
+Female
+The female version of the dark side ending is virtually the same as the male one, though Carth notices the dark change in Revan as the story progresses. He decides to confront her about her falling and promises to protect Revan from going down a path of self-destruction.
+After she gives in to Bastila's offer to join her in killing Malak, she would tell the group the same thing as the male Revan would, though Carth's reaction varies slightly, saying that she is not the woman he fell in love with (if the Carth romance was completed) before running away. Uncaring, she still kills Mission and flies up to the Star Forge in the Ebon Hawk. After Revan kills Malak she heads back to the hangar to find Carth. Carth tells her that the Republic fleet picked him up from the planet surface and that he informed them of her betrayal. He also told them that he couldn't give up on her. He started to persuade her back to the light when Bastila entered the room and convinced Revan to stay on her current path. Revan kills Carth, and returns to Rakata Prime to retake her title as Sith Lord. In a cut-scene that did not make it to the final game, Revan had a third option to kill Bastila and die aboard the Star Forge with Carth. It was not placed in the final version because the developers did not have enough time for finishing the game. However, these features can be returned to the game through modding.
+
+Female light side ending
+If Revan was specified as a woman, the player and Carth would start flirting on the surface of Taris right away, though they would verbally fight later over Carth's trust issues. The story in the middle is the same until they reach Lehon. After Revan returns from the temple, Carth and Revan admit their feelings for each other. Flying up to the Star Forge and fighting Malak goes exactly the same as the male version but Revan and Bastila don't profess their love for each other.
+A female Revan can also tease Carth throughout the story. It can eventually get to the point where he wants to spank her to teach her a lesson. If the Carth romance is not completed, Juhani may say that she loves Revan. Nothing else is said between them about it for the rest of the game.
+
+Cut content
+Cut content features the planet Sleheyron and an alternate ending for a dark side female PC's romance with Carth, which the player could choose to kill Bastila and die on the Star Forge with Carth.
+In an attempt to truly complete the game, Team Hutt from Holowan Laboratories has been attempting to restore Sleheyron.
+Several sequences were also cut out of Tatooine. One of them was that the Star Map was originally supposed to be located in the maw of a Sarlacc pit and the character had to find a way to reach it without being eaten. Another was the character could become a messiah figure to the Sandpeople and would lead them against Czerka Corporation. There was also cut content relative to the planet Taris, cut mostly due to pacing issues rather than time constraints. Initially, there was to be another level to the Vulkar base there, containing a spice lab, staff housing, and the base's heating control system. The player had to retrieve the keycard that would access the garage elevator from a Vulkar who would trade said keycard in return for some spice. Another means of taking it from the gang member was by killing them. The level was accessed by an elevator that would have been the armory in the final version and was guarded by the same pair of droids. Also included on the cut level was a female Twi'lek pazaak playing member who was left with a male voiceover in the data left by Bioware. The Gammorean slavers were to have a base in the Undercity and there was going to be a trash compactor puzzle sequence in the sewers as well.
+Additionally, there were two other confirmed sequences cut from the game. One takes place on Manaan if the player beats Bendak Starkiller in the dueling ring on Taris. Deadeye Duncan shows up in the docking area, telling how he escaped the destruction of Taris and asks if he can use the name Mysterious Stranger. The second takes place on Korriban: Bastila was originally intended to be allowed to accompany Revan to the Academy. If Revan provoked Lashowe during their first meeting then Bastila would have interjected.
+Though not necessarily cut content, as it was left unsuppressed in the game files, Bastila was originally supposed to have a scene with Nemo, an elderly Jedi from the enclave. They'd known each other for a long time and he asked her if she'd gotten her anger problems under control, revealing that her master used to dump water over her head when she became frustrated. This scene is impossible to view outside of modding as when Bastila rejoins the party so they can go to the mysterious ruins, Nemo has already gone there ahead of them and died.
+Some of this content, including the Deadeye Duncan encounter on Manaan, the alternate dark side ending, and the extra scene with Bastila can be restored in the form of community-created add-on modifications. These are only available for the PC version.
+
+2014 reboot
+After the Expanded Universe was rebranded Star Wars Legends in 2014, Pablo Hidalgo confirmed that many fans of Knights of the Old Republic worked at Lucasfilm, and concepts from the game have been used in Star Wars: The Clone Wars or products released after the announcement. These include Rakata Prime, Taris, Malachor, terentateks, Manaan and the selkaths, Sphyrna-class Hammerhead corvette, and pazaak.
+
+Game mechanics
+Star Wars: Knights of the Old Republic is a role-playing game in the Star Wars universe and is set across different planets. The player's character and his party collect numerous items, armor, weapons, and learn many abilities along the way.
+
+Items
+Many different objects can be found by Revan scattered all through the game world in different containers such as in footlockers, baskets, and corpses. What items can be taken from the containers are determined through random drops unless said item is required for story progression. Items can also be bought or sold in shops spread through the game through an exchange of credits, the game's monetary unit.
+All items are organized in an inventory which can be reached in the start menu at any point outside of a conversation. It has the ability to filter in a specific type of item, such as weapons, so that only that kind of item is shown. It is organized into all items, utility items, usable items, equippable items, quest items, and new items, which are marked by a purple coloring. Utility items include stimulants which raise stats for a short amount of time, medical items such as medpacs or antidote kits used for regaining health or fixing status effects, multiple types of grenade that cause different damage types or status effects, many kinds of armable mines, armor, weapon, and lightsaber upgrades such as different crystals; as well as spikes for hacking computers or bypassing security. Quest items include items required for advancing the story, such as the Star Map data, or for completing many side-quests, such as datapads. Useable items also include medical items, stimulants, and equippable personal shields.
+Droids used different sets of items for healing and equipment, aside from weapons.
+
+Equippable items
+Equippable items are collected throughout the game and are used to enhance the party. There are nine equipment slots per character: headgear, implants, armor, gloves, personal shields, right and left shoulders; a belt, and weapons; right and left hands. Headgear includes anything worn upon the character's head, such as a helmet or visor, and normally are used for either protection or sensory enhancement. Implants are placed in the character's body to enhance certain statistics and sometimes grant Feats or Skills. Armor is worn on the body for protection and for modesty. Personal shields are worn upon a character's shoulders and they create a protective force around a person in order to protect that person from damage for a limited time. Belts are worm around the character's waist and increase certain stats. Weapons are tools the character can use to kill enemies both organic and droid. They are carried with the character's hands and increase damage dealt by the character. Unarmed combat is also possible and skill with this style of fighting increases as the character gains levels.
+
+Weapons
+Weapons are items found throughout the game world, primarily in shops or in lockers. They can be equipped to each character individually, held in the hand equip slots, and add to the amount of damage points a character can deal to opponents. Generally, one weapon can be placed in each hand but some, such as blaster rifles or bowcasters, must be held with both hands, forfeiting the second slot. The player can decide which weapon is in the character's dominant hand, which will never receive penalties in combat, while the other becomes the off-hand and will receive damage and accuracy deductions because of it. These penalties can be offset by certain advanced Feats or Skills as well as using a short blade in this hand. Certain weapons require specific Feats and Skills to be learned before they can be used.
+There are two forms of weapons found in Knights of the Old Republic, melee, generally swords, and ranged, blasters. Each has different strengths, weaknesses, damage types, and upgrades. Weapons can be upgraded using workbenches and different parts gathered by the player.
+Melee weapons are used to assist hand-to-hand combatants at short range. These include various swords, staves, vibroweapons, axes, and lightsabers. These weapons cannot be used at a distance but have great effect against unarmed opponents or those carrying blasters. However, because of their limited range, a character using a melee weapon is vulnerable to an enemy using a blaster at a distance and must first close that distance before they can attack. Certain swords and other melee weapons can be enhanced by using a workbench to add parts collected throughout the game. There are three specific parts that can be added to enhance applicable standard melee weapons. Lightsabers are another form of melee weapon that can only be used by a Jedi. They come in various colors and with various damage types, depending on different lightsaber crystals inserted in three crystal chambers.
+Ranged weapons are all the various blasters and other guns the player can use. They are used primarily from long range, many combatants preferring to switch to swords when pressed into close quarters combat. They use another set of upgrade items, different from melee weapons, including a hair trigger and scope which increase the weapon's accuracy or damage.
+
+Levels
+A Level is a number used to define the strength of a character. As a character gains Levels, by accumulating experience, they earn points which are spent on augmenting the character's Attributes and Skills. They are also given the opportunity to learn new Feats and Force-sensitives have access to the discovery new Force powers.
+Experience, abbreviated XP, is accumulated by completing various quests and defeating enemies. After reaching a certain number, which rises with each level, the character will "Level Up" and be given the chance to allot the new points to the attribute fields. Equal experience is given to all party members, regardless of whether the character was in the three-man squad used on the planet or not. Revan begins the journey at Level 1 and after he character surpasses Level 6, new characters are brought into the party at Level 6 with all experience gained through the journey shared with them.
+
+Skills
+In all there are eight Skills, each corresponding to an Attribute.
+
+Computer Use, related to Intelligence, is used to calculate the chances a character will be able to slice a computer to perform a variety of situational tasks, such as disable a gun turret or open a magnetically sealed door. These tasks require the use of computer spikes, though the number needed is decreased by one for every four points put into this skill.
+Demolitions, also related to Intelligence, is used to set, disable, or destroy mines around the game world. At least one point must be put into this skill to be able to access any actions relative to mines or to use grenades. Mines come in a variety of types, though there are three difficulties: easy, medium, and high difficulties; each requiring better rolls to complete, though a very bad roll can result in a mine's premature explosion.
+Stealth, related to Dexterity, is required to use the stealth field generator items and entering Stealth Mode. While in Stealth Mode, the character is put into Solo Mode and is undetectable, if the enemies Awareness stats are beaten by the character's Stealth stat, even if they are in the enemy's direct line of sight. While in Stealth Mode, a character must walk slowly unless they have learned the Stealth Run Feat, other than that, they will be able to perform all tasks except communication or combat. These disrupt the field and eject the character from Stealth Mode.
+Awareness, related to Wisdom, is used to determine if a character notices mines or enemies using stealth technology. It is always active, though there is a penalty to its effectiveness if the character is running.
+Persuade, related to Charisma, is a skill that only Revan can learn. It determines whether or not the player can convince an NPC of something. The option only appears in conversation when there is something a character is hiding or knows that could help the character in a quest. It can also be used to convince them to do something. Certain requests can be harder to convince a character to do: asking a guard to lift a bounty on someone's head would be easier than asking the same guard to leave his post.
+Repair corresponds with Intelligence, it allows the character to perform repairs on machines and droids with the use of Parts. The more complicated the repair, the more Parts are needed but for every four points put into this Skill, the total number required is decreased by one. This skill also increases the total number of Vitality Points that are recovered when using a repair kit on T3 or HK.
+Security is the final skill related to Intelligence and it is used to access electronic locking devices. It is used to deactivate locks on door and storage containers. The Skill can be augmented by using security spikes and tunnelers, the more advanced of the two. At least one point must be invested for this skill to be usable by a character and as an alternative, a character may use its current weapon to bash doors down or open crates.
+Treat Injury is related to Wisdom. The more points invested in this skill, the more vitality points are regained when the character uses a medpac on itself or another character. Advanced medpacs and life support packs further amplify this Skill during their use.
+Character alignment
+The player's Force attunement is determined by actions taken through the game, mostly through conversation. As the player talks to the many NPCs through the game worlds, he will be confronted with moral dilemmas and it is up to the player to decide how he should respond. While talking to the characters, the player is given options for him to say, some that lean towards the light side of the Force, others that lean to the dark, and some more neutral responses that lead to no shifts. These decisions, when they lead to an alignment shift, culminate in accumulating light side or dark side "points" which are used to determine how far the character leans to one side.
+As the player leans more to the dark side, his appearance begins to change, relative to the character model chosen at the beginning of the game. Generally, he becomes pale and his hair color starts to fade. When player leans completely to one side, he earns "Mastery" of that side and surges with the Force, earning a bonus in battle.
+
+Classes
+Upon starting a new game, the player is given a choice between three different classes for the player character: Scout, Scoundrel, and Soldier. Each has the player character's abilities develop in a different way, accentuating different styles of play, and grant different starting abilities. After the player character is taken to Dantooine, he becomes a Jedi Padawan. At this point, the player is given another choice between three classes. These in turn alter the way the player character's Force powers develop. The three classes are Jedi Consular, Jedi Sentinel, and Jedi Guardian.
+
+Development
+Star Wars: Knights of the Old Republic was originally conceived around the year 2000 and was initially planned to be a game set around or during the Clone Wars, something like the storyline of Star Wars: Episode II Attack of the Clones, it was even supposed to have a subplot focusing on clones but it was cut so it wouldn't spoil the then upcoming movie. BioWare was also given the option to set the game 4,000 years in the past and the company chose the latter as it would give them more creative freedom. The team originally pitched the name Star Wars: Age of the Jedi to LucasArts, and even developed a logo with gold bars around the words in the style of the original movies. However, LucasArts rejected that title, as it was too close to Star Wars: Episode VI Return of the Jedi; BioWare's team was confused by this comparison, but a LucasArts representative suggested Knights of the Old Republic instead, and the name stuck.
+The game is almost the same as it was envisioned by its creators graphically and storywise, with no major changes being made to it aside from the naming of Bastila Shan and Juhani. Initially, Juhani was to be named Bastila Shan and Bastila was to be a character that originally appeared in Star Wars: Tales of the Jedi, Vima Sunrider. However, because of issues about the name 'Sunrider', this was changed to the current version.
+From the beginning, the game was planned to have a cinematic feel, where you could see your character, and your party members at all times, like in the movies. The process with LucasArts was very smooth and only minor objections were made by the production giant, only about the way some things looked or how an event flowed with the plot. Having up to date lighting and the best graphics of its time made this game more incredible than the designers could have imagined.
+When creating the planet of Taris, the game developers wanted to give the player an extended look at a world as an introduction. The decision to ravage the surface came with the need to provide the games's antagonist, Darth Malak, with a defining, establishing moment. They wanted to use the player's affinity for the world to make this action more poignant and a strong representation of just how evil Malak was.
+
+Re-releases
+
+"We are very excited to be able to bring these classic interactive titles to our platform; it has been a long-time dream of ours. Luckily, Disney Interactive is always looking for new ways to give players access to content, so this was a natural partnership. To those gamers playing these titles for the first time…May the Force Be With You!"
+―Guillaume Rambourg, GOG.com managing director
+     Star Wars: Knights of the Old Republic GOG.com re-release logo  
+Knights of the Old Republic has been made available several times since its initial release. The game was released on the online distribution service Steam, along with its sequel Star Wars: Knights of the Old Republic II: The Sith Lords. The game has also been released on iOS and Android systems by Aspyr Media and is available on the Apple App Store and the Google Play Store.
+On October 28, 2014, Disney Interactive announced a new partnership with GOG.com, a DRM-free digital distributor, that would allow for more than twenty classic Lucasfilm video game titles to be re-released digitally for modern computers, including Star Wars: X-Wing and Star Wars: TIE Fighter and Star Wars: Knights of the Old Republic. In November of 2021, the game was released on the Nintendo Switch system.
+
+Critical reaction
+
+"Last Issue, the review for Prince of Persia: The Forgotten Sands incorrectly spelled the name 'Malik' as 'Malak.' A surprising number of readers noticed; we'll just hide behind the classic 'We wish every game was Knights of the Old Republic' excuse."
+―Game Informer staff
+The general critical response was enthusiastic even before its release. After its unveiling at E3, it won three Best Game at E3 awards in 2001 from Womengamers, GameSpot, and Voodoo Extreme as well as ranking on Next Gen Magazine's list.
+Since its release, KotOR has won one-hundred-twenty-six awards. Forty-eight were various forms of Game of the Year Award, including Game Developers Choice Awards'' best game of the year, BAFTA Games Awards' best Xbox game, and IGN's Best Overall Game of the year. IGN also ranked KotOR 3rd on its list of the best films and video games of the 2000-2009 decade. Furthermore, it has won thirty-three Best RPG Awards such as the Interactive Achievement Award for best console RPG and best computer RPG, and GameSpot's Best Xbox Game of 2003 and Best Role-Playing Game of 2003,
+The game also won awards for its story and writing such as the Game Developers Choice Award for excellence in writing and for original character, HK-47, and an Interactive Achievement Award for best story/character development. IGN gave it awards for Best Soundand Best Story, and ranked it as the 27th Best Game of All Time. In 2007, the plot twist in KotOR was ranked number two in Game Informer's list of the top ten video game plot twists of all time and number 10 on Screwattack's "Top 10 OMGWTF Moments".
+The game is also part of The Xbox Platinum Series/Classics for sales in excess of 1 million units.
+One of the criticisms of the game is that it can involve extensive back-tracking. That is, the player has to make frequent, time-consuming, in-game trips back to a previous locations along passages that have already been explored and cleared.
+The soundtrack was composed by Jeremy Soule for which he won RPG Vault's Outstanding Achievement in Music Award, and GameSpy's Best Music: PC Award.
+The Los Angeles Times listed Knights of the Old Republic as one of the most essential works of the Star Wars Expanded Universe.
+When Knights of the Old Republic was ported to iPad in 2013 by Aspyr Media, there was renewed interest in the game, overwhelmingly positive. Multiple game review outlets still considered it one of the best Star Wars games ever made ten years later. The IGN reviewers were allowed early access to the app. They praised the port's handling of the touch interface on all counts, from combat to menu maneuvering, aside from movement, which required dragging a finger across the screen.
+Star Wars: Knights of the Old Republic receives "universal acclaim" reviews and was tagged as a "must-play" game on reviews aggregator Metacritic holding a metascore of 94/100 on Xbox, 93/100 on PC and 88/100 on iOS.
+
+Metaseries
+Star Wars: Knights of the Old Republic II: The Sith Lords
+
+"The call of The Sith Lords is impossible to resist."
+―Joe Juba, in his review of Knigts of the Old Republic 2
+     Star Wars: Knights of the Old Republic II box art.  
+Star Wars: Knights of the Old Republic II: The Sith Lords was developed by a different studio, Obsidian Entertainment, using an improved version of the engine from the first game. Development for this game began about the same time the first game released, July 15, 2003. It was released for Xbox in December 2004 and PC on February 8 2005. Dubbed "KotOR 2" by fans, the game takes place five years after the events of the original. From the onset, the tone of the galaxy was set to be much more dark than the first game and the state of affairs for the Jedi Order was to be bleak.
+The game introduces a new protagonist, the Jedi Exile, on a mission to reunite the members of the Jedi High Council following the Jedi Order's virtual elimination at the hands of two Sith Lords, Darths Sion and Nihilus and game features a brand new party, with HK-47, T3-M4, and Canderous Ordo, now using his new title as Mandalore, returning. The Exile travels to six new worlds as well as two planets, Dantooine and Korriban, that were part of the original game. The Ebon Hawk also returns as the player's primary form of transportation.
+The game also added hundreds of new weapons and characters to Star Wars canon. It referenced Tales of the Jedi as well as other works from the Old Republic era and even events such as the fall of the Galactic Republic in 19 BBY. Many characters' personal effects, such as Thon's Robe and Ludo Kressh's War Sword, could be found by the Exile as random drops. Some characters from the first game reappeared in roles of varying importance. Vrook Lamar makes a reappearance as one of the Jedi Masters that the Exile seeks out during her journey. Revan and Malak both make reappearances as visions to the Exile in the Tomb of Ludo Kressh and both characters are defeated by the Exile. Bastila Shan and Carth Onasi, both major players in the Republic, return in minor roles.
+The sequel introduced a brand new "Influence" system, which is not unlike the way both games calculate dark side/light side shifts. It keeps track of what your party members feel about your responses to certain situations or how you talk to them in conversation. By gaining amounts of "Influence" with a certain character, through player actions or choice of conversational topics, they may reveal more about themselves or allow you to instruct them in the ways of the Force so they can re-class as Jedi. Depending on the "Influence" level you have with a party member, that party member will be either drawn closer to or further from your alignment, unlike the first game. Many of the characters in your party will have different appearances based on their alignments, just as the player's character does.
+Another new game mechanic introduced is the prestige class. After a certain point in the game, the Exile may choose one of three classes. If the Exile follows the light side of the Force, the Jedi Watchman, the Jedi Master, or the Jedi Weapon Master classes are available. Alternatively, if the Exile chooses to follow the dark side, the choices are changed to a counterpart of the Light Side classes, namely the Sith assassin, Sith Lord, and Sith Marauder respectively. If the Exile shifts her Force alignment after choosing a prestige class, the class automatically changes to reflect that by becoming its counterpart.
+
+Star Wars: Knights of the Old Republic comics series
+
+"It's all Star Wars, whenever it takes place."
+―John Jackson Miller
+     The first issue of the comics series  
+On January 25, 2006 the first issue of the comic book series Star Wars: Knights of the Old Republic was printed. The series was created to serve as a sequel to Tales of the Jedi and a prequel to Knights of the Old Republic began production with Dark Horse Comics. First announced in July of the previous year at Comic-Con, the series would take place between 3964 and 3963 BBY, detailing the life of a brand new protagonist named Zayne Carrick, a Padawan framed for the murder of his fellow students at the Jedi Tower training academy on Taris. The comics also coincided with the run up to and outbreak of the Mandalorian Wars, a conflict heavily referenced in both the original Knights of the Old Republic. The series ended with Demon, Part 4, the 50th issue, released on February 17, 2010.
+
+Game characters
+Many characters from Knights of the Old Republic cross paths with Carrick. They take many roles throughout, from major galactic players to one-off characters and some befriend him.
+Carth Onasi, first as a helmsman aboard the Republic ship, Courageous, in Issue 8, and later as a Lieutenant in his next appearance, Issue 14 onwards. In Issue 31 he was removed from his bridge post for "losing" Carrick after fighting alongside the Jedi and developing a friendship with him. He was reassigned to a squadron of Aurek-class strikefighters, Onasi allowed Carrick to escape from him yet again, this time from an engagement between the Aurek squadron and the starship Moomo Williwaw. Carrick slinked away in the junkhauler Deadweight. In the penultimate issue, Onasi was given back his post, on the bridge of the Inexpugnable-class Swiftsure, and fought to capture a slaver ship called the Gladiator.
+Saul Karath made an appearance, still an officer with the Galactic Republic as the story takes place before the Bombing of Telos IV, he first appears in Issue 8 aboard the Courageous, he presided over the Republic forces during several battles of the series, earning the rank of Rear Admiral. Later, before Issue 30, he was given command of the Swiftsure, ending a Sith Acolyte's rebellion against the Jedi Order. Karath bombarded the estate of Jedi Master Lucien Draay, where the Acolyte was hiding. The bombing killed many and was officially blamed on the Mandalorians, with Karath publicly prociaming his everlasting vengence on the accused. This incident would cast Karath as a hero in the minds of the Republic's citizens. He last appeared in Issue 49, commanding the Swiftsure when it captured the Gladiator. After that Zayne Carrick, who had anonymously informed Karath of the Gladiator's presence, asked for passage to the planet Osadia. Though Karath initially refused, Carrick threatened to reveal the truth of the bombing of Draay's estate, which prompted the Admiral to order the Hammerhead-class Testament to take the former Padawan to his destination.
+Mission Vao, then a five year old, met Carrick in the streets of Taris and became fast friends with him; going so far as to bite the leg of the then-Hidden Bek Brejik to protect the Jedi, though she was quickly pulled away by her brother Griff. Though Griff and Mission only appeared in Issue 22, Brejik, with Zaerdra, appeared both in 22 and Issue 23. Gadon Thek appears, still with his sight, in every issue of the Knights of Suffering arc spanning from Issue 22 to Issue 24.
+The Jedi Enclave Council makes an appearance early in the series, Issues 2 (a flashback), 4, and 6 though its members appear in other parts of the series as well. Zhar Lestin appears only in Issues 4 and 6; Vrook Lamar appears in 4, 5, and 6, last appearing in Issue 33 leading the assault on the Draay Estate before being forced back due to Karath's orbital bombardment. Vandar Tokare also appears in Issues 2, 4, 6, 9 (in a hologram), 12, 29, and last appeared in Issue 31, hearing Jedi Master Xamar confess to being part of the cabal known as the Jedi Covenant. Dorak, who appeared in the game as a member, was not yet on the council.
+Revan himself appeared in the series, still a Jedi Knight at the time, but his face was always shrouded. The prequel issue marked his first of four showings, though he would be heavily referenced as the series progressed. He was known as "the Revanchist" as the leader of a faction of Jedi who followed him to battle during the Mandalorian Wars. Issue 42 revealed how Revan took up his name. On the planet Cathar a dozen years before the events of the comics, Revan and the original Revanchists went to Cather searching for proof of the Mandalorian atrocities. There, he found the mask of a Mandalorian interred in the sand, which triggered a vision of the Battle of Cathar for all present. The group witnessed a group of Cathar running from a band of Mandalorians when one of the attackers pleaded for her commander to stop the attack as they'd already taken the world. Her words were unheeded, and she was killed alongside the Cathar; who were virtually rendered extinct. Revan put on the mask, which he would later wear as the Dark Lord, and swore to keep it on until the Mandalorians were wholly defeated. Issue 42 was also his final appearance.
+The future Darth Malak, then known by his birth name of Alek Squinquargesimus, was depicted as Revan's loyal friend and a devout Revanchist. Alek was featured even more extensively than his "Master," garnering appearances in 15 separate issues, giving context for several of his features in the game. For example, in Issue 29, an arrest warrant was placed on members of the Revanchists and when Malak was involved in a plan crafted by Zayne Carrick in Issue 31, he got his trademark blue tattoos before taking up the moniker "Captain Malak" as a disguise to avoid capture. The comics serial also revealed that Malak fell in love with an Arkanian Offshoot woman named Jarael, who did not feel the same for him. On a few occasions, he offered her a place among the Revanchist ranks, though when Carrick kissed her in Issue 42, claiming they were together, he abandoned his ambitions.
+Cassus Fett, a Mandalorian whose weapon and armor can be found in the first Knights of the Old Republic game, appears extensively in the comics series as a high ranking Mandalorian soldier who is second only to Mandalore the Ultimate, another individual mentioned in the game. Fett first appeared in Issue 8 and would appear in Issues 23, 27, 42 (in a flashback), and 49. The Mandalore appeared in Issues 8, 20, and 21. A Dynamic-class freighter also makes an appearance in a tactical hologram that Fett used to monitor a battle taking place in Issue 23.
+
+Star Wars: Knights of the Old Republic 3
+     Concept art of Naresha  
+Another sequel, entitled Star Wars: Knights of the Old Republic 3, was put into extensive preproduction around 2004, but the game was canceled when LucasArts hit an economic rough patch. Rogue Leaders: The Story of LucasArts, a 2008 reference book by Rob Smith covering the history of LucasArts, first confirmed the pre-production of this sequel. Some planets were also confirmed to have been planned to make appearances in the game: Coruscant; Mandalore with a location known as Mandalore City; Rodia; and Taloraan. However, no plot details were released except that one of the characters in the game, with accompanying artwork, was a female named "Naresha." As the game was cancelled, its planned original elements, such as Naresha and Mandalore City, are considered non-canon as all other elements that were confirmed by the book had appeared in other Star Wars works.
+After the second game was completed, Obsidian Entertainment expressed desires to make another sequel, as did LucasArts. However, no plans of making another Knights of the Old Republic game have come to fruition although representatives from LucasArts have said that they would not abandon the "franchise."
+
+Star Wars: The Old Republic
+ See also: Star Wars: The Old Republic
+     Promo art of Star Wars: The Old Republic  
+Formerly projected for a Spring 2011 release, BioWare began development on Star Wars: The Old Republic in December 2005 at a satellite studio in Austin, Texas constructed primarily for the project. In the following months, rumors persisted about the development of a new Knights of the Old Republic video game, spurred on by leaks from within BioWare and LucasArts and the registration of "Star Wars The Old Republic" and "The Old Republic" as LucasArts trademarks, before being officially announced at an invitation-only event for the press on October 21. During the E3 2008 expo, Electronic Arts executive John Riccitello confirmed that the MMO would be connected to the Knights of the Old Republic series of video games. During the event, the official press release was finally published. A trailer, titled "Deceived," was released on June 1, 2009 at E3 2009. It depicted the Sacking of Coruscant, narrated by a Sith Lord named Darth Malgus. Another, entitled "Hope" was released at E3 2010 and featured the Battle of Alderaan.
+Dark Horse Comics released an online-only comic book series entitled Star Wars: The Old Republic, Threat of Peace based on the game, also covering its backstory and introducing some characters expected in the game. The comic is released in three page spurts every other Friday. Satele Shan, a character who appeared in the comics series, has been confirmed as the descendant of Bastila Shan. After three arcs were released and Threat of Peace was completed, a new serial entitled Blood of the Empire began being released on the same schedule. A series of in-universe videos chronicling the history of the galaxy leading up to the game was also released, detailing in reverse chronological order how the political setting of the game had been in the making for thousands of years. In Timeline 8: The Jedi Civil War and Timeline 9: The Mandalorian Wars covered the events behind Star Wars; Knight of the Old Republic, featuring what lead to the fall of Revan and Malak. These retconned the reasons that the pair set out in search of the Star Maps. They established that instead of seeking them out of their own volition, the two had met the Sith Emperor when they journeyed into deep space following the Mandalorian Wars. It was the Emperor who turned them to the dark side and told them to find the Maps.
+Additionally, the game spawned a series of novels, the third of which was entitled The Old Republic: Revan. It served as a sequel to both Knights of the Old Republic games and explained what happened to both Revan and the Jedi Exile, identified as Meetra Surik, after they both left for the Unknown Regions. What Revan had remembered after the events of his game was the Sith Empire and he had left to fight them. As a tie-in to The Old Republic, it also served as a connection between the two games and the MMORPG. The novel saw Revan placed in stasis, from which he was woken three-hundred years later as a character in The Old Republic. Bastila Shan also appeared in the game as a projection from the Noetikon of Secrets, a holocron that contained her wisdom and personality alongside two other Jedi Masters. HK-47 had searched for his master for the full three centuries before being reunited with him and assigned to defend a Rakatan space station called the Foundry.
+Taris returns for The Old Republic as a world still in ruins, the former ecumenopolis being claimed by forest growth and a rakghoul infestation. Primarily, white rakghouls like those from Knights of the Old Republic are encountered, though they have evolved over the centuries, but certain ones are colored red as seen in the comic series. Early on, the creative team behind The Old Republic wanted to include a planet from the original game and they felt Taris would be an interesting setting, allowing players to see after so long what had happened to the surface of the iconic planet. As a major planet, it was cast as a world that was very symbolic to both of The Old Republic's factions, the Sith and Republic. The Republic wanted to rebuild it to show they could beat back the Sith while the Sith wanted to stop the restoration efforts to prove the Republic could not overcome them.
+
+Credits
+
+By type 
+
+
+Cast
+
+Uncredited cast
+
+Crew
+
+Uncredited crew
+
+Special thanks
+
+
+Cast
+
+
+
+Jennifer Hale—"Bastila Shan"
+Raphael Sbarge—"Carth Onasi"
+John Cygan—"Canderous Ordo"
+Rafael Ferrer—"Darth Malak"
+Kristoffer Tabori—"HK-47," additional voices
+Kevin Michael Richardson—"Jolee Bindo"
+Courtenay Taylor—"Juhani"
+Catherine Taber, as "Cat Taber"—"Mission Vao"
+Ed Asner—"Master Vrook"
+André Sogliuzzo—additional voices
+April Stewart—additional voices
+Bill E. Martin—additional voices
+Brian George—additional voices
+Cam Clarke—additional voices
+Carolyn Seymour—additional voices
+Charity James—additional voices
+Charles Dennis—additional voices
+Daniel Hagen—additional voices
+Daran Norris—additional voices
+Ethan Phillips—additional voices
+Frank Welker—additional voices
+Gregg Berger—additional voices
+Grey DeLisle—additional voices
+Hillary Huber—additional voices
+J. Karen Thomas—additional voices
+James Horan—additional voices
+Jason Marsden—additional voices
+Jess Harnell—additional voices
+Jim Ward—additional voices
+Kevin Schon—additional voices
+Kimberly Brooks—additional voices
+Liz Marks—additional voices
+Lloyd Sherr—additional voices
+Michael Gough—additional voices
+Michael Ralph—additional voices
+Nathan Carlson—additional voices
+Neil Kaplan—additional voices
+Neil Ross—additional voices
+Nick Jameson—additional voices
+Pat Fraley—additional voices
+Pat Pinney—additional voices
+Paul Amendt—additional voices
+Phil LaMarr—additional voices
+Rino Romano—additional voices
+Robin Atkin Downes—additional voices
+Robin Sachs—additional voices
+Simon Templeman—additional voices
+Steve Blum—additional voices
+Sumalee Montano—additional voices
+Tamara Phillips—additional voices
+Tom Kane—additional voices
+
+Crew
+
+
+
+Director—Casey Hudson
+Producers—Bryan Davis, Derek French, Michael Gallo, Casey Hudson, Ray Muzyka, Greg Zeschuk
+Assistant producers—Nathan Plewes, Julio Torres
+Writers—Drew Karpyshyn, James Ohlen
+Manual writer—Lukas Kristjanson
+Original Music—Jeremy Soule
+Art direction—David Hibbeln, Derek Watts
+Sound department
+Sound producer—David Chan
+Dialogue editor—Elliot Anders
+Lead sound designer—Julian Kwasneski
+Additional sound designer—Clint Bajakian, David Chan, Todd Davies, Paul Gorman, John Henke, Steve Sim
+Original Star Wars sound effects—Ben Burtt
+Sound implementation—David Chan, Steve Sim
+Senior voice editor—Cindy F. Wong
+Assistant voice editor—Harrison Deutsch, Coya Elliott
+Sound implementation—John Henke
+Dialogue recordist—Kevin Newson
+Assistant dialogue recording engineer—Eric Lewis
+Sound mixer: cutscenes—Jory K. Prum
+Voice coordinator—Jennifer Sloan
+Art department
+2D GUI artist—Rob Sugama
+3D artists—Dean Andersen, Nolan Cunningham, Mike Grills, Lindsay Jorgensen, Jessica Mih, Matthew Park, Arun Ram-Mohan, Sean Smailes, Mike Spalding, Jason Spykerman, Mike Trottier
+Manual 3D art—Gregory Harsh
+Director of concept art—John Samuel Gallagher
+Concept artists—John Samuel Gallagher, Sean Smailes, Mike Spalding, Derek Watts
+Manual cover illustration—Gregory Harsh
+Additional artist—Matthew Goldman
+Core game designer—David Falkner, Steven Gilmour, Casey Hudson, Drew Karpyshyn, James Ohlen, Preston Watamaniuk, Derek Watts
+Lead designer—James Ohlen
+Assistant lead designer—Preston Watamaniuk
+Designers—Jason Booth, David Gaider, Lukas Kristjanson, Cori May, Andrew Nobbs, Brad Prince, Aidan Scanlan, Peter Thomas, John Winski
+Visual effects
+2D artist—Sung Kim, Mike Leonard, Rob Sugama, Rion Swanson
+3D visual effects artist—Alex Scott
+Pre-rendered cutscene artist—Christopher Mann, Sherridon Routley, Gina Welbourn, Shane Welbourn
+Senior systems administrator—Craig Miller, Chris Zeschuk
+Animation department
+Lead animator—Steven Gilmour
+In-game animator—Carman Cheung, Chris Hale, Kees Rijnen, John Santos, Larry Stevens
+Lead cutscene animator—Tony de Waal
+In-game cutscene animator—Carman Cheung, Mark How, Rick Li, Kees Rijnen, Larry Stevens, Henrik Vasquez
+Other Crew
+Director of programming—Scott Greig
+Lead programmer—Mark Brockington, David Falkner
+Assistant lead programmer—Ryan Hoyle, Matthew Keast
+Programmer—Marc Audy, Robert Babiak, Sophia Chan, Howard Chung, Michael Devine, Dan Fessenden, Aaryn Flynn, Andrew Gardner
+Additional programmer—Brook Bakay, Korin Bampton, Rob Boyd, Brendan Holmes, Stan Melax, Charles Randall
+Lead graphics programmer—Jason Knipe
+Graphics programmer—John Bible, Patrick Chan
+Lead tools programmer—Don Moar
+Tools programmer—Owen Borstad, Timothy Smith
+Lead tester—Phillip Berry, Kip Bunyea
+Assistant lead tester—Adam Goodwin
+Game tester—Tony Christopher, Randy Chu, Nick Dengler, Henry Hall, Brandon Hutt, Bradley Johnson, Jason Lee, James Morris, Clay Norman, Ian Parham, Maximillian Alexander Roghi
+Additional compatibility tester—Michael Blair, Bryan Finoki, Eric Knudson
+International lead tester—David Chapman
+Director of sales—Meredith Cahill
+Marketing director—Liz Allen, Scott McLaughlan
+International marketing—Kathy Apostoli
+Internet marketing—Melissa Federoff, Tony Deweese, Jim Passalacqua
+Promotional art director—Michael Sass
+Promotional artist—Todd Grenier
+Channel marketing manager—Timothy Moore
+Marketing coordinator—Chris Susen
+Sales analyst—Greg Robles
+Director of public relations—Tom Sarris
+Public relations—Kathy Apostoli
+Manager of quality services—Paul Purdy
+Director of quality assurance—Philip DeRosa
+Quality assurance supervisor—Chip Hinnenberg
+Quality assurance lead—Scott Langevin
+Quality assurance—Alain Baxter, Nathan Frederick, Mitchell T. Fujino, Darrick Collins, Keith Hayward, Scott Horner, Curtis Knecht, Bob McCabe, Ryan Plamondon, Chris Priestly, Iain Stevens-Guille
+Human resources coordinator—Theresa Baxter
+Materials manager—Evelyne Bolling
+LucasArts I.S.—Chris Brody, James Carpenter, John Hannon, Daryll Jacobson, Chris McAllister, Gary Pfeiffer, Richard Quinones, Victor Tancredi-Ballugera, Joe Shum
+Quality services computer technician—John Carsey
+Licensing: LucasArts—Stacy Cheregotis, Chris Gollaher, Kristi Kaufman
+Compatibility technician—Darryl Cobb, Brian Deksnys, Kristie Garber, Ben Estabrook
+Communications coordinator—Teresa Contesta
+Xbox Live content coordinator—Derek French
+Product support supervisor—Jay Geraci
+Receptionist—Agnes Kokot Goldman
+Benefits administrator—Kelley Grainger
+Payroll—Kelley Grainger
+Communications manager—Brad Grier
+Manual designer—Gregory Harsh
+Manager of international production—Darren Hedges
+Director of sales operations—Jason Horstman
+Director of finance—Richard Iwaniuk
+Compatibility technician—Kim Jardin
+DVD/CD burning goddess—Wendy Kaplan
+Systems administrator—Julian Karst, Nils Kuhnert
+Director of human resources—Mark Kluchky
+Human resources assistant—Leanne Korotash
+Content coordinator—Justin Lambros
+Accountant—Jo-Marie Langkow
+Sales coordinator—Mike Maguire
+Compatibility technician—Dan Martinez
+Senior web developer—Robin Mayne
+Web developer—Jeff Marvin
+Public relations specialist—Alexis Mervin
+Internet community relations specialist—Ronda Scott
+Voice-over director—Darragh O'Farrell
+Communications Associate—Tom Ohle
+International coordinator—Jennifer Sloan
+Special Thanks
+Very special thanks—George Lucas
+Special thanks—Andy Alamano, Liz Allen, Peggy Ary, Mark Barbolak, R.J. Berg, Mary Bihr, Haden Blackman, Randell Breen, John Carsey, Tina Carter, Leland Chee, Karen Chelini, Chris Christou, Diarmid Clarke, K.C. Coleman, Donna Czerwinski, Emily Duval, Jonathan Epp, Matthew J. Fillbrandt, Candice Gindy, Denise Gollaher, Scott Greig, Rachel Hardwick, Simon Jeffery, Malcolm Johnson, Jeff Kliment, Jon Knoles, Brent Knowles, Kevin Martens, Dan Martinez, Steve Matulac, Tom McCarthy, Camela McLanahan, James Miller, Shara Miller, Mike Nelson, Brent Oster, Deo Perez, Brett Schnepf, Jannett Shirley-Paul, Seth J. Steinberg, Lisa Swart, Reeve S. Thompson, Matthew Urban, Keith Warner, Dan Whiteside, Adria Wilson, Clint Young
+
+
+

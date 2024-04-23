@@ -1,0 +1,108 @@
+Sandcrawler
+
+
+Production information
+
+Manufacturer
+Corellia Mining Corporation
+
+
+Type
+Mobile refineryTreaded ground transport
+
+
+Cost
+50,000 credits
+
+
+
+Technical specifications
+
+Length
+40 meters
+
+
+Height/depth
+20 meters
+
+
+Maximum speed
+30 kph
+
+
+Engine unit(s)
+Drive engine
+
+
+Power plant
+Reactor-fueled power generators
+
+
+Sensor systems
+Forward-mounted sensors
+
+
+Crew
+Miners, engineers, and vehicle technicians (50)Jawas (100)
+
+
+Passengers
+30, or 60 Jawas
+
+
+Cargo capacity
+1,500 droids
+
+
+Cargo handling systems
+Salvage loading cranes (2)Magnet craneExtendable repulsorlift tube
+
+
+Other systems
+Electrostatic repellers
+
+
+
+Usage
+
+Role(s)
+TransportationShelter
+
+
+Affiliation
+Jawas
+
+
+[Source]
+
+
+
+"I need droids, weapons, mining tools. I know these sandcrawlers are old mining vehicles. You stole them."
+―Adwin Charu, while trying to negotiate with Jawas inside a sandcrawler
+Sandcrawlers, originally called digger crawlers, were huge mobile fortresses used by the Jawas as their transport and shelter in the deserts of Tatooine and Arvala-7. They were equipped with a magnetic suction tube for sucking droids and scrap into the cargo hold. They also contained cargo holds, scrap-processing facilities, and quarters for crew and passengers. They were large enough to fit an entire Jawa clan.
+
+Description
+     Sandcrawler schematics  
+Built by the Corellia Mining Corporation as massive mobile mining and smelting facilities, sandcrawlers appeared to be tracked boxes that towered some 20 meters above the surrounding landscape. They possessed a triangular front that held the cockpit. Corellian Mining intended the vehicles to serve as semi-autonomous mining operations in rough frontier worlds. Their primitive but reliable nuclear fusion steam reactors and multiple tracks ensured they seldom broke down, and their weight and armor meant they could survive the harshest environments.
+Sandcrawlers were robust and customizable enough that they could be found all across the galaxy and were put to uses they were not originally designed for. For example, on the desert planet of Tatooine, many sandcrawlers had been left behind by various mining consortiums over the years, only to be salvaged and repurposed by nomadic Jawa clans. The Jawas roamed the wastes of Tatooine looking for scraps to sell and trade to moisture farmers and nomads. Sandcrawlers had large cargo holds, scrap-processing facilities, and enough space for quarters for an entire Jawa clan.
+For the Jawas, sandcrawlers functioned as transportation as well as shelter from the harsh desert environment. They were commonly used as part of scavenging operations and contained large cargo holds capable of holding 1,500 droids at a time. Magnetic suction tubes allowed the Jawas to quickly suck droids and pieces of scrap into the holds. Inside the sandcrawler, Jawas typically utilized the reactor to melt down scrap metal and droids.
+
+History
+
+"Do you think they'll melt us down?"
+―C-3PO, to R2-D2, after being taken captive aboard a sandcrawler
+     A convoy of sandcrawlers on Tatooine  
+Sandcrawlers were in extensive use long before the Clone Wars during a mining boom on Tatooine. Shortly after, it was discovered that the most valuable minerals were found on the surface, making sandcrawlers unnecessary. Since then they had been abandoned, and were eventually picked up by the Jawas to use as mobile bases.
+Sandcrawlers were in use on Tatooine during the Clone Wars and the Galactic Civil War. Shortly before the First Battle of Geonosis, Jedi Padawan Anakin Skywalker encountered a convoy of sandcrawlers while searching for the Tusken Raiders who kidnapped his mother. The Jawas operating the sandcrawlers were able to point him towards the Tusken Raider camp.
+
+     Obi-Wan Kenobi approaching a Sandcrawler during his exile on Tatooine  
+Twenty-two years later, shortly before the Battle of Yavin, protocol droid C-3PO and astromech droid R2-D2 escaped a battle between the Rebel Alliance and the Galactic Empire in orbit of Tatooine. After their escape pod crashed in the desert, the droids went in separate directions before they were both captured by Jawas. The two were brought aboard a sandcrawler, and the Jawas put them up for sale at the Lars moisture farm. Owen Lars and his nephew, Luke Skywalker, originally agreed to purchase Threepio and R5-D4, but R5 intentionally exploded his motivator, convincing Lars and Skywalker. Lars and Skywalker ultimately purchased Artoo, along with Threepio.
+The droids they purchased carried stolen plans to the Death Star, the Empire's deep-space mobile battle station. The next day, the Empire traced the droids to the Jawas. The Empire learned that the Larses had purchased the droids, and Imperial forces proceeded to kill the Jawas and damage the sandcrawler to make it appear as if Tusken Raiders had attacked the vehicle. The carnage was later discovered by Skywalker, the droids, and Jedi Master Obi-Wan Kenobi, who cremated the Jawas' bodies.
+
+     Cobb Vanth is rescued by the arrival of a Jawa sandcrawler.  
+Following the Battle of the Great Pit of Carkoon, a band of Jawas scavenged a suit of corroded Mandalorian armor from the desert. The gangster Adwin Charu traveled to the Jawas' sandcrawler to recover it. However, he was accosted and beaten in combat by Cobb Vanth, a self-styled lawman.
+In 9 ABY, a sandcrawler was used by a group of Jawas on Arvala-7 to transport scavenged parts from the Razor Crest, a ship belonging to the Mandalorian bounty hunter Din Djarin. The Jawas fended off the bounty hunter as he attempted to scale the crawler to halt it and recover the parts. They were later approached by the Mandalorian and the Ugnaught Kuiil to negotiate the parts. After agreeing on a trade, they were all transported to a mudhorn's nest where the bounty hunter recovered its egg.
+
+Behind the scenes
+Sandcrawlers first appeared in the 1977 film Star Wars: Episode IV A New Hope, the first installment of the Star Wars original trilogy.
+The original design was completed by Colin Cantwell and it was inspired by a NASA-designed rover. Ralph McQuarrie later revised the original design. Lucasfilm's headquarters in Singapore was desgined to look like McQuarrie's design and is called the "The Sandcrawler."
