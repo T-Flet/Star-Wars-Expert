@@ -1,71 +1,34 @@
-# Chains
-from langchain_core.pydantic_v1 import BaseModel, Field
+from langchain_core.messages import HumanMessage, AIMessage
 
-# To serve the app
-from fastapi import FastAPI
-from langchain_core.messages import BaseMessage
-from langserve import add_routes, CustomUserType
+import gradio as gr
 
+# For local testing; not used in the Huggingface space
 import dotenv
 dotenv.load_dotenv()
 
+# The available backends to use in the app
 from ingredients import script_db, woo_db, full_chain, compound_chain, agent_executor
 
 
+def chat(message, history):
+    formatted_history = []
+    for human, ai in history:
+        formatted_history.append(HumanMessage(content = human))
+        formatted_history.append(AIMessage(content = ai))
+    
+    # Yes, the context chat entries are not fed back to the system, but that is probably for the best due to input size limit
+    response = compound_chain.invoke(dict(input = HumanMessage(content = message), chat_history = formatted_history))
 
-## Type specifications (with unusual class-scope fields)
-
-class StrInput(BaseModel):
-    input: str
-
-class Input(BaseModel):
-    input: str
-    chat_history: list[BaseMessage] = Field(
-        ...,
-        extra = dict(widget = dict(type = 'chat', input = 'location')),
-    )
-
-class Output(BaseModel):
-    output: str
+    return response['answer']
 
 
-
-## App definition
-# NOTE: The chat playground type has a web page issue (flashes and becomes white, hence non-interactable; this was supposedly solved in an issue late last year)
-
-app = FastAPI(
-    title = 'Star Wars Expert',
-    version = '1.0',
-    description = 'A Star Wars expert chatbot',
-)
-
-
-# Basic retriever versions
-
-# add_routes(app, script_db.as_retriever())
-# add_routes(app, woo_db.as_retriever())
-
-
-# History-aware retriever version
-# add_routes(app, full_chain.with_types(input_type = StrInput, output_type = Output), playground_type = 'default')
-
-
-# Agent version
-
-# add_routes(app, agent_executor, playground_type = 'chat')
-# add_routes(app, agent_executor.with_types(input_type = StrInput, output_type = Output))
-
-
-# Non-agent chain-logic version
-
-add_routes(app, compound_chain.with_types(input_type = StrInput))
-# add_routes(app, compound_chain.with_types(input_type = Input), playground_type = 'chat')
-
-
-
-if __name__ == '__main__':
-    import uvicorn
-
-    uvicorn.run(app, host = 'localhost', port = 8000)
+gr.ChatInterface(
+    chat,
+    textbox = gr.Textbox(placeholder = 'Ask something about Star Wars', container = False, scale = 7),
+    title = 'Star Wars Expert', description = 'I am knowledgeable about Star Wars; ask me about it',
+    examples = ['Do you know the tragedy of Darth Plagueis the Wise?', 'What power source did the Death Star use?', "Who participates in Han's rescue from Jabba? And where is the palace?"],
+    cache_examples = False, # This would avoid invoking the chatbot for the example queries (it would invokes it on them on startup instead)
+    theme = 'soft', retry_btn = None, undo_btn = 'Delete Previous', clear_btn = 'Clear'
+).launch()
 
 

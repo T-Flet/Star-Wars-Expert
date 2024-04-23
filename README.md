@@ -1,15 +1,18 @@
 ---
 title: Star-Wars-Expert
 colorFrom: yellow
-colorTo: yellow
-sdk: docker
+colorTo: blue
+sdk: gradio
 app_file: app.py
 pinned: false
+license: mit
 ---
 
 # Star-Wars-Expert
-A LLM with RAG making it knowledgeable about Star Wars plot and data.
 
+A LLM with RAG making it knowledgeable about Star Wars lore (built with LangChain, GPT-3.5 and Gradio).
+
+Chat with it [on its Huggingface space](https://huggingface.co/spaces/T-Flet/Star-Wars-Expert) (or clone the repo and `python app.py`).
 
 
 ## Data
